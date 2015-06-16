@@ -4,12 +4,12 @@ title: Publications
 permalink: /papers/
 ---
 
+Dong H. Ahn, Jim Garlick, Mark Grondona, Don Lipari, Becky Springmeyer,
+Martin Schulz, "Flux: A Next-Generation Resource Management Framework for
+Large HPC Centers", 10th International Workshop on Scheduling and Resource
+Management for Parallel and Distributed Systems, Minneapolis, MN,
+September 2014. [[pdf]](papers/Flux-SRMPDS-final.pdf)
 
-List of papers could co here, they could actually be curated in a separate
-included file and built up from YAML headers as I do on my website, but that's
-probably overkill for now.
-
-Just add more files of this type with their own links and they will show up in
-the header's links.
-
-
+Dong H. Ahn, Jim Garlick, Mark Grondona, Don Lipari, "Vision and Plan
+for a Next Generation Resource Manager", LLNL DRAFT technical report,
+May 2013. [[pdf]](papers/Flux-vision-draft.pdf)
