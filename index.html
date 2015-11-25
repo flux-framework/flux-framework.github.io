@@ -1,23 +1,22 @@
 ---
 layout: default
+title: The Flux Resource Management Framework
+overview: true
 ---
 
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+<section class="intro">
+  <div class="grid">
+    <div class="unit whole center-on-mobiles">
+      <p class="first">A Flexible Framework for Resource Management, built for your site.</p>
+    </div>
+  </div>
+</section>
+<section class="about">
+  <div class="grid">
+   <div class="unit two-thirds center-on-mobiles">
+   <p>
+   Flux Framework is a suite of projects, tools and libraries which may be used to build
+   site-custom resource managers at High Performance Computing sites.
+   </p>
+   </div>
 </div>
