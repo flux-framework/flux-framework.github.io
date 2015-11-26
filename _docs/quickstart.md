@@ -13,6 +13,10 @@ A quick introduction to Flux and flux-core.
 
 ### Building the code
 
+Ensure the latest list of requirements are installed.
+The currrent list of build requirements are detailed
+[here](../requirements).
+
 Clone current flux-core master:
 
 {% highlight bash %}
