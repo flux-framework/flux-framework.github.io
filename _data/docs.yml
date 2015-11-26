@@ -1,6 +1,7 @@
 - title: Getting Started
   docs:
   - home
+  - requirements
   - quickstart
 
 - title: Meta
