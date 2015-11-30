@@ -21,6 +21,10 @@ and packages. `travis-dep-builder.sh` requires `pip` and `luarocks` to fetch pyt
 ~/flux-core.git $ ./autogen.sh && ./configure 
 {% endhighlight %}
 
+Alternately [spack](https://github.com/scalability-llnl/spack) can be used to
+build all flux dependencies with either `spack install flux` or `spack diy
+flux@master` from inside a clone of the flux repository.
+
 ---
 
 * toc
