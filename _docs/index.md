@@ -28,5 +28,9 @@ Current projects include:
    scheduling plugins that provide specific scheduling behavior.
  
  * [capacitor](https://github.com/flux-framework/capacitor) - implements a
-   bulk load utility on top of flux-core.
-
+   bulk execution manager using flux-core.  Capacitor provides functionality
+   like that of job arrays or tools like
+   [CRAM](https://github.com/scalability-llnl/cram), except with the full
+   capabilities of flux and its job scheduling facilities like flux-sched.  If
+   you need to run and monitor thousands of jobs in an allocation, and don't
+   want an email from your sysadmins, consider flux and capacitor.
