@@ -4,14 +4,29 @@ title: "Quickstart"
 permalink: /docs/quickstart/
 ---
 
-***
+---
+
 A quick introduction to Flux and flux-core.
 
 * Generate TOC:
 {:toc}
-***
+
+---
 
 ### Building the code
+
+#### Spack: Recommended for curious users
+
+Flux maintains an up-to-date package in the spack develop branch, which builds
+all dependencies and flux itself from the current head of the master branch.
+If you're already using [spack](https://github.com/scalability-llnl/spack),
+just run the following to install flux and all necessary dependencies:
+
+{% highlight bash %}
+$ spack install flux
+{% endhighlight %}
+
+#### Manual: Recommended for developers and contributers
 
 Ensure the latest list of requirements are installed.
 The currrent list of build requirements are detailed
