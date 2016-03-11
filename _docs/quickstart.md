@@ -124,11 +124,10 @@ in `PATH`, so within the initial program shell, running `flux` will
 work as expected:
 
 {% highlight bash %}
-$ flux
 Usage: flux [OPTIONS] COMMAND ARGS
-    -x,--exec-path PATH   prepend PATH to command search path
-    -M,--module-path PATH prepend PATH to module search path
-    -O,--connector-path PATH   prepend PATH to connector search path
+  -S, --secdir=DIR       Set the directory where CURVE keys will be stored
+  -c, --config=DIR       Set path to config directory
+  -h, --help             Display this message
 [snip]
 $
 {% endhighlight %}
