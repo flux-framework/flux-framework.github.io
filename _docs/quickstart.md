@@ -26,7 +26,7 @@ just run the following to install flux and all necessary dependencies:
 $ spack install flux
 {% endhighlight %}
 
-#### Manual: Recommended for developers and contributers
+#### Manual: Recommended for developers and contributors
 
 Ensure the latest list of requirements are installed.
 The currrent list of build requirements are detailed
