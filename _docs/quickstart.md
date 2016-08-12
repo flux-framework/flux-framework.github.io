@@ -61,9 +61,9 @@ target:
 $ make check
 Making check in src
 ...
-============================================================================
+==================================================================
 Testsuite summary for flux-core 0.4.0-8-gf289387
-============================================================================
+==================================================================
 # TOTAL: 1016
 # PASS:  1002
 # SKIP:  11
@@ -108,11 +108,6 @@ program" on rank 0 broker. By default, the initial program is an interactive
 shell, but an alternate program can be supplied on the `flux start`
 command line. Once the initial program terminates, the Flux session is
 considered complete and brokers exit.
-
-{% highlight bash %}
-$ exit
-$
-{% endhighlight %}
 
 By default, Flux sets the initial program environment such that the
 `flux(1)` command that was used to start the session is found first
