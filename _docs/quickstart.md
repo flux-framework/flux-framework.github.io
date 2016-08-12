@@ -61,12 +61,12 @@ target:
 $ make check
 Making check in src
 ...
-==================================================================
-Testsuite summary for flux-core 0.1.0
-==================================================================
-# TOTAL: 814
-# PASS:  804
-# SKIP:  7
+============================================================================
+Testsuite summary for flux-core 0.4.0-8-gf289387
+============================================================================
+# TOTAL: 1016
+# PASS:  1002
+# SKIP:  11
 # XFAIL: 3
 # FAIL:  0
 # XPASS: 0
@@ -87,34 +87,30 @@ To start a Flux session with 4 brokers on the local node, use `flux start`:
 
 {% highlight bash %}
 $ src/cmd/flux start --size=4
-[1448039605.299890] broker.info[0]: nodeset: [0-3] (complete)
-[1448039605.299939] broker.info[0]: starting initial program
 $
 {% endhighlight %}
 
 A flux session can be also be started under Slurm using PMI. To start
-by using `srun(1)`, simply run the `flux broker` command under a Slurm
-job. You will likely want to start a single broker process per node:
+by using `srun(1)`, simply run the `flux start` command without the
+`--size` option under a Slurm job. You will likely want to start a single
+broker process per node:
 
 {% highlight bash %}
-$ srun -N4 -n4 --pty src/cmd/flux broker
+$ srun -N4 -n4 --pty src/cmd/flux start
 srun: Job is in held state, pending scheduler release
 srun: job 1136410 queued and waiting for resources
 srun: job 1136410 has been allocated resources
-[1448043480.285957] broker.info[0]: nodeset: [0-3] (complete)
-[1448043480.286019] broker.info[0]: starting initial program
 $
 {% endhighlight %}
 
 After broker wireup is completed, the Flux session starts an "initial
 program" on rank 0 broker. By default, the initial program is an interactive
-shell, but an alternate program can be supplied on the `flux start` or 
-broker command line. Once the initial program terminates, the Flux session is
+shell, but an alternate program can be supplied on the `flux start`
+command line. Once the initial program terminates, the Flux session is
 considered complete and brokers exit.
 
 {% highlight bash %}
 $ exit
-[1448039876.435357] broker.info[0]: 0: shutdown in 0.500s: Exited
 $
 {% endhighlight %}
 
@@ -124,10 +120,10 @@ in `PATH`, so within the initial program shell, running `flux` will
 work as expected:
 
 {% highlight bash %}
+$ flux
 Usage: flux [OPTIONS] COMMAND ARGS
-  -S, --secdir=DIR       Set the directory where CURVE keys will be stored
-  -c, --config=DIR       Set path to config directory
   -h, --help             Display this message
+  -v, --verbose          Be verbose about environment and command search
 [snip]
 $
 {% endhighlight %}
@@ -152,14 +148,6 @@ ok:     [0-3]
 slow:   
 fail:   
 unknown:
-{% endhighlight %}
-
-The `flux topo` command may be used to visualize the topology of the
-current Flux session. To display a graphviz rendered graphic of the
-topology, use
-
-{% highlight bash %}
-$ flux topo | dot -Tpng | display
 {% endhighlight %}
 
 The size, current rank, comms URIs, logging levels, as well as other
@@ -190,10 +178,11 @@ level has been quieted, recent log messages for the local rank may be
 dumped via the `flux dmesg` command:
 
 {% highlight bash %}
-$ flux dmesg
-[1448039921.451059] broker.info[0]: nodeset: [0-3] (complete)
-[1448039921.451114] broker.info[0]: starting initial program
-[1448039921.688152] resource-hwloc.debug[0]: loaded
+$ flux dmesg | tail -4
+2016-08-12T17:53:24.073219Z broker.info[0]: insmod cron
+2016-08-12T17:53:24.073847Z cron.info[0]: synchronizing cron tasks to event hb
+2016-08-12T17:53:24.075824Z broker.info[0]: Run level 1 Exited (rc=0)
+2016-08-12T17:53:24.075831Z broker.info[0]: Run level 2 starting
 {% endhighlight %}
 
 Services within a Flux session may be implemented by modules loaded
@@ -202,16 +191,15 @@ query and manage broker modules, Flux provides a `flux module` command
 
 {% highlight bash %}
 $ flux module list --rank=all
-Module                 Size  Digest Idle Nodeset
-connector-local      752396 20C6257    0 [0-3]
-kvs                  858687 EACB509    0 [0-3]
-modctl               764858 EDBAD08    0 [0-3]
-barrier              737744 436327D idle [0-3]
-wrexec               737322 1AD1C03 idle [0-3]
-mecho                723754 C611661 idle [0-3]
-live                 788795 15CB1FE    0 [0-3]
-job                  735006 B04E94B idle 0
-resource-hwloc       750095 D0FB582 idle [0-3]
+Module               Size    Digest  Idle  S  Nodeset
+resource-hwloc       1139648 B1667DA    3  S  [0-3]
+barrier              1129400 578B987    3  S  [0-3]
+wrexec               1113904 87533D1    3  S  [0-3]
+cron                 1251072 CEB59B2    0  S  0
+kvs                  1306016 FF5317C    0  S  [0-3]
+content-sqlite       1131312 1B81581    3  S  0
+connector-local      1141848 65DB17D    0  R  [0-3]
+job                  1125968 2D10694    3  S  [0-3]
 {% endhighlight %}
 
 The most basic functionality of these service modules
@@ -220,8 +208,8 @@ handler registered by default with each module.
 
 {% highlight bash %}
 $ flux ping --count=2 kvs
-kvs.ping pad=0 seq=0 time=0.329 ms (54FD6!7054E!0!2A139)
-kvs.ping pad=0 seq=1 time=0.539 ms (54FD6!7054E!0!2A139)
+kvs.ping pad=0 seq=0 time=0.648 ms (1F18F!09552!0!EEE45)
+kvs.ping pad=0 seq=1 time=0.666 ms (1F18F!09552!0!EEE45)
 {% endhighlight %}
 
 By default the local (or closest) instance of the service is targeted, but
@@ -229,8 +217,8 @@ a specific rank can be selected with the `--rank` option.
 
 {% highlight bash %}
 $ flux ping --rank=3 --count=2 kvs
-3!kvs.ping pad=0 seq=0 time=0.819 ms (03064!7054E!0r!3!32F56)
-3!kvs.ping pad=0 seq=1 time=1.036 ms (03064!7054E!0r!3!32F56)
+3!kvs.ping pad=0 seq=0 time=1.888 ms (CBF78!09552!0!1!3!BBC94)
+3!kvs.ping pad=0 seq=1 time=1.792 ms (CBF78!09552!0!1!3!BBC94)
 {% endhighlight %}
 
 The `flux-ping` utility is a good way to test the round-trip latency
@@ -296,7 +284,7 @@ The `OWNER` field refers to a UUID of the requesting entity in the system
 not  a user identity.
 
 
-The second method for launching paralell jobs is a prototype based on
+The second method for launching parallel jobs is a prototype based on
 use of the Flux KVS for parallel job management termed "WRECK". The
 wreck prototype consists of a `flux wreckrun` frontend command,, and
 a `flux wreck` utility for operating and querying jobs run under the
