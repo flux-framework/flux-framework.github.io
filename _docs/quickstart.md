@@ -307,7 +307,7 @@ $ flux wreckrun -n128 ./hello
 {% endhighlight %}
 
  * Run a job and immediately detach. (Since jobs are KVS based, jobs can
-   run completely detached from any "front end" command)(
+   run completely detached from any "front end" command)
 
 {% highlight bash %}
 $ flux wreckrun --detach -n128 ./hello
