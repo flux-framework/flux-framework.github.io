@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: "Build prerequesites"
+title: "Build prerequisites"
 permalink: /docs/requirements/
 ---
 
@@ -52,7 +52,7 @@ v0.11 or greater.
 
 ### MUNGE
 
-* [libmunge](https://github/dun/munge) v0.5.11 or greater
+* [libmunge](https://github.com/dun/munge) v0.5.11 or greater
 
 ### hwloc
 
