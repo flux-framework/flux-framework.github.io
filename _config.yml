@@ -1,5 +1,7 @@
 markdown: kramdown
-highlighter: rouge
+kramdown:
+  input: GFM
+
 permalink: /news/:year/:month/:day/:title/
 excerpt_separator: ""
 
