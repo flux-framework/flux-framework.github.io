@@ -14,12 +14,12 @@ up to date in a Travis-CI helper script in the flux-core source,
 which can either be run by hand to download requirements, or viewed to determine latest required versions
 and packages. `travis-dep-builder.sh` requires `pip` and `luarocks` to fetch python and Lua dependencies:
 
-{% highlight bash %}
+```console
 ~/flux-core.git $ src/test/travis-dep-builder.sh
 ...
 ~/flux-core.git $ $(src/test/travis-dep-builder.sh --printenv)
 ~/flux-core.git $ ./autogen.sh && ./configure 
-{% endhighlight %}
+```
 
 Alternately [spack](https://github.com/scalability-llnl/spack) can be used to
 build all flux dependencies with either `spack install flux` or `spack diy
