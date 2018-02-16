@@ -25,6 +25,14 @@ permalink: /papers/
 
 ## Posters
 
+ * Stephen Herbein, Tapasya Patki, Dong H. Ahn, Don Lipari, Tamara
+   Dahlgren, David Domyancic, Michela Taufer. **Fully Hierarchical
+   Scheduling: Paving the Way to Exascale Workloads**, *International
+   Conference for High Performance Computing, Networking, Storage and
+   Analysis*, Denver, CO, November 2017.
+   [[poster]](Flux-Supercomputing-2017-Poster.pdf)
+   [[abstract]](Flux-Supercomputing-2017-Abstract.pdf)
+
  * Stephen Herbein, Dong H. Ahn, Don Lipari, Thomas R.W. Scogland,
    Marc Stearman, Mark Grondona, Jim Garlick, Becky Springmeyer,
    Michela Taufer, **"Scalable I/O-Aware Job Scheduling for Burst
