@@ -47,16 +47,24 @@ bindings for C:
 ### JSON
 
 Flux makes heavy use of JSON encoding for messages. The code
-currently requires [json-c](https://github.com/json-c/json-c)
-v0.11 or greater.
+currently requires [jansson](https://github.com/akheron/jansson/)
+v2.6 or greater.
 
 ### MUNGE
 
-* [libmunge](https://github.com/dun/munge) v0.5.11 or greater
+ * [libmunge](https://github.com/dun/munge) v0.5.11 or greater
 
 ### hwloc
 
- * [hwloc](https://www.open-mpi.org/projects/hwloc/) v1.11 or greater.
+ * [hwloc](https://www.open-mpi.org/projects/hwloc/) v1.11.1 or greater.
+
+### sqlite3
+
+ * [sqlite](https://sqlite.org/download.html) version 3.
+
+### yaml-cpp
+
+ * [yaml-cpp](https://github.com/jbeder/yaml-cpp) v0.5.1 or greater.
 
 ### Lua
  
