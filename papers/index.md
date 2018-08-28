@@ -23,6 +23,14 @@ permalink: /papers/
    for a Next Generation Resource Manager"**, *LLNL DRAFT* technical report,
    May 2013. [[pdf]](Flux-vision-draft.pdf)
 
+## Talks
+
+ * Dong H. Ahn, Ned Bass, Al Chu, Jim Garlick, Mark Grondona, Stephen Herbein,
+   Tapasya Patki, Tom Scogland, Becky Springmeyer, **"Flux: Practical Job
+   Scheduling"**, *Lawrence Livermore National Laboratory's Computation's
+   Developer Day*, Livermore, CA, August 2018.
+   [[pptx]](Flux-DevDay-2018-Slides.pptx) [[pdf]](Flux-DevDay-2018-Slides.pdf)
+
 ## Posters
 
  * Stephen Herbein, Tapasya Patki, Dong H. Ahn, Don Lipari, Tamara
