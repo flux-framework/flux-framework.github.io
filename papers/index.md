@@ -6,6 +6,16 @@ permalink: /papers/
 
 ## Papers
 
+ * Samuel D. Pollard, Nikhil Jain, Stephen Herbein, Abhinav Bhatele,
+   **"Evaluation of an Interference-free Node Allocation Policy on Fat-tree
+   Clusters,"** *International Conference for High Performance Computing,
+   Networking, Storage, and Analysis*, Dallas, TX, November 2018 (accepted).
+
+ * Michael Wyatt, Stephen Herbein, Todd Gamblin, Adam Moody, Dong H. Ahn, and
+   Michela Taufer, **"PRIONN: Predicting Runtime and IO using Neural
+   Networks,"** *47th International Conference on Parallel Processing*, Eugene,
+   OR, August 2018. [[pdf]](Flux-ICPP-2018.pdf)
+
  * Stephen Herbein, Dong H. Ahn, Don Lipari, Thomas R.W. Scogland,
    Marc Stearman, Mark Grondona, Jim Garlick, Becky Springmeyer,
    Michela Taufer, **"Scalable I/O-Aware Job Scheduling for Burst
