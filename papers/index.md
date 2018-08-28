@@ -63,3 +63,9 @@ permalink: /papers/
    for Very Large HPC Centers**, *International Conference for High
    Performance Computing, Networking, Storage and Analysis*, Austin,
    TX, November 2015. [[pdf]](Flux-Supercomputing-2015.pdf)
+
+## Theses
+
+ * Stephen Herbein. **Advanced Schedulers for Next-Generation HPC Systems**,
+   Dissertation, *Department of Computer & Information Sciences, University of
+   Delaware*, Newark, DE, August 2018.
