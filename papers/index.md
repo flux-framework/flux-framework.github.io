@@ -6,6 +6,16 @@ permalink: /papers/
 
 ## Papers
 
+ * Samuel D. Pollard, Nikhil Jain, Stephen Herbein, Abhinav Bhatele,
+   **"Evaluation of an Interference-free Node Allocation Policy on Fat-tree
+   Clusters,"** *International Conference for High Performance Computing,
+   Networking, Storage, and Analysis*, Dallas, TX, November 2018 (accepted).
+
+ * Michael Wyatt, Stephen Herbein, Todd Gamblin, Adam Moody, Dong H. Ahn, and
+   Michela Taufer, **"PRIONN: Predicting Runtime and IO using Neural
+   Networks,"** *47th International Conference on Parallel Processing*, Eugene,
+   OR, August 2018. [[pdf]](Flux-ICPP-2018.pdf)
+
  * Stephen Herbein, Dong H. Ahn, Don Lipari, Thomas R.W. Scogland,
    Marc Stearman, Mark Grondona, Jim Garlick, Becky Springmeyer,
    Michela Taufer, **"Scalable I/O-Aware Job Scheduling for Burst
@@ -22,6 +32,14 @@ permalink: /papers/
  * Dong H. Ahn, Jim Garlick, Mark Grondona, Don Lipari, **"Vision and Plan
    for a Next Generation Resource Manager"**, *LLNL DRAFT* technical report,
    May 2013. [[pdf]](Flux-vision-draft.pdf)
+
+## Talks
+
+ * Dong H. Ahn, Ned Bass, Al Chu, Jim Garlick, Mark Grondona, Stephen Herbein,
+   Tapasya Patki, Tom Scogland, Becky Springmeyer, **"Flux: Practical Job
+   Scheduling"**, *Lawrence Livermore National Laboratory's Computation's
+   Developer Day*, Livermore, CA, August 2018.
+   [[pptx]](Flux-DevDay-2018-Slides.pptx) [[pdf]](Flux-DevDay-2018-Slides.pdf)
 
 ## Posters
 
@@ -45,3 +63,9 @@ permalink: /papers/
    for Very Large HPC Centers**, *International Conference for High
    Performance Computing, Networking, Storage and Analysis*, Austin,
    TX, November 2015. [[pdf]](Flux-Supercomputing-2015.pdf)
+
+## Theses
+
+ * Stephen Herbein. **Advanced Schedulers for Next-Generation HPC Systems**,
+   Dissertation, *Department of Computer & Information Sciences, University of
+   Delaware*, Newark, DE, August 2018.
