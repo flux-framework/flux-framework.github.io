@@ -6,10 +6,19 @@ permalink: /papers/
 
 ## Papers
 
+ * Dong H. Ahn, Ned Bass, Albert Chu, Jim Garlick, Mark Grondona,
+   Stephen Herbein, Joseph Koning, Tapasya Patki, Thomas R. W. Scogland,
+   Becky Springmeyer, Michela Taufer, **"Flux: Overcoming Scheduling
+   Challenges for Exascale Workflows,"** *Workflows in Support
+   of Large-Scale Science in conjunction with International Conference
+   for High Performance Computing, Networking, Storage, and Analysis (SC|18)*,
+   Dallas, TX, November 2018. [[pdf]](Flux-SC18-WORKS.pdf)
+
  * Samuel D. Pollard, Nikhil Jain, Stephen Herbein, Abhinav Bhatele,
    **"Evaluation of an Interference-free Node Allocation Policy on Fat-tree
    Clusters,"** *International Conference for High Performance Computing,
-   Networking, Storage, and Analysis*, Dallas, TX, November 2018 (accepted).
+   Networking, Storage, and Analysis*, Dallas, TX, November 2018.
+   [[pdf]](a26-pollard.pdf)
 
  * Michael Wyatt, Stephen Herbein, Todd Gamblin, Adam Moody, Dong H. Ahn, and
    Michela Taufer, **"PRIONN: Predicting Runtime and IO using Neural
