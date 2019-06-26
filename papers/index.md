@@ -6,6 +6,12 @@ permalink: /papers/
 
 ## Papers
 
+ * Stephen Herbein, David Domyancic, Paul Minner, Ignacio Laguna, Rafael
+   Ferreira da Silva, Dong H. Ahn, **"MCEM: Multi-Level Cooperative Exception
+   Model for HPC Workflows,"** *9th International Workshop on Runtime and
+   Operating Systems for Supercomputers (ROSS)* Phoenix, AZ,
+   June 2019. [[paper]](./Flux-ROSS-2019.pdf) [[slides]](./Flux-ROSS-2019-Slides.pdf)
+
  * Dong H. Ahn, Ned Bass, Albert Chu, Jim Garlick, Mark Grondona,
    Stephen Herbein, Joseph Koning, Tapasya Patki, Thomas R. W. Scogland,
    Becky Springmeyer, Michela Taufer, **"Flux: Overcoming Scheduling
