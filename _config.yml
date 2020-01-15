@@ -14,3 +14,5 @@ collections:
 name: The Flux Resource Manager Framework
 description: Flexible, Scalable, Customizable Framework enabling site-customized Resource Management for HPC
 url: https://flux-framework.github.io
+
+theme: jekyll-theme-cayman
