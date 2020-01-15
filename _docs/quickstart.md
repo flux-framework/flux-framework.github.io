@@ -41,18 +41,20 @@ $ cd flux-core
 ```
 
 Build flux-core. In order to build python bindings ensure you have
-python-2.7 and python-cffi available in your current environment:
+python-3.6 and python-cffi available in your current environment:
 
 ```console
-$ module load python/2.7 python-cffi python-pycparser 
-$ ./autogen.sh && ./configure 
-Running aclocal ... 
-Running libtoolize ... 
-Running autoheader ... 
+$ module load python/3.6 python-cffi python-pycparser
+$ ./autogen.sh && ./configure
+Running aclocal ...
+Running libtoolize ...
+Running autoheader ...
 ...
 $ make -j 8
 ...
 ```
+
+_Note: Flux still supports python-2.7, but we recommend users to use python-3.6 or higher as the Python community will stop to maintain this version in 2020._
 
 Ensure all is right with the world by running the built-in `make check`
 target:
@@ -61,17 +63,6 @@ target:
 $ make check
 Making check in src
 ...
-==================================================================
-Testsuite summary for flux-core 0.4.0-8-gf289387
-==================================================================
-# TOTAL: 1016
-# PASS:  1002
-# SKIP:  11
-# XFAIL: 3
-# FAIL:  0
-# XPASS: 0
-# ERROR: 0
-==================================================================
 ```
 
 ### Starting a Flux instance
@@ -124,25 +115,23 @@ $
 ```
 
 To get help on any `flux` subcommand or API program, the `flux help`
-command may be used. For example, to view the man page for the `flux-up(1)`
+command may be used. For example, to view the man page for the `flux-hwloc(1)`
 command, use
 
 ```console
-$ flux help up
+$ flux help hwloc
 ```
+
+`flux help` can also be run by itself to see a list of commonly used Flux commands.
 
 ### Interacting with a Flux session
 
 There are several low-level commands of interest to interact with
-a Flux sessions. For example, to view states of broker ranks within
-the current session, `flux up` may be used:
+a Flux sessions. For example, to view the total resources available to the current instance, `flux hwloc info` may be used:
 
 ```console
-$ flux up
-ok:     [0-3]
-slow:   
-fail:   
-unknown:
+$ flux hwloc info
+4 Machines, 144 Cores, 144 PUs
 ```
 
 The size, current rank, comms URIs, logging levels, as well as other
@@ -186,15 +175,21 @@ query and manage broker modules, Flux provides a `flux module` command
 
 ```console
 $ flux module list --rank=all
-Module               Size    Digest  Idle  S  Nodeset
-resource-hwloc       1139648 B1667DA    3  S  [0-3]
-barrier              1129400 578B987    3  S  [0-3]
-wrexec               1113904 87533D1    3  S  [0-3]
-cron                 1251072 CEB59B2    0  S  0
-kvs                  1306016 FF5317C    0  S  [0-3]
-content-sqlite       1131312 1B81581    3  S  0
-connector-local      1141848 65DB17D    0  R  [0-3]
-job                  1125968 2D10694    3  S  [0-3]
+Module                   Size Digest  Idle  S   Nodeset Service
+job-ingest            1143808 AF0B59E    4  S     [0-2]
+cron                  1150080 4734B87    0  S         0
+connector-local       1058616 30B79F6    0  R     [0-2]
+resource             15996328 C5E139A    3  S         0
+qmanager               841040 D40C2E0    3  S         0 sched
+userdb                1066296 56B5D15    4  S         0
+content-sqlite        1074088 7098AD8    0  S         0 content-backing
+job-manager           1200296 D97A9A2    3  S         0
+kvs                   1485416 23988F3    0  S     [0-2]
+kvs-watch             1231456 4F4618B    0  S     [0-2]
+job-info              1178896 CEB665F    4  S     [0-2]
+barrier               1067888 8AEA814    4  S     [0-2]
+aggregator            1085000 D967157    0  S     [0-2]
+job-exec              1176856 CED941E    4  S         0
 ```
 
 The most basic functionality of these service modules
@@ -230,8 +225,8 @@ For example, the count of total Cores available on rank 0 can be obtained
 from the kvs via:
 
 ```console
-$ flux kvs get resource.hwloc.by_rank.0.Core
-16
+$ flux kvs get resource.hwloc.by_rank
+{"[0-3]": {"NUMANode": 2, "Package": 2, "Core": 36, "PU": 36, "cpuset": "0-35"}}
 ```
 
 See `flux help kvs` for more information.
@@ -260,88 +255,52 @@ $ flux exec -r 3 flux getattr rank
 3
 ```
 
-To view processes launched using `flux exec`, a `flux ps` program is
-provided
+The second method for launching and submitting jobs is a Minimal Job Submission Tool named "mini". The "mini" tool consists of a `flux mini` frontend command; `flux job` is another low-level tool that can be used for querying job information.
+
+For a full description of the `flux mini` command, see `flux help mini`
+
+ * Run 4 copies of hostname
 
 ```console
-$ flux exec sleep 100 &
-[1] 161298
-$ $ flux ps
-OWNER     RANK       PID  COMMAND
-none         0    111760  /bin/bash
-8E20D        0    162394  sleep
-8E20D        3    162395  sleep
-8E20D        2    162396  sleep
-8E20D        1    162397  sleep
-```
-
-The `OWNER` field refers to a UUID of the requesting entity in the system
-not  a user identity.
-
-
-The second method for launching parallel jobs is a prototype based on
-use of the Flux KVS for parallel job management termed "WRECK". The
-wreck prototype consists of a `flux wreckrun` frontend command,, and
-a `flux wreck` utility for operating and querying jobs run under the
-prototype.
-
-For a full description of the `flux wreckrun` command, see `flux help wreckrun`
-
- * Run 4 copies of hostname 
-
-```console
-$ flux wreckrun -n4 --label-io hostname
-0: hype346
-2: hype349
-1: hype347
-3: hype350
+$ flux mini run -n4 --label-io hostname
+3: quartz15
+2: quartz15
+1: quartz15
+0: quartz15
 ```
 
  * Run an MPI job (for MPI that supports PMI)
 
 ```console
-$ flux wreckrun -n128 ./hello
-0: completed MPI_Init in 0.944s.  There are 128 tasks
-0: completed first barrier
-0: completed MPI_Finalize
+$ flux mini run -n128 ./hello
+completed MPI_Init in 0.944s.  There are 128 tasks
+completed first barrier
+completed MPI_Finalize
 ```
 
  * Run a job and immediately detach. (Since jobs are KVS based, jobs can
    run completely detached from any "front end" command)
 
 ```console
-$ flux wreckrun --detach -n128 ./hello
-7
+$ flux mini submit -n128 ./hello
+4095117099008
 ```
    Here, the allocated ID for the job is immediately echoed to stdout.
 
  * View output of a job
 
 ```console
-$ flux wreck attach 7
-0: completed MPI_Init in 0.932s.  There are 128 tasks
-0: completed first barrier
-0: completed MPI_Finalize
-```
-
- * Get status of a completed job
-
-```console
-$ flux wreck status 7
-Job 7 status: complete
-task[0-127]: exited with exit code 0
+$ flux job attach 4095117099008
+completed MPI_Init in 0.932s.  There are 128 tasks
+completed first barrier
+completed MPI_Finalize
 ```
 
  * List jobs
 
 ```console
-$ flux wreck ls
-    ID NTASKS STATE                    START      RUNTIME    RANKS COMMAND
-     1      1 complete   2015-11-20T10:18:37       0.101s        0 hostname
-     2      1 complete   2015-11-20T10:18:53       0.019s        0 hsotname
-     3      1 complete   2015-11-20T10:19:00       0.014s        0 hostname
-     4      4 complete   2015-11-20T10:19:05       0.105s    [0-3] hostname
-     5      4 complete   2015-11-20T10:21:29       2.394s    [0-3] hello
-     6    128 complete   2015-11-20T10:22:09       3.269s    [0-3] hello
-     7    128 complete   2015-11-20T10:23:41       3.381s    [0-3] hello
+$ flux job list
+JOBID		       STATE	  USERID   PRI     T_SUBMIT
+640671547392	   R	      58985	   16	   2019-10-22T16:27:02Z
+1045388328960	   R	      58985	   16	   2019-10-22T16:27:26Z
 ```
