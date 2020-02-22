@@ -1,8 +1,17 @@
 ---
 layout: default
+title: {{ site.name }}
+overview: true
 ---
 
-Page content
+<section class="intro">
+  <div class="grid">
+   <div class="unit two-thirds center-on-mobiles">
+   <p>
+   Flux Framework is a suite of projects, tools, and libraries that may be used to build site-custom resource managers at high-performance computing sites.
+   </p>
+   </div>
+</div>
 
 ## Recent Activity
 <ul>

@@ -13,11 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: PSIP
-email: gonsie@me.com
-description: >-
-  Productivity and Sustainability Improvement Planning <br />
-  Upgrading Team Practices | So Your Code Can See the Future
+title: The Flux Resource Management Framework
+email: auten1@llnl.gov
+description: A flexible framework for resource management customized for your site
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -30,7 +28,8 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
-repository: bssw-psip/ptc-catalog
+repository: hauten/flux-sandbox
+github: [metadata]
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

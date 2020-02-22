@@ -1,5 +1,6 @@
 _site
+_site.tar.gz
+.bundle
 .sass-cache
-.jekyll-metadata
 Gemfile.lock
-.bundle/
+.DS_Store
