@@ -1,8 +1,7 @@
 ---
-layout: releases
+layout: post
 title: "flux-sched v0.8.0 Released"
 date: "2019-12-05 18:22:03 -0700"
-author: "flux-framework"
 categories: release
 version: 0.8.0
 ---

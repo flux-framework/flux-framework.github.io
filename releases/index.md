@@ -1,9 +1,15 @@
 ---
-layout: releases
+layout: page
 title: Release Notes
 permalink: /releases/
 ---
 
-{% for post in site.posts %}
-  {% include releases.html %}
-{% endfor %}
+
+  {% for post in site.posts reversed %}
+  <h3>
+    {{ page.title }}
+  </h3>
+
+   {{ content }}
+   
+  {% endfor %}
