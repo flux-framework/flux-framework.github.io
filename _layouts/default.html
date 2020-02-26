@@ -1,15 +1,45 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
 
-    {% include head.html %}
+{% seo %}
 
-    <body class="static-text">
- 
-        {% include page-header.html %}
+    <title>{{ site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="shortcut icon" href="/icons/favicon.ico">
+    <link rel="stylesheet" href="https://hauten.github.io/flux-sandbox/assets/css/style.css{{ '?v=' | append: site.github.build_revision }}">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  </head>
+  <body>
 
-        {{ content }}
+    <header>
+        <section class="page-header">
+            <img src="{{site.image}}"></img>
+            <h1 class="project-name">{{ site.title }}</h1>
+            <h2 class="project-tagline">{{ site.tagline }}</h2>
+            <a href="/" class="btn"><i class='fa fa-home'></i> Home</a>
+            <a href="https://github.com/flux-framework" class="btn" target="_blank"><i class="fa fa-github"></i> GitHub</a>
+            <a href="https://flux-framework.readthedocs.io/" class="btn" target="_blank"><i class="fa fa-file-text"></i> Documentation</a>
+            <a href="/publications/" class="btn"><i class="fa fa-book"></i> Publications</a>
+            <a href="/releases/" class="btn"><i class="fa fa-code-fork"></i> Release Notes</a>
+            <a href="https://flux-framework.readthedocs.io/en/latest/contributing.html" class="btn" target="_blank"><i class="fa fa-plus"></i> Contribute</a>
+        </section>
+    </header>
 
-        {% include page-footer.html %}
+    <main id="content" class="main-content" role="main">
 
-    </body>
+      {% if page.title %}
+      <h1>{{ page.title }}</h1>
+      {% endif %}
+
+      {{ content }}
+
+      <footer class="site-footer">
+        <span class="site-footer-owner">The contents of this website are ©2020 <a href="http://github.com/flux-framework">Flux Framework Community</a> under the terms of the <a href="https://github.com/flux-framework/rfc/blob/master/spec_2.adoc">GPL License</a>.</span>
+      </footer>
+    </main>
+  </body>
 </html>

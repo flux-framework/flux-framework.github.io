@@ -1,18 +1,18 @@
 ---
-layout: post
-title: "flux-sched v0.8.0 Released"
+layout: default
+title: "flux-sched v0.8.0"
 date: "2019-12-05 18:22:03 -0700"
+author: "flux-framework"
 categories: release
 version: 0.8.0
+download: https://github.com/flux-framework/flux-sched/releases/tag/v0.8.0
 ---
-
-# flux-sched v0.8.0 Released
 
 <div class="note warning">
 This is an alpha release of flux-sched and is not intended for production use.
 </div>
 
-Download from GitHub [here](https://github.com/flux-framework/flux-sched/releases/tag/v0.8.0)
+Download from GitHub [here](https://github.com/flux-framework/flux-sched/releases/tag/v0.8.0).
 
 ## Release Notes
 
@@ -63,3 +63,4 @@ for resiliency.
  * testsuite: update flux-sharness.sh to version from flux-core ([#523](https://github.com/flux-framework/flux-sched/pull/523))
  * rc3: Fix a bug in RC3 dir definition within configure.ac ([#525](https://github.com/flux-framework/flux-sched/pull/525))
  * resource: fix buffer overflow when handling slot type in a jobspec ([#548](https://github.com/flux-framework/flux-sched/pull/548))
+
