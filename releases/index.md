@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Release Notes
+title: Releases
 permalink: /releases/
 ---
 
