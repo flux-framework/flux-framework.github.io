@@ -3,7 +3,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-image: /assets/images/logo540x207.png
+image: /assets/images/logo-2x.png
 title: The Flux Resource Management Framework
 tagline: A flexible framework for resource management customized for your HPC site
 email: auten1@llnl.gov
