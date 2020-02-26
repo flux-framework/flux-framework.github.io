@@ -1,9 +1,16 @@
-# Setup
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 image: /assets/images/logo-2x.png
 title: The Flux Resource Management Framework
 tagline: A flexible framework for resource management customized for your site
-
-baseurl: ""
+email: auten1@llnl.gov
+description: >- # this means to ignore newlines until "baseurl:"
+  The Flux Resource Management Framework
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
@@ -13,9 +20,7 @@ plugins:
 repository: hauten/flux-sandbox
 github: [metadata]
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
+# Exclude from processing
 exclude:
   - Gemfile
   - Gemfile.lock

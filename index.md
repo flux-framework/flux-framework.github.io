@@ -1,6 +1,5 @@
 ---
 layout: default
-overview: true
 ---
 
 <section class="intro">
@@ -12,10 +11,16 @@ overview: true
    </div>
 </div>
 
-## Recent Activity
-<div id="home">
-  {% for post in site.posts reversed %}
-  <h1>{{ post.title }}</h1>
-    {{ content }}
-  {% endfor %}
+{% for post in site.posts %}
+<div class="post-preview">
+<span class="post-title alignable pull-left">
+<a class="post-link underline" href="{{ post.url | prepend: site.baseurl }}">
+{{ post.title }}
+</a>
+</span>
+<span class="post-time alignable pull-right">
+<time>{{ post.date | date: '%B %d, %Y '}}</time>
+</span>
+<div style="clear:both"></div>
 </div>
+{% endfor %}
