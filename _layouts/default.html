@@ -9,21 +9,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="https://hauten.github.io/flux-sandbox/assets/css/style.css{{ '?v=' | append: site.github.build_revision }}">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   </head>
   <body>
 
     <header>
         <section class="page-header">
-            <img src="/assets/images/logo-2x.png" height="207" width="450"></img>
+            <img src="{{ site.baseurl }}/assets/images/logo-2x.png" alt="Flux logo" height="207" width="450"></img>
             <h1 class="project-name">{{ site.title }}</h1>
             <h2 class="project-tagline">{{ site.tagline }}</h2>
-            <a href="https://hauten.github.io/flux-sandbox" class="btn"><i class='fa fa-home'></i> Home</a>
+            <a href="{{ site.baseurl }}" class="btn"><i class='fa fa-home'></i> Home</a>
             <a href="https://github.com/flux-framework" class="btn" target="_blank"><i class="fa fa-github"></i> GitHub</a>
             <a href="https://flux-framework.readthedocs.io/" class="btn" target="_blank"><i class="fa fa-file-text"></i> Documentation</a>
-            <a href="https://hauten.github.io/flux-sandbox/publications/" class="btn"><i class="fa fa-book"></i> Publications</a>
-            <a href="https://hauten.github.io/flux-sandbox/releases/" class="btn"><i class="fa fa-code-fork"></i> Releases</a>
+            <a href="{{ site.baseurl }}/publications/" class="btn"><i class="fa fa-book"></i> Publications</a>
+            <a href="{{ site.baseurl }}/releases/" class="btn"><i class="fa fa-code-fork"></i> Releases</a>
             <a href="https://flux-framework.readthedocs.io/en/latest/contributing.html" class="btn" target="_blank"><i class="fa fa-plus"></i> Contribute</a>
             <a href="mailto:flux-internal@llnl.gov" class="btn"><i class="fa fa-envelope-o"></i> Contact</a>
         </section>

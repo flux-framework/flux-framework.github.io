@@ -7,7 +7,7 @@ title: The Flux Resource Management Framework
 tagline: A flexible framework for resource management customized for your HPC site
 description: >- # this means to ignore newlines until "baseurl:"
   The Flux Resource Management Framework
-baseurl: "https://hauten.github.io/flux-sandbox" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hauten.github.io/flux-sandbox" # the base hostname & protocol for your site, e.g. http://example.com
 image: /assets/images/logo-2x.png
 
