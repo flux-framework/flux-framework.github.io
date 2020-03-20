@@ -10,7 +10,7 @@ This suite of projects, tools, and libraries helps you build site-customized res
 
 ## Latest Releases
 
-{% for post in site.posts limit:1 %}
+{% for post in site.posts limit:2 %}
   <div class="post-preview">
     <span class="post-title alignable pull-left"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> (<a href="{{ post.download }}" target="___blank">download</a>)</span>
     <span class="post-time alignable pull-right"><time>{{ post.date | date: '%B %d, %Y '}}</time></span>
