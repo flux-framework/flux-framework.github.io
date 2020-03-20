@@ -2,15 +2,13 @@
 layout: default
 ---
 
-Use this family of projects to build site-customized resource management systems for high-performance computing (HPC) data centers. Our current projects include:
+This suite of projects, tools, and libraries helps you build site-customized resource management systems for high-performance computing (HPC) data centers. [Get started now!](https://flux-framework.readthedocs.io/en/latest/quickstart.html) Our current projects include:
 
-* [flux-core](https://github.com/flux-framework/flux-core): Implements the communication layer and lowest level services and interfaces for the Flux Resource Management Framework.
+* [flux-core](https://github.com/flux-framework/flux-core): Implements the communication layer and lowest level services and interfaces
 
-* [flux-sched](https://github.com/flux-framework/flux-sched): Contains the job scheduling facility for the Flux Resource Management Framework.
+* [flux-sched](https://github.com/flux-framework/flux-sched): Contains the job scheduling facility
 
-* [capacitor](https://github.com/flux-framework/capacitor): Implements a bulk execution manager using flux-core.
-
-## Latest Release
+## Latest Releases
 
 {% for post in site.posts limit:1 %}
   <div class="post-preview">
