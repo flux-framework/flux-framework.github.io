@@ -24,3 +24,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - src
+  
