@@ -11,6 +11,10 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ site.url | prepend: site.baseurl }}/assets/css/style.css">
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+   {% if jekyll.environment == 'production' %}
+   {% include matomo.html %}
+   {% endif %}
   </head>
   <body>
 
