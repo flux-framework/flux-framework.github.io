@@ -8,3 +8,19 @@ $section-headings-color: #122e33;
 $header-heading-color: #ffffff;
 
 @import "{{ site.theme }}";
+
+@media screen and (min-width: 64em) {
+    .page-header {
+        padding:2rem 4rem
+    }
+}
+@media screen and (min-width: 42em) and (max-width: 64em) {
+    .page-header {
+        padding:2rem 3rem
+    }
+}
+@media screen and (max-width: 42em) {
+    .page-header {
+    padding:2rem 1rem
+    }
+}
