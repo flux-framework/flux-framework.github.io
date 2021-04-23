@@ -8,7 +8,7 @@ tagline: A flexible framework for resource management customized for your HPC si
 description: >- # this means to ignore newlines until "baseurl:"
   Flux Framework
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "/flux-sandbox/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://flux-framework.org" # the base hostname & protocol for your site, e.g. http://example.com
 image: /assets/images/logo-2x.png
 
 # Build settings
