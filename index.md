@@ -6,7 +6,11 @@ This suite of projects, tools, and libraries helps you build site-customized res
 
 * [flux-core](https://github.com/flux-framework/flux-core): Implements the communication layer and lowest level services and interfaces
 
-* [flux-sched](https://github.com/flux-framework/flux-sched): Contains the job scheduling facility
+* [flux-sched](https://github.com/flux-framework/flux-sched): Contains the graph-based Fluxion job scheduler
+
+* [flux-accounting](https://github.com/flux-framework/flux-accounting/): Implements the bank/accounting interface and database 
+
+* [flux-security](https://github.com/flux-framework/flux-security): Contains Flux's security code, including the Independent Minister of Privileges
 
 ## Latest Releases
 
