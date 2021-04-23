@@ -4,3 +4,4 @@ _site.tar.gz
 .sass-cache
 Gemfile.lock
 .DS_Store
+vendor
