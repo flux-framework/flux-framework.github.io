@@ -16,7 +16,7 @@ markdown: kramdown
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
-repository: hauten/flux-sandbox
+repository: flux-framework/flux-framework.github.io
 github: [metadata]
 
 # Exclude from processing
