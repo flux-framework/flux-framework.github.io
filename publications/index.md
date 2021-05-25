@@ -6,6 +6,14 @@ permalink: /publications/
 
 ## Papers
 
+ * Dong H. Ahn, Ned Bass, Albert Chu, Jim Garlick, Mark Grondona, Stephen
+   Herbein, Helgi I. Ingólfsson, Joseph Koning, Tapasya Patki, Thomas
+   R.W. Scogland, Becky Springmeyer, Michela Taufer, **"Flux: Overcoming
+   Scheduling Challenges for Exascale Workflows"**, *Future Generation Computer
+   Systems*, Volume 110, 2020, Pages 202-213. [[pre-print
+   pdf]](./Flux-FGCS-2020.pdf) [[journal
+   link]](https://doi.org/10.1016/j.future.2020.04.006)
+
  * Stephen Herbein, David Domyancic, Paul Minner, Ignacio Laguna, Rafael
    Ferreira da Silva, Dong H. Ahn, **"MCEM: Multi-Level Cooperative Exception
    Model for HPC Workflows,"** *9th International Workshop on Runtime and
