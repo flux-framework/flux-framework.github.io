@@ -1,0 +1,22 @@
+name: Update Docs
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: 23 2 * * *
+
+jobs:
+  update-release-docs:
+    name: Generate posts for Flux projects
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Flux projects update
+        uses: rse-ops/release-actions/docs@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          author: flux-framework
+          layout: default
+          start_at: 2022
+          branch: master
