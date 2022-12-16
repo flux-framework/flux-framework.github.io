@@ -1,0 +1,21 @@
+# Note this isn't currently used in this context
+outdir: _data/cci
+
+# These two are only required to group people into member groups,
+# which we don't really need or want to do.
+orgs: []
+member_orgs: []
+
+# Custom set of repos in radiuss
+repos:
+- flux-framework/flux-core
+- flux-framework/flux-sched
+- flux-framework/flux-accounting
+- flux-framework/flux-pmix
+
+# Parsing functions to use (e.g, parse a NEWS.md)
+functions:
+  flux-framework/flux-core: linked-news-markdown-rst
+  flux-framework/flux-sched: linked-news-markdown-rst
+  flux-framework/flux-accounting: linked-news-markdown-rst
+  flux-framework/flux-pmix: linked-news-markdown-rst
