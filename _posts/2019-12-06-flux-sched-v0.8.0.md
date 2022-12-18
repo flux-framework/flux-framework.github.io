@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "flux-sched v0.8.0"
 date: "2019-12-05 18:22:03 -0700"
 author: "flux-framework"

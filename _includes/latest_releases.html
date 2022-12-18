@@ -1,0 +1,8 @@
+{% if include.limit %}{% assign limit=include.limit %}{% else %}limit=5{% endif %}
+{% for post in site.posts limit:limit %}
+<div class="post-preview">
+  <span class="post-title alignable pull-left"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> (<a href="{{ post.download }}" target="___blank">download</a>)</span>
+  <span class="post-time alignable pull-right"><time>{{ post.date | date: '%B %d, %Y '}}</time></span>
+<div style="clear:both"></div>
+</div>
+{% endfor %}    

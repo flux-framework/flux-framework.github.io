@@ -1,4 +1,4 @@
-# Note this isn't currently used in this context
+# Save data to this directory
 outdir: _data/cci
 
 # These two are only required to group people into member groups,
@@ -6,12 +6,15 @@ outdir: _data/cci
 orgs: []
 member_orgs: []
 
-# Custom set of repos in radiuss
+# Custom set of repos in flux framework
 repos:
 - flux-framework/flux-core
 - flux-framework/flux-sched
 - flux-framework/flux-accounting
 - flux-framework/flux-pmix
+- flux-framework/flux-security
+- flux-framework/flux-operator
+- flux-framework/flux-restful-api
 
 # Parsing functions to use (e.g, parse a NEWS.md)
 functions:

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "flux-accounting v0.10.0"
 date: "2021-10-06 09:08:40 -0700"
 author: "flux-framework"

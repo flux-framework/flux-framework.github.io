@@ -1,0 +1,160 @@
+{
+    "flux-framework/flux-accounting": {
+        "repositoryTopics": {
+            "totalCount": 0,
+            "nodes": []
+        }
+    },
+    "flux-framework/flux-core": {
+        "repositoryTopics": {
+            "totalCount": 4,
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "hpc"
+                    },
+                    "resourcePath": "/topics/hpc",
+                    "url": "https://github.com/topics/hpc"
+                },
+                {
+                    "topic": {
+                        "name": "resource-manager"
+                    },
+                    "resourcePath": "/topics/resource-manager",
+                    "url": "https://github.com/topics/resource-manager"
+                },
+                {
+                    "topic": {
+                        "name": "workflows"
+                    },
+                    "resourcePath": "/topics/workflows",
+                    "url": "https://github.com/topics/workflows"
+                },
+                {
+                    "topic": {
+                        "name": "radiuss"
+                    },
+                    "resourcePath": "/topics/radiuss",
+                    "url": "https://github.com/topics/radiuss"
+                }
+            ]
+        }
+    },
+    "flux-framework/flux-operator": {
+        "repositoryTopics": {
+            "totalCount": 4,
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "flux"
+                    },
+                    "resourcePath": "/topics/flux",
+                    "url": "https://github.com/topics/flux"
+                },
+                {
+                    "topic": {
+                        "name": "flux-framework"
+                    },
+                    "resourcePath": "/topics/flux-framework",
+                    "url": "https://github.com/topics/flux-framework"
+                },
+                {
+                    "topic": {
+                        "name": "kubernetes"
+                    },
+                    "resourcePath": "/topics/kubernetes",
+                    "url": "https://github.com/topics/kubernetes"
+                },
+                {
+                    "topic": {
+                        "name": "operator"
+                    },
+                    "resourcePath": "/topics/operator",
+                    "url": "https://github.com/topics/operator"
+                }
+            ]
+        }
+    },
+    "flux-framework/flux-pmix": {
+        "repositoryTopics": {
+            "totalCount": 0,
+            "nodes": []
+        }
+    },
+    "flux-framework/flux-restful-api": {
+        "repositoryTopics": {
+            "totalCount": 3,
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "docker"
+                    },
+                    "resourcePath": "/topics/docker",
+                    "url": "https://github.com/topics/docker"
+                },
+                {
+                    "topic": {
+                        "name": "fastapi"
+                    },
+                    "resourcePath": "/topics/fastapi",
+                    "url": "https://github.com/topics/fastapi"
+                },
+                {
+                    "topic": {
+                        "name": "flux-framework"
+                    },
+                    "resourcePath": "/topics/flux-framework",
+                    "url": "https://github.com/topics/flux-framework"
+                }
+            ]
+        }
+    },
+    "flux-framework/flux-sched": {
+        "repositoryTopics": {
+            "totalCount": 5,
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "hpc"
+                    },
+                    "resourcePath": "/topics/hpc",
+                    "url": "https://github.com/topics/hpc"
+                },
+                {
+                    "topic": {
+                        "name": "job-scheduler"
+                    },
+                    "resourcePath": "/topics/job-scheduler",
+                    "url": "https://github.com/topics/job-scheduler"
+                },
+                {
+                    "topic": {
+                        "name": "scheduling"
+                    },
+                    "resourcePath": "/topics/scheduling",
+                    "url": "https://github.com/topics/scheduling"
+                },
+                {
+                    "topic": {
+                        "name": "workflows"
+                    },
+                    "resourcePath": "/topics/workflows",
+                    "url": "https://github.com/topics/workflows"
+                },
+                {
+                    "topic": {
+                        "name": "radiuss"
+                    },
+                    "resourcePath": "/topics/radiuss",
+                    "url": "https://github.com/topics/radiuss"
+                }
+            ]
+        }
+    },
+    "flux-framework/flux-security": {
+        "repositoryTopics": {
+            "totalCount": 0,
+            "nodes": []
+        }
+    }
+}

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "flux-security v0.2.0"
 date: "2018-08-23 17:06:18 +0000"
 author: "flux-framework"

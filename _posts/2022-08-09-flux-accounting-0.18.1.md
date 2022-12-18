@@ -1,7 +1,6 @@
 ---
 title: flux-accounting v0.18.1
 date: 2022-08-09 00:00:00
-layout: 'default'
 author: "flux-framework"
 categories: 'release'
 version: 0.18.1

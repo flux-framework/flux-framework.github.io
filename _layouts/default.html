@@ -1,50 +1,86 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="UTF-8">
+<html lang="en">
 
-{% seo %}
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>{{ site.title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#67bac9">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="{{ site.url | prepend: site.baseurl }}/assets/css/style.css">
-    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <title>{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  {% include meta.html %}
 
-   {% if jekyll.environment == 'production' %}
-   {% include matomo.html %}
-   {% endif %}
-  </head>
-  <body>
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.css'>
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css'>
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Google+Sans|Roboto:400,500|Roboto+Mono:400">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.0.6/css/all.css'>
+  <link rel='stylesheet' href='https://unpkg.com/@yaireo/tagify/dist/tagify.css'>
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/style.css">
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/main.css">
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/site.css">
 
-    <header>
-        <section class="page-header">
-          <img src="{{ site.url | prepend: site.baseurl }}/assets/images/Flux-logo.svg" alt="Flux logo" height="92" width="200"></img>
-          <h1 class="project-name">{{ site.title }}</h1>
-          <h2 class="project-tagline">{{ site.tagline }}</h2>
-            <a href="{{ site.url | prepend: site.baseurl }}/" class="btn"><i class='fa fa-home'></i> Home</a>
-            <a href="https://github.com/flux-framework" class="btn" target="_blank"><i class="fa fa-github"></i> GitHub</a>
-            <a href="https://flux-framework.readthedocs.io/" class="btn" target="_blank"><i class="fa fa-file-text"></i> Docs</a>
-            <a href="{{ site.url | prepend: site.baseurl }}/publications/" class="btn"><i class="fa fa-book"></i> Publications</a>
-            <a href="{{ site.url | prepend: site.baseurl }}/releases/" class="btn"><i class="fa fa-code-fork"></i> Releases</a>
-            <a href="https://flux-framework.readthedocs.io/en/latest/contributing.html" class="btn" target="_blank"><i class="fa fa-plus"></i> Contribute</a>
-            <a href="mailto:flux-discuss@lists.llnl.gov" class="btn"><i class="fa fa-envelope-o"></i> Contact</a>
-            <a href="https://twitter.com/fluxframework" class="btn"><i class="fa fa-twitter"></i> Twitter</a>
-        </section>
-    </header>
+</head>
 
-    <main id="content" class="main-content" role="main">
+<style>
+.item {
+  color: white;
+  font-size: 13px;
+}
 
-      {% if page.title %}
-      <h1>{{ page.title }}</h1>
-      {% endif %}
+.customSuggestionsList > div{
+  max-height: 300px;
+  border: 2px solid pink;
+  overflow: auto;
+}
+.tagify {
+  text-align: left;
+  background-color: white;
+  width: 100%;
+  max-width: 1000px;
+}
 
-      {{ content }}
+.pen-intro{
+}
 
-      <footer class="site-footer">
-        <span class="site-footer-owner">The contents of this website are ©2021 <a href="http://github.com/flux-framework">Flux Framework Community</a> under the terms of the <a href="https://github.com/flux-framework/rfc/blob/master/spec_2.adoc">LGPL License</a>.</span>
-      </footer>
-    </main>
-  </body>
+input{
+  order: 5;
+}
+
+.tagify__input {
+    color: black !important;
+}
+
+label[for='checkbox-tagify-show-input']{
+  position: absolute;
+  top: .85em;
+  left: 2.5em;
+}
+
+label[for='checkbox-tagify-show-input'] + input{
+  position: absolute;
+  top: 1em;
+  left: 1em;
+  transform: scale(1.4);
+}
+
+label[for='checkbox-tagify-show-input'] + input:checked ~ input,
+label[for='checkbox-tagify-show-input'] + input:checked ~ textarea{
+  display: block !important;
+  width: 100%;
+  max-width: 1000px;
+  margin-top: 1.5em;
+}
+
+label[for='checkbox-tagify-show-input'] + input:checked ~ textaragifyea{
+    min-height: 11ch;
+}
+</style>
+
+<body>
+{{ content }}
+
+{% unless page.no_footer %}{% include footer.html %}{% endunless %}
+</body>
 </html>

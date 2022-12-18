@@ -1,7 +1,6 @@
 ---
 title: flux-accounting v0.21.0
 date: 2022-12-12 00:00:00
-layout: 'default'
 author: "flux-framework"
 categories: 'release'
 version: 0.21.0
@@ -22,5 +21,4 @@ flux-accounting version 0.21.0 - 2022-12-12
 #### Testsuite
 
 * Do not assume queues default to stopped ([#302](https://github.com/flux-framework/flux-accounting/issues/302))
-
 * Stop all queues with `--all` option ([#303](https://github.com/flux-framework/flux-accounting/issues/303))

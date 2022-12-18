@@ -1,7 +1,6 @@
 ---
 title: flux-accounting v0.20.1
 date: 2022-10-06 00:00:00
-layout: 'default'
 author: "flux-framework"
 categories: 'release'
 version: 0.20.1

@@ -1,0 +1,387 @@
+{
+    "flux-framework/flux-core": {
+        "nameWithOwner": "flux-framework/flux-core",
+        "name": "flux-core",
+        "owner": {
+            "login": "flux-framework",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/7545483?v=4"
+        },
+        "url": "https://github.com/flux-framework/flux-core",
+        "homepageUrl": "",
+        "description": "core  services for the Flux resource management framework",
+        "createdAt": "2014-09-26T22:27:19Z",
+        "defaultBranchRef": {
+            "name": "master"
+        },
+        "licenseInfo": {
+            "name": "GNU Lesser General Public License v3.0",
+            "nickname": "GNU LGPLv3",
+            "spdxId": "LGPL-3.0",
+            "url": "http://choosealicense.com/licenses/lgpl-3.0/"
+        },
+        "stargazers": {
+            "totalCount": 118
+        },
+        "mentionableUsers": {
+            "totalCount": 27
+        },
+        "forks": {
+            "totalCount": 41
+        },
+        "primaryLanguage": {
+            "name": "C"
+        },
+        "languages": {
+            "totalCount": 11
+        },
+        "repositoryTopics": {
+            "totalCount": 4
+        },
+        "parent": null,
+        "pullRequests_Open": {
+            "totalCount": 12
+        },
+        "pullRequests_Closed": {
+            "totalCount": 168
+        },
+        "pullRequests_Merged": {
+            "totalCount": 2100
+        },
+        "issues_Open": {
+            "totalCount": 374
+        },
+        "issues_Closed": {
+            "totalCount": 2118
+        }
+    },
+    "flux-framework/flux-sched": {
+        "nameWithOwner": "flux-framework/flux-sched",
+        "name": "flux-sched",
+        "owner": {
+            "login": "flux-framework",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/7545483?v=4"
+        },
+        "url": "https://github.com/flux-framework/flux-sched",
+        "homepageUrl": "",
+        "description": "Fluxion Graph-based Scheduler",
+        "createdAt": "2014-10-23T23:09:17Z",
+        "defaultBranchRef": {
+            "name": "master"
+        },
+        "licenseInfo": {
+            "name": "GNU Lesser General Public License v3.0",
+            "nickname": "GNU LGPLv3",
+            "spdxId": "LGPL-3.0",
+            "url": "http://choosealicense.com/licenses/lgpl-3.0/"
+        },
+        "stargazers": {
+            "totalCount": 57
+        },
+        "mentionableUsers": {
+            "totalCount": 25
+        },
+        "forks": {
+            "totalCount": 27
+        },
+        "primaryLanguage": {
+            "name": "C++"
+        },
+        "languages": {
+            "totalCount": 9
+        },
+        "repositoryTopics": {
+            "totalCount": 5
+        },
+        "parent": null,
+        "pullRequests_Open": {
+            "totalCount": 2
+        },
+        "pullRequests_Closed": {
+            "totalCount": 45
+        },
+        "pullRequests_Merged": {
+            "totalCount": 413
+        },
+        "issues_Open": {
+            "totalCount": 87
+        },
+        "issues_Closed": {
+            "totalCount": 436
+        }
+    },
+    "flux-framework/flux-accounting": {
+        "nameWithOwner": "flux-framework/flux-accounting",
+        "name": "flux-accounting",
+        "owner": {
+            "login": "flux-framework",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/7545483?v=4"
+        },
+        "url": "https://github.com/flux-framework/flux-accounting",
+        "homepageUrl": "",
+        "description": "bank/accounting interface for the Flux resource manager ",
+        "createdAt": "2020-03-06T16:58:23Z",
+        "defaultBranchRef": {
+            "name": "master"
+        },
+        "licenseInfo": {
+            "name": "GNU Lesser General Public License v3.0",
+            "nickname": "GNU LGPLv3",
+            "spdxId": "LGPL-3.0",
+            "url": "http://choosealicense.com/licenses/lgpl-3.0/"
+        },
+        "stargazers": {
+            "totalCount": 3
+        },
+        "mentionableUsers": {
+            "totalCount": 10
+        },
+        "forks": {
+            "totalCount": 6
+        },
+        "primaryLanguage": {
+            "name": "Shell"
+        },
+        "languages": {
+            "totalCount": 8
+        },
+        "repositoryTopics": {
+            "totalCount": 0
+        },
+        "parent": null,
+        "pullRequests_Open": {
+            "totalCount": 6
+        },
+        "pullRequests_Closed": {
+            "totalCount": 7
+        },
+        "pullRequests_Merged": {
+            "totalCount": 153
+        },
+        "issues_Open": {
+            "totalCount": 19
+        },
+        "issues_Closed": {
+            "totalCount": 117
+        }
+    },
+    "flux-framework/flux-pmix": {
+        "nameWithOwner": "flux-framework/flux-pmix",
+        "name": "flux-pmix",
+        "owner": {
+            "login": "flux-framework",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/7545483?v=4"
+        },
+        "url": "https://github.com/flux-framework/flux-pmix",
+        "homepageUrl": null,
+        "description": "flux shell plugin to bootstrap openmpi v5+",
+        "createdAt": "2021-09-15T14:55:22Z",
+        "defaultBranchRef": {
+            "name": "main"
+        },
+        "licenseInfo": {
+            "name": "GNU Lesser General Public License v3.0",
+            "nickname": "GNU LGPLv3",
+            "spdxId": "LGPL-3.0",
+            "url": "http://choosealicense.com/licenses/lgpl-3.0/"
+        },
+        "stargazers": {
+            "totalCount": 1
+        },
+        "mentionableUsers": {
+            "totalCount": 7
+        },
+        "forks": {
+            "totalCount": 3
+        },
+        "primaryLanguage": {
+            "name": "C"
+        },
+        "languages": {
+            "totalCount": 9
+        },
+        "repositoryTopics": {
+            "totalCount": 0
+        },
+        "parent": null,
+        "pullRequests_Open": {
+            "totalCount": 1
+        },
+        "pullRequests_Closed": {
+            "totalCount": 1
+        },
+        "pullRequests_Merged": {
+            "totalCount": 36
+        },
+        "issues_Open": {
+            "totalCount": 14
+        },
+        "issues_Closed": {
+            "totalCount": 9
+        }
+    },
+    "flux-framework/flux-security": {
+        "nameWithOwner": "flux-framework/flux-security",
+        "name": "flux-security",
+        "owner": {
+            "login": "flux-framework",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/7545483?v=4"
+        },
+        "url": "https://github.com/flux-framework/flux-security",
+        "homepageUrl": null,
+        "description": "Independent project for Flux security code and APIs.",
+        "createdAt": "2017-10-02T16:38:49Z",
+        "defaultBranchRef": {
+            "name": "master"
+        },
+        "licenseInfo": {
+            "name": "GNU Lesser General Public License v3.0",
+            "nickname": "GNU LGPLv3",
+            "spdxId": "LGPL-3.0",
+            "url": "http://choosealicense.com/licenses/lgpl-3.0/"
+        },
+        "stargazers": {
+            "totalCount": 0
+        },
+        "mentionableUsers": {
+            "totalCount": 19
+        },
+        "forks": {
+            "totalCount": 6
+        },
+        "primaryLanguage": {
+            "name": "C"
+        },
+        "languages": {
+            "totalCount": 6
+        },
+        "repositoryTopics": {
+            "totalCount": 0
+        },
+        "parent": null,
+        "pullRequests_Open": {
+            "totalCount": 0
+        },
+        "pullRequests_Closed": {
+            "totalCount": 1
+        },
+        "pullRequests_Merged": {
+            "totalCount": 95
+        },
+        "issues_Open": {
+            "totalCount": 27
+        },
+        "issues_Closed": {
+            "totalCount": 32
+        }
+    },
+    "flux-framework/flux-operator": {
+        "nameWithOwner": "flux-framework/flux-operator",
+        "name": "flux-operator",
+        "owner": {
+            "login": "flux-framework",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/7545483?v=4"
+        },
+        "url": "https://github.com/flux-framework/flux-operator",
+        "homepageUrl": "https://flux-framework.org/flux-operator/",
+        "description": "Deploy a Flux MiniCluster to Kubernetes with the operator",
+        "createdAt": "2022-08-25T01:22:55Z",
+        "defaultBranchRef": {
+            "name": "main"
+        },
+        "licenseInfo": {
+            "name": "Apache License 2.0",
+            "nickname": null,
+            "spdxId": "Apache-2.0",
+            "url": "http://choosealicense.com/licenses/apache-2.0/"
+        },
+        "stargazers": {
+            "totalCount": 7
+        },
+        "mentionableUsers": {
+            "totalCount": 9
+        },
+        "forks": {
+            "totalCount": 2
+        },
+        "primaryLanguage": {
+            "name": "Go"
+        },
+        "languages": {
+            "totalCount": 4
+        },
+        "repositoryTopics": {
+            "totalCount": 4
+        },
+        "parent": null,
+        "pullRequests_Open": {
+            "totalCount": 3
+        },
+        "pullRequests_Closed": {
+            "totalCount": 2
+        },
+        "pullRequests_Merged": {
+            "totalCount": 30
+        },
+        "issues_Open": {
+            "totalCount": 5
+        },
+        "issues_Closed": {
+            "totalCount": 9
+        }
+    },
+    "flux-framework/flux-restful-api": {
+        "nameWithOwner": "flux-framework/flux-restful-api",
+        "name": "flux-restful-api",
+        "owner": {
+            "login": "flux-framework",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/7545483?v=4"
+        },
+        "url": "https://github.com/flux-framework/flux-restful-api",
+        "homepageUrl": "https://flux-framework.org/flux-restful-api/",
+        "description": "Flux RESTful API provided by FastAPI",
+        "createdAt": "2022-11-03T22:15:16Z",
+        "defaultBranchRef": {
+            "name": "main"
+        },
+        "licenseInfo": {
+            "name": "GNU Lesser General Public License v3.0",
+            "nickname": "GNU LGPLv3",
+            "spdxId": "LGPL-3.0",
+            "url": "http://choosealicense.com/licenses/lgpl-3.0/"
+        },
+        "stargazers": {
+            "totalCount": 2
+        },
+        "mentionableUsers": {
+            "totalCount": 17
+        },
+        "forks": {
+            "totalCount": 2
+        },
+        "primaryLanguage": {
+            "name": "Python"
+        },
+        "languages": {
+            "totalCount": 6
+        },
+        "repositoryTopics": {
+            "totalCount": 3
+        },
+        "parent": null,
+        "pullRequests_Open": {
+            "totalCount": 0
+        },
+        "pullRequests_Closed": {
+            "totalCount": 0
+        },
+        "pullRequests_Merged": {
+            "totalCount": 19
+        },
+        "issues_Open": {
+            "totalCount": 5
+        },
+        "issues_Closed": {
+            "totalCount": 11
+        }
+    }
+}
