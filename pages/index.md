@@ -10,8 +10,8 @@ hide_hero: true
 {% assign tags_list = all_tags | split:',' | sort | uniq %}
 
 <div class="filters" style='padding-bottom:60px;'>
- <img src="{{ site.baseurl }}/assets/images/Flux-logo-full.png" style="margin:auto; width:400px">
-<h2 style='text-align:center; font-size: 32px; font-family:"Google Sans",sans-serif;padding-bottom:20px'>{{ site.tagline }}</h2>
+ <img src="{{ site.baseurl }}/assets/images/Flux-logo-full.png" class="flux-logo">
+<h2 class='flux-tagline'>{{ site.tagline }}</h2>
     <input name="tags" style="width:600px; margin:auto;margin-bottom:30px">
     <p style="padding-top:10px; text-align:center; margin:auto">Looking for a particular project? Try entering a language or term you're interested in, like "python" or "security" above.</p>
   </div>
