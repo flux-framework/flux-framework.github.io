@@ -11,6 +11,16 @@ body div {
   font-size: 16px;
   line-height: 1.5;
 }
+.flux-logo {
+  margin:auto;
+  width:400px
+}
+.flux-tagline {
+  text-align:center;
+  font-size: 32px;
+  font-family:"Google Sans",sans-serif;
+  padding-bottom:20px
+}
 .topbar {
   height: 40px;
   background-color: #dee4ee;
@@ -53,6 +63,8 @@ body div {
   flex-wrap: wrap;
   margin-left: -16px;
   padding: 50px 200px;
+  align-items: center;
+  justify-content: center;
 }
 .card {
   margin-left: 16px;
@@ -119,11 +131,40 @@ body div {
 }
 
 /*Shrinking for mobile*/
+@media (max-width: 400px) {
+  .list-group li { width: 30%; }
+}
+
+@media (max-width: 550px) {
+  .list-group li { width: 40%; }
+}
+
 @media (max-width: 812px) {
   .cards {
-    padding: 0px;
+    padding: 0px; 
+  }
+  .card {
+    min-width: 100%;
+    max-width: 100%;
+    min-height: 100px;
+  }
+  .flux-logo {
+    margin:auto;
+    width:200px
+  }
+  .flux-tagline {
+    font-size: 26px;
+  }
+  .card img {
+    display: none;
+  }
+  .topic-button {
+  display: none;
   }
   .radiuss-graph {
     display: none;
+  }
+  #star-sort, #language-sort, #name-sort {
+   padding: 5px;
   }
 }
