@@ -295,7 +295,7 @@
             "url": "http://choosealicense.com/licenses/apache-2.0/"
         },
         "stargazers": {
-            "totalCount": 7
+            "totalCount": 8
         },
         "mentionableUsers": {
             "totalCount": 10
@@ -314,13 +314,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 2
+            "totalCount": 1
         },
         "pullRequests_Closed": {
             "totalCount": 2
         },
         "pullRequests_Merged": {
-            "totalCount": 32
+            "totalCount": 34
         },
         "issues_Open": {
             "totalCount": 7

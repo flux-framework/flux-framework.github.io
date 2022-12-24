@@ -155,19 +155,19 @@
     "flux-framework/flux-operator": {
         "languages": {
             "totalCount": 4,
-            "totalSize": 86562,
+            "totalSize": 94726,
             "nodes": [
                 {
                     "name": "Go",
                     "color": "#00ADD8"
                 },
                 {
-                    "name": "Makefile",
-                    "color": "#427819"
-                },
-                {
                     "name": "Shell",
                     "color": "#89e051"
+                },
+                {
+                    "name": "Makefile",
+                    "color": "#427819"
                 },
                 {
                     "name": "Dockerfile",
@@ -176,13 +176,13 @@
             ],
             "edges": [
                 {
-                    "size": 62079
+                    "size": 65444
                 },
                 {
-                    "size": 12157
+                    "size": 15228
                 },
                 {
-                    "size": 10627
+                    "size": 12355
                 },
                 {
                     "size": 1699
