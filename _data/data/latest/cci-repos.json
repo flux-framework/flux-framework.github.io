@@ -213,10 +213,10 @@
             "totalCount": 44
         },
         "issues_Open": {
-            "totalCount": 13
+            "totalCount": 6
         },
         "issues_Closed": {
-            "totalCount": 14
+            "totalCount": 22
         }
     },
     "flux-framework/flux-security": {
