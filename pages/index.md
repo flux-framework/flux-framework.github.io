@@ -13,7 +13,7 @@ hide_hero: true
  <img src="{{ site.baseurl }}/assets/images/Flux-logo-full.png" class="flux-logo">
 <h2 class='flux-tagline'>{{ site.tagline }}</h2>
     <input name="tags" style="width:600px; margin:auto;margin-bottom:30px">
-    <p class="flux-tagline-small">Looking for a particular project? Try entering a language or term you're interested in, like "python" or "security" above.</p>
+    <p class="flux-tagline-small">Looking for a particular project? Try entering a language or term you're interested in, like <em>python</em> or <em>security</em> above.</p>
   </div>
 
 <p style="text-align:center; margin:auto"><button id='star-sort' class="btn">Sort by ⭐️</button><button id='language-sort' style="margin-left:10px" class="btn">Sort by Language</button><button id='name-sort' style="margin-left:10px" class="btn">Sort by Name</button></p>
