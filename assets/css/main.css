@@ -236,8 +236,9 @@ footer {
   /*Simple css to style it like a toggle switch*/
   .theme-switch-wrapper {
     display: flex;
-    align-items: center;
-    padding-top:20px;
+    align-items: left;
+    padding-top: 20px;
+    padding-left: 100px;
 
     em {
       margin-left: 10px;
