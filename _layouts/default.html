@@ -41,9 +41,6 @@
   max-width: 1000px;
 }
 
-.pen-intro{
-}
-
 input{
   order: 5;
 }
@@ -82,5 +79,9 @@ label[for='checkbox-tagify-show-input'] + input:checked ~ textaragifyea{
 {{ content }}
 
 {% unless page.no_footer %}{% include footer.html %}{% endunless %}
+
+<link href="https://gitcdn.github.io/bootstrap-toggle/2.2.2/css/bootstrap-toggle.min.css" rel="stylesheet">
+<script src="https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js"></script>
+{% include dark-light-mode.html %}
 </body>
 </html>

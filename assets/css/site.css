@@ -1,11 +1,46 @@
 /*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
+:root {
+    --primary-color: #302AE6;
+    --secondary-color: #536390;
+    --font-color: #424242;
+    --bg-color: #fff;
+    --heading-color: #292922;
+    --card-background: #fff;
+    --header-font-color:#4c4c4c;
+    --hero-color:#474747;
+    --button-font: black;
+    --button-bg:#e9e9ed;
+
+}
+  
+  [data-theme="dark"] {
+    --primary-color: #9A97F3;
+    --secondary-color: #818cab;
+    --font-color: #e1e1ff;
+    --bg-color: #161625;
+    --heading-color: #818cab;
+    --card-background:#26263a;
+    --header-font-color: #818cab;
+    --hero-color:#2f2f44;
+    --button-bg:#2f2f44;
+    --button-font: skyblue;
+}
+
+.btn {
+  background-color: var(--button-bg)    
+}
+.btn.focus, .btn:focus, .btn:hover {
+  color: var(--button-font) !important;
+}
+  
 html{
     line-height:1.15;
     -ms-text-size-adjust:100%;
     -webkit-text-size-adjust:100%
 }
 body{
-    margin:0
+    margin:0;
+    background-color: var(--bg-color) !important;    
 }
 article,aside,footer,header,nav,section{
     display:block
@@ -165,8 +200,8 @@ html{
     font-size:16px
 }
 body{
-    background:white;
-    color:#444;
+    background:var(--bg-color);
+    color:var(--font-color);
     font-family:"Roboto",sans-serif;
     line-height:18px;
     margin:0;
@@ -175,7 +210,7 @@ body{
     -webkit-font-smoothing:antialiased
 }
 h1,h2,h3,h4,h5,h6{
-    color:#444;
+    color:var(--font-color);
     font-family:"Google Sans",sans-serif;
     font-weight:400;
     line-height:1.5em;
@@ -206,7 +241,7 @@ h6{
     font-size:1em
 }
 p,div,ol{
-    color:#4c4c4c;
+    color:var(--font-color);
     font-size:16px;
     line-height:22px;
     margin:0 0 33px 0
@@ -224,6 +259,7 @@ ul{
 }
 nav ul{
     list-style:none;
+    background-color: var(--bg-color);
     margin:0;
     padding:0
 }
@@ -436,7 +472,7 @@ p>sup{
     line-height:55px
 }
 .main-nav ul li a{
-    background:white;
+    background-color: var(--bg-color);  
     display:block;
     font-size:14px;
     padding:0 30px
@@ -579,7 +615,7 @@ p>sup{
     }
 }
 .header-main{
-    background:#ffffff;
+    background-color: var(--bg-color);
     height:75px;
     line-height:75px;
     position:relative
@@ -597,14 +633,14 @@ p>sup{
     width:230px
 }
 .header-main a{
-    color:#4c4c4c;
+    color: var(--header-font-color);
     text-decoration:none
 }
 .nav-active .header-main{
     z-index:99
 }
 .main{
-    background-color:#ffffff;
+    background-color: var(--bg-color);  
     box-shadow:0 1px 1.5px rgba(0,0,0,0.12),0 1px 1px rgba(0,0,0,0.24);
     box-sizing:border-box;
     margin:0 auto;
@@ -613,9 +649,9 @@ p>sup{
 
 
 .hero{
-    background-color:#474747;
     box-sizing:border-box;
-    color:#ffffff;
+    background-color: var(--hero-color);
+    color: var(--font-color);  
     display:-ms-flexbox;
     display:flex;
     flex-direction:column;
@@ -648,14 +684,21 @@ p>sup{
     margin:0 0 8px 0
 }
 .hero nav.hero-nav{
+    background-color: var(--hero-color);
     margin-bottom:0;
     white-space:nowrap;
     text-align:left;
 }
 .hero nav.hero-nav ul li{
+    background-color: var(--hero-color) !important;
     display:inline-block;
     margin:0 10px 0 0
 }
+
+.hero ul {
+    background-color: var(--hero-color);
+}
+
 .hero nav.hero-nav ul li.active{
     border-bottom:solid 4px white
 }
@@ -668,7 +711,7 @@ p>sup{
     margin-bottom:0
 }
 .hero nav.hero-nav ul li a{
-    color:#ffffff;
+    color: var(--font-color);  
     display:block;
     font-family:"Google Sans",sans-serif;
     font-size:28px;
@@ -677,7 +720,7 @@ p>sup{
     text-transform:none
 }
 .hero p{
-    color:#ffffff;
+    color: var(--font-color);  
     font-family:"Google Sans",sans-serif;
     font-size:24px;
     line-height:32px
@@ -836,7 +879,7 @@ h4{
     margin:0 0 33px 0
 }
     .callout{
-        background-color:#f2f2f2;
+        background-color: var(--bg-color);
         padding:70px 15px;
         text-align:left
     }
@@ -904,7 +947,7 @@ h4{
             position:relative
         }
         .quotes .quote{
-            background:white;
+            background: var(--bg-color);          
             border-bottom:none;
             border-right:solid 4px #f2f2f2;
             display:-ms-flexbox;
@@ -1033,7 +1076,7 @@ h4{
         text-transform:uppercase
     }
     .footer-main a:hover{
-        color:white
+        color: var(--font-color);
     }
     .footer-main .google{
         display:block;
