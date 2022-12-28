@@ -155,7 +155,7 @@
     "flux-framework/flux-operator": {
         "languages": {
             "totalCount": 4,
-            "totalSize": 94726,
+            "totalSize": 103607,
             "nodes": [
                 {
                     "name": "Go",
@@ -176,13 +176,13 @@
             ],
             "edges": [
                 {
-                    "size": 65444
+                    "size": 73915
                 },
                 {
-                    "size": 15228
+                    "size": 15658
                 },
                 {
-                    "size": 12355
+                    "size": 12335
                 },
                 {
                     "size": 1699
