@@ -1,0 +1,64 @@
+{
+    "flux-framework/flux-core": {
+        "name": "flux-framework/flux-core",
+        "description": "core  services for the Flux resource management framework",
+        "website": "",
+        "topics": [
+            "hpc",
+            "resource-manager",
+            "workflows",
+            "radiuss"
+        ]
+    },
+    "flux-framework/flux-sched": {
+        "name": "flux-framework/flux-sched",
+        "description": "Fluxion Graph-based Scheduler",
+        "website": "",
+        "topics": [
+            "hpc",
+            "job-scheduler",
+            "scheduling",
+            "workflows",
+            "radiuss"
+        ]
+    },
+    "flux-framework/flux-accounting": {
+        "name": "flux-framework/flux-accounting",
+        "description": "bank/accounting interface for the Flux resource manager ",
+        "website": "",
+        "topics": null
+    },
+    "flux-framework/flux-pmix": {
+        "name": "flux-framework/flux-pmix",
+        "description": "flux shell plugin to bootstrap openmpi v5+",
+        "website": null,
+        "topics": null
+    },
+    "flux-framework/flux-security": {
+        "name": "flux-framework/flux-security",
+        "description": "Independent project for Flux security code and APIs.",
+        "website": null,
+        "topics": null
+    },
+    "flux-framework/flux-operator": {
+        "name": "flux-framework/flux-operator",
+        "description": "Deploy a Flux MiniCluster to Kubernetes with the operator",
+        "website": "https://flux-framework.org/flux-operator/",
+        "topics": [
+            "flux",
+            "flux-framework",
+            "kubernetes",
+            "operator"
+        ]
+    },
+    "flux-framework/flux-restful-api": {
+        "name": "flux-framework/flux-restful-api",
+        "description": "Flux RESTful API provided by FastAPI",
+        "website": "https://flux-framework.org/flux-restful-api/",
+        "topics": [
+            "docker",
+            "fastapi",
+            "flux-framework"
+        ]
+    }
+}
