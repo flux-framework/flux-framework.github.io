@@ -632,10 +632,6 @@
     "flux-framework/flux-pmix": [
         {
             "total": 0,
-            "week": "2021-12-27"
-        },
-        {
-            "total": 0,
             "week": "2022-01-03"
         },
         {
@@ -837,6 +833,10 @@
         {
             "total": 0,
             "week": "2022-12-19"
+        },
+        {
+            "total": 0,
+            "week": "2022-12-26"
         }
     ],
     "flux-framework/flux-restful-api": [
