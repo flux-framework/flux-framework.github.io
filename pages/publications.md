@@ -6,6 +6,17 @@ permalink: /publications/
 
 ## Papers
 
+ * D. H. Ahn et al., "Scalable Composition and Analysis Techniques for Massive
+   Scientific Workflows," 2022 IEEE 18th International Conference on e-Science
+   (e-Science), 2022, pp. 32-43, doi: 10.1109/eScience55777.2022.00018. 
+   [[pdf]](./Flux-IEEE-2022.pdf) [[journal-link]](https://ieeexplore.ieee.org/document/9973491)
+    
+ * H. Bhatia et al., "Generalizable Coordination of Large Multiscale Workflows:
+   Challenges and Learnings at Scale," SC21: International Conference for High
+   Performance Computing, Networking, Storage and Analysis, 2021, pp. 1-16,
+   doi: 10.1145/3458817.3476210. [[pdf]](./Flux-SC21-2021.pdf) 
+   [[journal-link]](https://ieeexplore.ieee.org/document/9910090)
+
  * Dong H. Ahn, Ned Bass, Albert Chu, Jim Garlick, Mark Grondona, Stephen
    Herbein, Helgi I. Ingólfsson, Joseph Koning, Tapasya Patki, Thomas
    R.W. Scogland, Becky Springmeyer, Michela Taufer, **"Flux: Overcoming
@@ -18,7 +29,7 @@ permalink: /publications/
    Ferreira da Silva, Dong H. Ahn, **"MCEM: Multi-Level Cooperative Exception
    Model for HPC Workflows,"** *9th International Workshop on Runtime and
    Operating Systems for Supercomputers (ROSS)* Phoenix, AZ,
-   June 2019. [[paper]](./Flux-ROSS-2019.pdf) [[slides]](./Flux-ROSS-2019-Slides.pdf)
+   June 2019. [[pdf]](./Flux-ROSS-2019.pdf) [[slides]](./Flux-ROSS-2019-Slides.pdf)
 
  * Dong H. Ahn, Ned Bass, Albert Chu, Jim Garlick, Mark Grondona,
    Stephen Herbein, Joseph Koning, Tapasya Patki, Thomas R. W. Scogland,
