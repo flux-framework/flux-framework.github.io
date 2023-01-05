@@ -26,7 +26,13 @@
         "name": "flux-framework/flux-accounting",
         "description": "bank/accounting interface for the Flux resource manager ",
         "website": "",
-        "topics": null
+        "topics": [
+            "accounting",
+            "database",
+            "hpc",
+            "user-management",
+            "priority-calculation"
+        ]
     },
     "flux-framework/flux-pmix": {
         "name": "flux-framework/flux-pmix",

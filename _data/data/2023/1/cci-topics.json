@@ -1,8 +1,44 @@
 {
     "flux-framework/flux-accounting": {
         "repositoryTopics": {
-            "totalCount": 0,
-            "nodes": []
+            "totalCount": 5,
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "accounting"
+                    },
+                    "resourcePath": "/topics/accounting",
+                    "url": "https://github.com/topics/accounting"
+                },
+                {
+                    "topic": {
+                        "name": "database"
+                    },
+                    "resourcePath": "/topics/database",
+                    "url": "https://github.com/topics/database"
+                },
+                {
+                    "topic": {
+                        "name": "hpc"
+                    },
+                    "resourcePath": "/topics/hpc",
+                    "url": "https://github.com/topics/hpc"
+                },
+                {
+                    "topic": {
+                        "name": "user-management"
+                    },
+                    "resourcePath": "/topics/user-management",
+                    "url": "https://github.com/topics/user-management"
+                },
+                {
+                    "topic": {
+                        "name": "priority-calculation"
+                    },
+                    "resourcePath": "/topics/priority-calculation",
+                    "url": "https://github.com/topics/priority-calculation"
+                }
+            ]
         }
     },
     "flux-framework/flux-core": {
