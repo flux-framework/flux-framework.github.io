@@ -1,10 +1,6 @@
 {
     "flux-framework/flux-accounting": [
         {
-            "total": 5,
-            "week": "2022-01-03"
-        },
-        {
             "total": 2,
             "week": "2022-01-10"
         },
@@ -207,6 +203,10 @@
         {
             "total": 0,
             "week": "2022-12-26"
+        },
+        {
+            "total": 0,
+            "week": "2023-01-02"
         }
     ],
     "flux-framework/flux-core": [
@@ -422,10 +422,6 @@
     "flux-framework/flux-operator": [
         {
             "total": 0,
-            "week": "2022-01-03"
-        },
-        {
-            "total": 0,
             "week": "2022-01-10"
         },
         {
@@ -627,6 +623,10 @@
         {
             "total": 4,
             "week": "2022-12-26"
+        },
+        {
+            "total": 0,
+            "week": "2023-01-02"
         }
     ],
     "flux-framework/flux-pmix": [
@@ -1051,10 +1051,6 @@
     ],
     "flux-framework/flux-sched": [
         {
-            "total": 0,
-            "week": "2022-01-03"
-        },
-        {
             "total": 17,
             "week": "2022-01-10"
         },
@@ -1257,6 +1253,10 @@
         {
             "total": 0,
             "week": "2022-12-26"
+        },
+        {
+            "total": 0,
+            "week": "2023-01-02"
         }
     ],
     "flux-framework/flux-security": [
