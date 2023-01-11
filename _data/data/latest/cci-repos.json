@@ -39,19 +39,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 16
+            "totalCount": 15
         },
         "pullRequests_Closed": {
             "totalCount": 168
         },
         "pullRequests_Merged": {
-            "totalCount": 2104
+            "totalCount": 2105
         },
         "issues_Open": {
-            "totalCount": 373
+            "totalCount": 372
         },
         "issues_Closed": {
-            "totalCount": 2123
+            "totalCount": 2124
         }
     },
     "flux-framework/flux-sched": {
@@ -100,7 +100,7 @@
             "totalCount": 45
         },
         "pullRequests_Merged": {
-            "totalCount": 414
+            "totalCount": 415
         },
         "issues_Open": {
             "totalCount": 88
@@ -301,7 +301,7 @@
             "totalCount": 10
         },
         "forks": {
-            "totalCount": 2
+            "totalCount": 3
         },
         "primaryLanguage": {
             "name": "Go"
