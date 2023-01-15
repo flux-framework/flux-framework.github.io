@@ -75,7 +75,7 @@
             "url": "http://choosealicense.com/licenses/lgpl-3.0/"
         },
         "stargazers": {
-            "totalCount": 57
+            "totalCount": 58
         },
         "mentionableUsers": {
             "totalCount": 25
@@ -323,10 +323,10 @@
             "totalCount": 42
         },
         "issues_Open": {
-            "totalCount": 10
+            "totalCount": 9
         },
         "issues_Closed": {
-            "totalCount": 9
+            "totalCount": 11
         }
     },
     "flux-framework/flux-restful-api": {
