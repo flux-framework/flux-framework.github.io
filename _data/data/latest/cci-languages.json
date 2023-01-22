@@ -155,7 +155,7 @@
     "flux-framework/flux-operator": {
         "languages": {
             "totalCount": 4,
-            "totalSize": 109827,
+            "totalSize": 110638,
             "nodes": [
                 {
                     "name": "Go",
@@ -176,10 +176,10 @@
             ],
             "edges": [
                 {
-                    "size": 79244
+                    "size": 79571
                 },
                 {
-                    "size": 16286
+                    "size": 16770
                 },
                 {
                     "size": 12598
@@ -266,7 +266,7 @@
     "flux-framework/flux-restful-api": {
         "languages": {
             "totalCount": 6,
-            "totalSize": 127242,
+            "totalSize": 127435,
             "nodes": [
                 {
                     "name": "Python",
@@ -304,7 +304,7 @@
                     "size": 3441
                 },
                 {
-                    "size": 1592
+                    "size": 1785
                 },
                 {
                     "size": 530
