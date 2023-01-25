@@ -26,7 +26,7 @@
             "totalCount": 27
         },
         "forks": {
-            "totalCount": 41
+            "totalCount": 42
         },
         "primaryLanguage": {
             "name": "C"
@@ -39,19 +39,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 18
+            "totalCount": 16
         },
         "pullRequests_Closed": {
             "totalCount": 169
         },
         "pullRequests_Merged": {
-            "totalCount": 2114
+            "totalCount": 2116
         },
         "issues_Open": {
-            "totalCount": 378
+            "totalCount": 377
         },
         "issues_Closed": {
-            "totalCount": 2131
+            "totalCount": 2134
         }
     },
     "flux-framework/flux-sched": {
@@ -149,7 +149,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 6
+            "totalCount": 7
         },
         "pullRequests_Closed": {
             "totalCount": 7
@@ -204,13 +204,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 1
+            "totalCount": 0
         },
         "pullRequests_Closed": {
             "totalCount": 2
         },
         "pullRequests_Merged": {
-            "totalCount": 45
+            "totalCount": 46
         },
         "issues_Open": {
             "totalCount": 8
@@ -295,7 +295,7 @@
             "url": "http://choosealicense.com/licenses/apache-2.0/"
         },
         "stargazers": {
-            "totalCount": 9
+            "totalCount": 10
         },
         "mentionableUsers": {
             "totalCount": 10
