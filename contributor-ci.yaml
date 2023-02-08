@@ -15,6 +15,7 @@ repos:
 - flux-framework/flux-security
 - flux-framework/flux-operator
 - flux-framework/flux-restful-api
+- flux-framework/dyad
 
 # Parsing functions to use (e.g, parse a NEWS.md)
 functions:

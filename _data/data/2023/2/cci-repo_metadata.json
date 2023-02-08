@@ -66,5 +66,11 @@
             "fastapi",
             "flux-framework"
         ]
+    },
+    "flux-framework/dyad": {
+        "name": "flux-framework/dyad",
+        "description": "DYAD: DYnamic and Asynchronous Data Streamliner",
+        "website": null,
+        "topics": null
     }
 }
