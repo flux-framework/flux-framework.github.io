@@ -27,6 +27,7 @@
 }
 
 .btn {
+  color: var(--button-font) !important;
   background-color: var(--button-bg)    
 }
 .btn.focus, .btn:focus, .btn:hover {

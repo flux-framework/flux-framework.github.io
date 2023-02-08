@@ -1,4 +1,10 @@
 {
+    "flux-framework/dyad": {
+        "repositoryTopics": {
+            "totalCount": 0,
+            "nodes": []
+        }
+    },
     "flux-framework/flux-accounting": {
         "repositoryTopics": {
             "totalCount": 5,
