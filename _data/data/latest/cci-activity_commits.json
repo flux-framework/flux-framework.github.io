@@ -2,10 +2,6 @@
     "flux-framework/dyad": [
         {
             "total": 0,
-            "week": "2022-02-07"
-        },
-        {
-            "total": 0,
             "week": "2022-02-14"
         },
         {
@@ -207,6 +203,10 @@
         {
             "total": 9,
             "week": "2023-01-30"
+        },
+        {
+            "total": 0,
+            "week": "2023-02-06"
         }
     ],
     "flux-framework/flux-accounting": [
@@ -421,10 +421,6 @@
     ],
     "flux-framework/flux-core": [
         {
-            "total": 34,
-            "week": "2022-02-07"
-        },
-        {
             "total": 40,
             "week": "2022-02-14"
         },
@@ -627,13 +623,13 @@
         {
             "total": 29,
             "week": "2023-01-30"
+        },
+        {
+            "total": 0,
+            "week": "2023-02-06"
         }
     ],
     "flux-framework/flux-operator": [
-        {
-            "total": 0,
-            "week": "2022-02-07"
-        },
         {
             "total": 0,
             "week": "2022-02-14"
@@ -837,13 +833,13 @@
         {
             "total": 0,
             "week": "2023-01-30"
+        },
+        {
+            "total": 0,
+            "week": "2023-02-06"
         }
     ],
     "flux-framework/flux-pmix": [
-        {
-            "total": 0,
-            "week": "2022-02-07"
-        },
         {
             "total": 0,
             "week": "2022-02-14"
@@ -1047,13 +1043,13 @@
         {
             "total": 0,
             "week": "2023-01-30"
+        },
+        {
+            "total": 0,
+            "week": "2023-02-06"
         }
     ],
     "flux-framework/flux-restful-api": [
-        {
-            "total": 0,
-            "week": "2022-02-07"
-        },
         {
             "total": 0,
             "week": "2022-02-14"
@@ -1257,13 +1253,13 @@
         {
             "total": 0,
             "week": "2023-01-30"
+        },
+        {
+            "total": 0,
+            "week": "2023-02-06"
         }
     ],
     "flux-framework/flux-sched": [
-        {
-            "total": 7,
-            "week": "2022-02-07"
-        },
         {
             "total": 18,
             "week": "2022-02-14"
@@ -1467,13 +1463,13 @@
         {
             "total": 6,
             "week": "2023-01-30"
+        },
+        {
+            "total": 0,
+            "week": "2023-02-06"
         }
     ],
     "flux-framework/flux-security": [
-        {
-            "total": 0,
-            "week": "2022-02-07"
-        },
         {
             "total": 0,
             "week": "2022-02-14"
@@ -1677,6 +1673,10 @@
         {
             "total": 0,
             "week": "2023-01-30"
+        },
+        {
+            "total": 0,
+            "week": "2023-02-06"
         }
     ]
 }
