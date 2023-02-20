@@ -363,6 +363,10 @@
         {
             "date": "2022-12-12",
             "value": 1
+        },
+        {
+            "date": "2023-01-02",
+            "value": 2
         }
     ],
     "flux-framework/flux-operator": [
@@ -396,7 +400,12 @@
         }
     ],
     "flux-framework/flux-pmix": [],
-    "flux-framework/flux-restful-api": [],
+    "flux-framework/flux-restful-api": [
+        {
+            "date": "2022-11-14",
+            "value": 2
+        }
+    ],
     "flux-framework/flux-sched": [
         {
             "date": "2014-12-29",
