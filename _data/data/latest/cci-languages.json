@@ -2,15 +2,15 @@
     "flux-framework/dyad": {
         "languages": {
             "totalCount": 6,
-            "totalSize": 416854,
+            "totalSize": 417364,
             "nodes": [
-                {
-                    "name": "C++",
-                    "color": "#f34b7d"
-                },
                 {
                     "name": "C",
                     "color": "#555555"
+                },
+                {
+                    "name": "C++",
+                    "color": "#f34b7d"
                 },
                 {
                     "name": "Shell",
@@ -21,32 +21,32 @@
                     "color": null
                 },
                 {
-                    "name": "Makefile",
-                    "color": "#427819"
-                },
-                {
                     "name": "Awk",
                     "color": "#c30e9b"
+                },
+                {
+                    "name": "Makefile",
+                    "color": "#427819"
                 }
             ],
             "edges": [
                 {
-                    "size": 141135
+                    "size": 141823
                 },
                 {
-                    "size": 120312
+                    "size": 122322
                 },
                 {
                     "size": 105806
                 },
                 {
-                    "size": 34513
-                },
-                {
-                    "size": 8573
+                    "size": 34549
                 },
                 {
                     "size": 6515
+                },
+                {
+                    "size": 6349
                 }
             ]
         }
@@ -120,7 +120,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 13,
-            "totalSize": 10811391,
+            "totalSize": 10850181,
             "nodes": [
                 {
                     "name": "C",
@@ -177,22 +177,22 @@
             ],
             "edges": [
                 {
-                    "size": 7989445
+                    "size": 8011138
                 },
                 {
-                    "size": 1404434
+                    "size": 1408360
                 },
                 {
-                    "size": 911582
+                    "size": 923887
                 },
                 {
                     "size": 162931
                 },
                 {
-                    "size": 146461
+                    "size": 147160
                 },
                 {
-                    "size": 101419
+                    "size": 101586
                 },
                 {
                     "size": 26527
