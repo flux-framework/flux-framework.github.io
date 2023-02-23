@@ -416,6 +416,11 @@
                     "tagName": "v0.26.0"
                 },
                 {
+                    "name": "flux-sched v0.25.0",
+                    "publishedAt": "2022-10-05T14:33:29Z",
+                    "tagName": "v0.25.0"
+                },
+                {
                     "name": "flux-sched v0.24.0",
                     "publishedAt": "2022-08-03T15:58:03Z",
                     "tagName": "v0.24.0"
