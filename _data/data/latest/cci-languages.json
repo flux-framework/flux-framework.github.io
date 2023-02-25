@@ -120,7 +120,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 13,
-            "totalSize": 10856097,
+            "totalSize": 10859683,
             "nodes": [
                 {
                     "name": "C",
@@ -177,13 +177,13 @@
             ],
             "edges": [
                 {
-                    "size": 8016759
+                    "size": 8019204
                 },
                 {
-                    "size": 1408355
+                    "size": 1409634
                 },
                 {
-                    "size": 923887
+                    "size": 923749
                 },
                 {
                     "size": 162931
@@ -221,7 +221,7 @@
     "flux-framework/flux-operator": {
         "languages": {
             "totalCount": 4,
-            "totalSize": 119700,
+            "totalSize": 124445,
             "nodes": [
                 {
                     "name": "Go",
@@ -242,10 +242,10 @@
             ],
             "edges": [
                 {
-                    "size": 86303
+                    "size": 87845
                 },
                 {
-                    "size": 18620
+                    "size": 21823
                 },
                 {
                     "size": 13078
@@ -332,7 +332,7 @@
     "flux-framework/flux-restful-api": {
         "languages": {
             "totalCount": 6,
-            "totalSize": 128539,
+            "totalSize": 137428,
             "nodes": [
                 {
                     "name": "Python",
@@ -361,16 +361,16 @@
             ],
             "edges": [
                 {
-                    "size": 100222
+                    "size": 108078
                 },
                 {
-                    "size": 22498
+                    "size": 22509
                 },
                 {
                     "size": 3441
                 },
                 {
-                    "size": 1785
+                    "size": 2807
                 },
                 {
                     "size": 530
