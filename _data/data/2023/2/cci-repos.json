@@ -39,13 +39,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 18
+            "totalCount": 17
         },
         "pullRequests_Closed": {
             "totalCount": 170
         },
         "pullRequests_Merged": {
-            "totalCount": 2157
+            "totalCount": 2161
         },
         "issues_Open": {
             "totalCount": 380
@@ -320,13 +320,13 @@
             "totalCount": 3
         },
         "pullRequests_Merged": {
-            "totalCount": 54
+            "totalCount": 56
         },
         "issues_Open": {
             "totalCount": 7
         },
         "issues_Closed": {
-            "totalCount": 21
+            "totalCount": 22
         }
     },
     "flux-framework/flux-restful-api": {
@@ -378,7 +378,7 @@
             "totalCount": 24
         },
         "issues_Open": {
-            "totalCount": 6
+            "totalCount": 7
         },
         "issues_Closed": {
             "totalCount": 12
