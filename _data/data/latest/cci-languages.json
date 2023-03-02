@@ -2,7 +2,7 @@
     "flux-framework/dyad": {
         "languages": {
             "totalCount": 6,
-            "totalSize": 414365,
+            "totalSize": 414373,
             "nodes": [
                 {
                     "name": "C",
@@ -43,7 +43,7 @@
                     "size": 34549
                 },
                 {
-                    "size": 6728
+                    "size": 6736
                 },
                 {
                     "size": 6515
@@ -221,7 +221,7 @@
     "flux-framework/flux-operator": {
         "languages": {
             "totalCount": 5,
-            "totalSize": 359557,
+            "totalSize": 364145,
             "nodes": [
                 {
                     "name": "Python",
@@ -246,10 +246,10 @@
             ],
             "edges": [
                 {
-                    "size": 227573
+                    "size": 230993
                 },
                 {
-                    "size": 91381
+                    "size": 92549
                 },
                 {
                     "size": 24357
@@ -391,7 +391,7 @@
     "flux-framework/flux-sched": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 2815934,
+            "totalSize": 2815956,
             "nodes": [
                 {
                     "name": "C++",
@@ -432,7 +432,7 @@
             ],
             "edges": [
                 {
-                    "size": 2049207
+                    "size": 2049229
                 },
                 {
                     "size": 520456
