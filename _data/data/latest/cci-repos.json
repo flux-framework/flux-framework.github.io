@@ -20,7 +20,7 @@
             "url": "http://choosealicense.com/licenses/lgpl-3.0/"
         },
         "stargazers": {
-            "totalCount": 121
+            "totalCount": 122
         },
         "mentionableUsers": {
             "totalCount": 27
@@ -39,16 +39,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 16
+            "totalCount": 15
         },
         "pullRequests_Closed": {
             "totalCount": 170
         },
         "pullRequests_Merged": {
-            "totalCount": 2165
+            "totalCount": 2166
         },
         "issues_Open": {
-            "totalCount": 382
+            "totalCount": 383
         },
         "issues_Closed": {
             "totalCount": 2165
@@ -75,7 +75,7 @@
             "url": "http://choosealicense.com/licenses/lgpl-3.0/"
         },
         "stargazers": {
-            "totalCount": 59
+            "totalCount": 61
         },
         "mentionableUsers": {
             "totalCount": 26
@@ -149,13 +149,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 8
+            "totalCount": 7
         },
         "pullRequests_Closed": {
             "totalCount": 7
         },
         "pullRequests_Merged": {
-            "totalCount": 156
+            "totalCount": 157
         },
         "issues_Open": {
             "totalCount": 24
@@ -295,7 +295,7 @@
             "url": "http://choosealicense.com/licenses/apache-2.0/"
         },
         "stargazers": {
-            "totalCount": 10
+            "totalCount": 11
         },
         "mentionableUsers": {
             "totalCount": 10
@@ -314,16 +314,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 4
+            "totalCount": 5
         },
         "pullRequests_Closed": {
             "totalCount": 3
         },
         "pullRequests_Merged": {
-            "totalCount": 58
+            "totalCount": 60
         },
         "issues_Open": {
-            "totalCount": 7
+            "totalCount": 8
         },
         "issues_Closed": {
             "totalCount": 22
