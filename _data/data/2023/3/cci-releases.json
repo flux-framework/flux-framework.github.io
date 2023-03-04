@@ -8,6 +8,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "flux-accounting v0.22.0",
+                    "publishedAt": "2023-03-03T22:42:39Z",
+                    "tagName": "v0.22.0"
+                },
+                {
                     "name": "flux-accounting v0.21.0",
                     "publishedAt": "2022-12-12T21:01:29Z",
                     "tagName": "v0.21.0"
