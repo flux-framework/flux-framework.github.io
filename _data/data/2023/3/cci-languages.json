@@ -221,7 +221,7 @@
     "flux-framework/flux-operator": {
         "languages": {
             "totalCount": 5,
-            "totalSize": 370225,
+            "totalSize": 370008,
             "nodes": [
                 {
                     "name": "Python",
@@ -246,13 +246,13 @@
             ],
             "edges": [
                 {
-                    "size": 237073
+                    "size": 239269
                 },
                 {
-                    "size": 92549
+                    "size": 92706
                 },
                 {
-                    "size": 24357
+                    "size": 21787
                 },
                 {
                     "size": 14547
@@ -338,8 +338,8 @@
     },
     "flux-framework/flux-restful-api": {
         "languages": {
-            "totalCount": 6,
-            "totalSize": 137428,
+            "totalCount": 7,
+            "totalSize": 154815,
             "nodes": [
                 {
                     "name": "Python",
@@ -362,13 +362,17 @@
                     "color": "#89e051"
                 },
                 {
+                    "name": "Mako",
+                    "color": "#7e858d"
+                },
+                {
                     "name": "Makefile",
                     "color": "#427819"
                 }
             ],
             "edges": [
                 {
-                    "size": 108078
+                    "size": 124332
                 },
                 {
                     "size": 22509
@@ -377,10 +381,13 @@
                     "size": 3441
                 },
                 {
-                    "size": 2807
+                    "size": 2742
                 },
                 {
-                    "size": 530
+                    "size": 1218
+                },
+                {
+                    "size": 510
                 },
                 {
                     "size": 63

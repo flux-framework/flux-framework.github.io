@@ -39,7 +39,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 14
+            "totalCount": 15
         },
         "pullRequests_Closed": {
             "totalCount": 170
@@ -295,7 +295,7 @@
             "url": "http://choosealicense.com/licenses/apache-2.0/"
         },
         "stargazers": {
-            "totalCount": 11
+            "totalCount": 12
         },
         "mentionableUsers": {
             "totalCount": 10
@@ -320,7 +320,7 @@
             "totalCount": 3
         },
         "pullRequests_Merged": {
-            "totalCount": 61
+            "totalCount": 62
         },
         "issues_Open": {
             "totalCount": 9
@@ -362,7 +362,7 @@
             "name": "Python"
         },
         "languages": {
-            "totalCount": 6
+            "totalCount": 7
         },
         "repositoryTopics": {
             "totalCount": 3
@@ -375,13 +375,13 @@
             "totalCount": 0
         },
         "pullRequests_Merged": {
-            "totalCount": 24
+            "totalCount": 27
         },
         "issues_Open": {
-            "totalCount": 7
+            "totalCount": 5
         },
         "issues_Closed": {
-            "totalCount": 12
+            "totalCount": 16
         }
     },
     "flux-framework/dyad": {
