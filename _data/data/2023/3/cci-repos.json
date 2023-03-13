@@ -320,13 +320,13 @@
             "totalCount": 3
         },
         "pullRequests_Merged": {
-            "totalCount": 68
+            "totalCount": 72
         },
         "issues_Open": {
-            "totalCount": 10
+            "totalCount": 9
         },
         "issues_Closed": {
-            "totalCount": 23
+            "totalCount": 24
         }
     },
     "flux-framework/flux-restful-api": {
