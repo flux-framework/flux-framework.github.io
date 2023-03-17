@@ -39,7 +39,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 13
+            "totalCount": 15
         },
         "pullRequests_Closed": {
             "totalCount": 170
@@ -149,10 +149,10 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 6
+            "totalCount": 5
         },
         "pullRequests_Closed": {
-            "totalCount": 7
+            "totalCount": 9
         },
         "pullRequests_Merged": {
             "totalCount": 164
@@ -326,7 +326,7 @@
             "totalCount": 9
         },
         "issues_Closed": {
-            "totalCount": 24
+            "totalCount": 25
         }
     },
     "flux-framework/flux-restful-api": {
