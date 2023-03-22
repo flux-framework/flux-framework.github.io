@@ -39,7 +39,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 15
+            "totalCount": 16
         },
         "pullRequests_Closed": {
             "totalCount": 170
@@ -149,7 +149,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 4
+            "totalCount": 5
         },
         "pullRequests_Closed": {
             "totalCount": 9
@@ -314,13 +314,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 4
+            "totalCount": 2
         },
         "pullRequests_Closed": {
-            "totalCount": 3
+            "totalCount": 5
         },
         "pullRequests_Merged": {
-            "totalCount": 81
+            "totalCount": 83
         },
         "issues_Open": {
             "totalCount": 7
