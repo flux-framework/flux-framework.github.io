@@ -120,7 +120,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 13,
-            "totalSize": 11001671,
+            "totalSize": 11002721,
             "nodes": [
                 {
                     "name": "C",
@@ -177,10 +177,10 @@
             ],
             "edges": [
                 {
-                    "size": 8055783
+                    "size": 8056304
                 },
                 {
-                    "size": 1450590
+                    "size": 1451119
                 },
                 {
                     "size": 986406
@@ -220,8 +220,8 @@
     },
     "flux-framework/flux-operator": {
         "languages": {
-            "totalCount": 5,
-            "totalSize": 421143,
+            "totalCount": 6,
+            "totalSize": 423239,
             "nodes": [
                 {
                     "name": "Python",
@@ -240,6 +240,10 @@
                     "color": "#427819"
                 },
                 {
+                    "name": "Smarty",
+                    "color": "#f0c040"
+                },
+                {
                     "name": "Dockerfile",
                     "color": "#384d54"
                 }
@@ -255,7 +259,10 @@
                     "size": 24520
                 },
                 {
-                    "size": 14549
+                    "size": 14883
+                },
+                {
+                    "size": 1762
                 },
                 {
                     "size": 1699

@@ -39,16 +39,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 16
+            "totalCount": 17
         },
         "pullRequests_Closed": {
             "totalCount": 170
         },
         "pullRequests_Merged": {
-            "totalCount": 2189
+            "totalCount": 2191
         },
         "issues_Open": {
-            "totalCount": 385
+            "totalCount": 386
         },
         "issues_Closed": {
             "totalCount": 2174
@@ -158,10 +158,10 @@
             "totalCount": 167
         },
         "issues_Open": {
-            "totalCount": 22
+            "totalCount": 20
         },
         "issues_Closed": {
-            "totalCount": 125
+            "totalCount": 127
         }
     },
     "flux-framework/flux-pmix": {
@@ -307,7 +307,7 @@
             "name": "Python"
         },
         "languages": {
-            "totalCount": 5
+            "totalCount": 6
         },
         "repositoryTopics": {
             "totalCount": 4
@@ -320,13 +320,13 @@
             "totalCount": 5
         },
         "pullRequests_Merged": {
-            "totalCount": 86
+            "totalCount": 87
         },
         "issues_Open": {
-            "totalCount": 7
+            "totalCount": 6
         },
         "issues_Closed": {
-            "totalCount": 27
+            "totalCount": 28
         }
     },
     "flux-framework/flux-restful-api": {
