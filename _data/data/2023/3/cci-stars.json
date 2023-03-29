@@ -379,6 +379,10 @@
         {
             "date": "2023-03-06",
             "value": 1
+        },
+        {
+            "date": "2023-03-27",
+            "value": 1
         }
     ],
     "flux-framework/flux-operator": [
@@ -622,6 +626,10 @@
         {
             "date": "2023-03-06",
             "value": 3
+        },
+        {
+            "date": "2023-03-27",
+            "value": 2
         }
     ],
     "flux-framework/flux-security": []
