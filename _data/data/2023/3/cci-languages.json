@@ -54,7 +54,7 @@
     "flux-framework/flux-accounting": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 581744,
+            "totalSize": 587126,
             "nodes": [
                 {
                     "name": "Python",
@@ -91,13 +91,13 @@
             ],
             "edges": [
                 {
-                    "size": 203140
+                    "size": 203829
                 },
                 {
-                    "size": 186052
+                    "size": 190639
                 },
                 {
-                    "size": 119070
+                    "size": 119144
                 },
                 {
                     "size": 47429
@@ -106,7 +106,7 @@
                     "size": 13329
                 },
                 {
-                    "size": 9940
+                    "size": 9972
                 },
                 {
                     "size": 1787
@@ -120,7 +120,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 13,
-            "totalSize": 11011953,
+            "totalSize": 11009893,
             "nodes": [
                 {
                     "name": "C",
@@ -180,7 +180,7 @@
                     "size": 8058713
                 },
                 {
-                    "size": 1456446
+                    "size": 1455918
                 },
                 {
                     "size": 987874
@@ -189,10 +189,10 @@
                     "size": 163299
                 },
                 {
-                    "size": 148534
+                    "size": 148513
                 },
                 {
-                    "size": 101586
+                    "size": 100075
                 },
                 {
                     "size": 26527
@@ -221,7 +221,7 @@
     "flux-framework/flux-operator": {
         "languages": {
             "totalCount": 6,
-            "totalSize": 430835,
+            "totalSize": 434859,
             "nodes": [
                 {
                     "name": "Python",
@@ -250,13 +250,13 @@
             ],
             "edges": [
                 {
-                    "size": 283959
+                    "size": 285504
                 },
                 {
-                    "size": 103724
+                    "size": 104225
                 },
                 {
-                    "size": 24808
+                    "size": 26786
                 },
                 {
                     "size": 14883
