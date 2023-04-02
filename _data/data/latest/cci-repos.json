@@ -45,10 +45,10 @@
             "totalCount": 177
         },
         "pullRequests_Merged": {
-            "totalCount": 2208
+            "totalCount": 2209
         },
         "issues_Open": {
-            "totalCount": 384
+            "totalCount": 386
         },
         "issues_Closed": {
             "totalCount": 2191
@@ -301,7 +301,7 @@
             "totalCount": 10
         },
         "forks": {
-            "totalCount": 3
+            "totalCount": 4
         },
         "primaryLanguage": {
             "name": "Python"
@@ -314,13 +314,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 6
+            "totalCount": 4
         },
         "pullRequests_Closed": {
             "totalCount": 5
         },
         "pullRequests_Merged": {
-            "totalCount": 91
+            "totalCount": 93
         },
         "issues_Open": {
             "totalCount": 6
