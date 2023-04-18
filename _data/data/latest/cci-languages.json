@@ -120,7 +120,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 13,
-            "totalSize": 11026206,
+            "totalSize": 11026420,
             "nodes": [
                 {
                     "name": "C",
@@ -180,7 +180,7 @@
                     "size": 8069748
                 },
                 {
-                    "size": 1459771
+                    "size": 1459985
                 },
                 {
                     "size": 991043
@@ -398,7 +398,7 @@
     "flux-framework/flux-sched": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 2814920,
+            "totalSize": 2816168,
             "nodes": [
                 {
                     "name": "C++",
@@ -439,22 +439,22 @@
             ],
             "edges": [
                 {
-                    "size": 2049229
+                    "size": 2049238
                 },
                 {
-                    "size": 519430
+                    "size": 520485
                 },
                 {
-                    "size": 82919
+                    "size": 82920
                 },
                 {
-                    "size": 74436
+                    "size": 74456
                 },
                 {
-                    "size": 46633
+                    "size": 46634
                 },
                 {
-                    "size": 19226
+                    "size": 19388
                 },
                 {
                     "size": 12222
