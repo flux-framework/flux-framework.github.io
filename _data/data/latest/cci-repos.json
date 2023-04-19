@@ -20,7 +20,7 @@
             "url": "http://choosealicense.com/licenses/lgpl-3.0/"
         },
         "stargazers": {
-            "totalCount": 124
+            "totalCount": 125
         },
         "mentionableUsers": {
             "totalCount": 27
@@ -39,19 +39,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 17
+            "totalCount": 16
         },
         "pullRequests_Closed": {
             "totalCount": 179
         },
         "pullRequests_Merged": {
-            "totalCount": 2230
+            "totalCount": 2231
         },
         "issues_Open": {
-            "totalCount": 394
+            "totalCount": 393
         },
         "issues_Closed": {
-            "totalCount": 2207
+            "totalCount": 2208
         }
     },
     "flux-framework/flux-sched": {
@@ -81,7 +81,7 @@
             "totalCount": 26
         },
         "forks": {
-            "totalCount": 30
+            "totalCount": 31
         },
         "primaryLanguage": {
             "name": "C++"
@@ -97,7 +97,7 @@
             "totalCount": 6
         },
         "pullRequests_Closed": {
-            "totalCount": 46
+            "totalCount": 47
         },
         "pullRequests_Merged": {
             "totalCount": 430
@@ -149,13 +149,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 7
+            "totalCount": 6
         },
         "pullRequests_Closed": {
             "totalCount": 9
         },
         "pullRequests_Merged": {
-            "totalCount": 172
+            "totalCount": 173
         },
         "issues_Open": {
             "totalCount": 21
@@ -204,13 +204,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 1
+            "totalCount": 0
         },
         "pullRequests_Closed": {
             "totalCount": 2
         },
         "pullRequests_Merged": {
-            "totalCount": 49
+            "totalCount": 50
         },
         "issues_Open": {
             "totalCount": 9
