@@ -54,7 +54,7 @@
     "flux-framework/flux-accounting": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 594430,
+            "totalSize": 594257,
             "nodes": [
                 {
                     "name": "Python",
@@ -91,10 +91,10 @@
             ],
             "edges": [
                 {
-                    "size": 206684
+                    "size": 206666
                 },
                 {
-                    "size": 195088
+                    "size": 194933
                 },
                 {
                     "size": 119144
@@ -120,7 +120,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 13,
-            "totalSize": 11139532,
+            "totalSize": 11142443,
             "nodes": [
                 {
                     "name": "C",
@@ -177,13 +177,13 @@
             ],
             "edges": [
                 {
-                    "size": 8165619
+                    "size": 8166719
                 },
                 {
-                    "size": 1474168
+                    "size": 1475384
                 },
                 {
-                    "size": 991304
+                    "size": 991899
                 },
                 {
                     "size": 163176
@@ -220,8 +220,8 @@
     },
     "flux-framework/flux-operator": {
         "languages": {
-            "totalCount": 6,
-            "totalSize": 436218,
+            "totalCount": 7,
+            "totalSize": 433023,
             "nodes": [
                 {
                     "name": "Python",
@@ -240,32 +240,39 @@
                     "color": "#427819"
                 },
                 {
+                    "name": "Dockerfile",
+                    "color": "#384d54"
+                },
+                {
                     "name": "Smarty",
                     "color": "#f0c040"
                 },
                 {
-                    "name": "Dockerfile",
-                    "color": "#384d54"
+                    "name": "C",
+                    "color": "#555555"
                 }
             ],
             "edges": [
                 {
-                    "size": 286414
+                    "size": 287908
                 },
                 {
-                    "size": 104482
+                    "size": 98166
                 },
                 {
-                    "size": 26978
+                    "size": 26983
                 },
                 {
-                    "size": 14883
+                    "size": 15874
+                },
+                {
+                    "size": 2278
                 },
                 {
                     "size": 1762
                 },
                 {
-                    "size": 1699
+                    "size": 52
                 }
             ]
         }
