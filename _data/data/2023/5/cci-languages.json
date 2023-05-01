@@ -1,0 +1,530 @@
+{
+    "flux-framework/dyad": {
+        "languages": {
+            "totalCount": 6,
+            "totalSize": 414373,
+            "nodes": [
+                {
+                    "name": "C",
+                    "color": "#555555"
+                },
+                {
+                    "name": "C++",
+                    "color": "#f34b7d"
+                },
+                {
+                    "name": "Shell",
+                    "color": "#89e051"
+                },
+                {
+                    "name": "M4",
+                    "color": null
+                },
+                {
+                    "name": "Makefile",
+                    "color": "#427819"
+                },
+                {
+                    "name": "Awk",
+                    "color": "#c30e9b"
+                }
+            ],
+            "edges": [
+                {
+                    "size": 139572
+                },
+                {
+                    "size": 122985
+                },
+                {
+                    "size": 104016
+                },
+                {
+                    "size": 34549
+                },
+                {
+                    "size": 6736
+                },
+                {
+                    "size": 6515
+                }
+            ]
+        }
+    },
+    "flux-framework/flux-accounting": {
+        "languages": {
+            "totalCount": 8,
+            "totalSize": 594257,
+            "nodes": [
+                {
+                    "name": "Python",
+                    "color": "#3572A5"
+                },
+                {
+                    "name": "Shell",
+                    "color": "#89e051"
+                },
+                {
+                    "name": "C++",
+                    "color": "#f34b7d"
+                },
+                {
+                    "name": "M4",
+                    "color": null
+                },
+                {
+                    "name": "C",
+                    "color": "#555555"
+                },
+                {
+                    "name": "Makefile",
+                    "color": "#427819"
+                },
+                {
+                    "name": "Perl",
+                    "color": "#0298c3"
+                },
+                {
+                    "name": "Dockerfile",
+                    "color": "#384d54"
+                }
+            ],
+            "edges": [
+                {
+                    "size": 206666
+                },
+                {
+                    "size": 194933
+                },
+                {
+                    "size": 119144
+                },
+                {
+                    "size": 47429
+                },
+                {
+                    "size": 13329
+                },
+                {
+                    "size": 9972
+                },
+                {
+                    "size": 1787
+                },
+                {
+                    "size": 997
+                }
+            ]
+        }
+    },
+    "flux-framework/flux-core": {
+        "languages": {
+            "totalCount": 13,
+            "totalSize": 11152196,
+            "nodes": [
+                {
+                    "name": "C",
+                    "color": "#555555"
+                },
+                {
+                    "name": "Shell",
+                    "color": "#89e051"
+                },
+                {
+                    "name": "Python",
+                    "color": "#3572A5"
+                },
+                {
+                    "name": "M4",
+                    "color": null
+                },
+                {
+                    "name": "Makefile",
+                    "color": "#427819"
+                },
+                {
+                    "name": "Lua",
+                    "color": "#000080"
+                },
+                {
+                    "name": "Roff",
+                    "color": "#ecdebe"
+                },
+                {
+                    "name": "Dockerfile",
+                    "color": "#384d54"
+                },
+                {
+                    "name": "Terra",
+                    "color": "#00004c"
+                },
+                {
+                    "name": "SourcePawn",
+                    "color": "#f69e1d"
+                },
+                {
+                    "name": "Perl",
+                    "color": "#0298c3"
+                },
+                {
+                    "name": "Rebol",
+                    "color": "#358a5b"
+                },
+                {
+                    "name": "R",
+                    "color": "#198CE7"
+                }
+            ],
+            "edges": [
+                {
+                    "size": 8176248
+                },
+                {
+                    "size": 1475380
+                },
+                {
+                    "size": 991899
+                },
+                {
+                    "size": 163176
+                },
+                {
+                    "size": 149993
+                },
+                {
+                    "size": 99997
+                },
+                {
+                    "size": 26527
+                },
+                {
+                    "size": 25238
+                },
+                {
+                    "size": 20336
+                },
+                {
+                    "size": 10804
+                },
+                {
+                    "size": 10086
+                },
+                {
+                    "size": 1833
+                },
+                {
+                    "size": 679
+                }
+            ]
+        }
+    },
+    "flux-framework/flux-operator": {
+        "languages": {
+            "totalCount": 7,
+            "totalSize": 433023,
+            "nodes": [
+                {
+                    "name": "Python",
+                    "color": "#3572A5"
+                },
+                {
+                    "name": "Go",
+                    "color": "#00ADD8"
+                },
+                {
+                    "name": "Shell",
+                    "color": "#89e051"
+                },
+                {
+                    "name": "Makefile",
+                    "color": "#427819"
+                },
+                {
+                    "name": "Dockerfile",
+                    "color": "#384d54"
+                },
+                {
+                    "name": "Smarty",
+                    "color": "#f0c040"
+                },
+                {
+                    "name": "C",
+                    "color": "#555555"
+                }
+            ],
+            "edges": [
+                {
+                    "size": 287908
+                },
+                {
+                    "size": 98166
+                },
+                {
+                    "size": 26983
+                },
+                {
+                    "size": 15874
+                },
+                {
+                    "size": 2278
+                },
+                {
+                    "size": 1762
+                },
+                {
+                    "size": 52
+                }
+            ]
+        }
+    },
+    "flux-framework/flux-pmix": {
+        "languages": {
+            "totalCount": 8,
+            "totalSize": 896628,
+            "nodes": [
+                {
+                    "name": "C",
+                    "color": "#555555"
+                },
+                {
+                    "name": "Shell",
+                    "color": "#89e051"
+                },
+                {
+                    "name": "M4",
+                    "color": null
+                },
+                {
+                    "name": "Perl",
+                    "color": "#0298c3"
+                },
+                {
+                    "name": "Makefile",
+                    "color": "#427819"
+                },
+                {
+                    "name": "Dockerfile",
+                    "color": "#384d54"
+                },
+                {
+                    "name": "Python",
+                    "color": "#3572A5"
+                },
+                {
+                    "name": "Cuda",
+                    "color": "#3A4E3A"
+                }
+            ],
+            "edges": [
+                {
+                    "size": 682182
+                },
+                {
+                    "size": 108388
+                },
+                {
+                    "size": 52356
+                },
+                {
+                    "size": 28592
+                },
+                {
+                    "size": 13857
+                },
+                {
+                    "size": 7573
+                },
+                {
+                    "size": 2345
+                },
+                {
+                    "size": 1335
+                }
+            ]
+        }
+    },
+    "flux-framework/flux-restful-api": {
+        "languages": {
+            "totalCount": 7,
+            "totalSize": 157556,
+            "nodes": [
+                {
+                    "name": "Python",
+                    "color": "#3572A5"
+                },
+                {
+                    "name": "HTML",
+                    "color": "#e34c26"
+                },
+                {
+                    "name": "CSS",
+                    "color": "#563d7c"
+                },
+                {
+                    "name": "Dockerfile",
+                    "color": "#384d54"
+                },
+                {
+                    "name": "Shell",
+                    "color": "#89e051"
+                },
+                {
+                    "name": "Mako",
+                    "color": "#7e858d"
+                },
+                {
+                    "name": "Makefile",
+                    "color": "#427819"
+                }
+            ],
+            "edges": [
+                {
+                    "size": 127339
+                },
+                {
+                    "size": 22509
+                },
+                {
+                    "size": 3441
+                },
+                {
+                    "size": 2349
+                },
+                {
+                    "size": 1218
+                },
+                {
+                    "size": 510
+                },
+                {
+                    "size": 190
+                }
+            ]
+        }
+    },
+    "flux-framework/flux-sched": {
+        "languages": {
+            "totalCount": 9,
+            "totalSize": 2816253,
+            "nodes": [
+                {
+                    "name": "C++",
+                    "color": "#f34b7d"
+                },
+                {
+                    "name": "Shell",
+                    "color": "#89e051"
+                },
+                {
+                    "name": "M4",
+                    "color": null
+                },
+                {
+                    "name": "Python",
+                    "color": "#3572A5"
+                },
+                {
+                    "name": "C",
+                    "color": "#555555"
+                },
+                {
+                    "name": "Makefile",
+                    "color": "#427819"
+                },
+                {
+                    "name": "Perl",
+                    "color": "#0298c3"
+                },
+                {
+                    "name": "Lua",
+                    "color": "#000080"
+                },
+                {
+                    "name": "Dockerfile",
+                    "color": "#384d54"
+                }
+            ],
+            "edges": [
+                {
+                    "size": 2049238
+                },
+                {
+                    "size": 520485
+                },
+                {
+                    "size": 82920
+                },
+                {
+                    "size": 74456
+                },
+                {
+                    "size": 46634
+                },
+                {
+                    "size": 19473
+                },
+                {
+                    "size": 12222
+                },
+                {
+                    "size": 6806
+                },
+                {
+                    "size": 4019
+                }
+            ]
+        }
+    },
+    "flux-framework/flux-security": {
+        "languages": {
+            "totalCount": 6,
+            "totalSize": 722718,
+            "nodes": [
+                {
+                    "name": "C",
+                    "color": "#555555"
+                },
+                {
+                    "name": "Shell",
+                    "color": "#89e051"
+                },
+                {
+                    "name": "M4",
+                    "color": null
+                },
+                {
+                    "name": "Makefile",
+                    "color": "#427819"
+                },
+                {
+                    "name": "Python",
+                    "color": "#3572A5"
+                },
+                {
+                    "name": "Dockerfile",
+                    "color": "#384d54"
+                }
+            ],
+            "edges": [
+                {
+                    "size": 547831
+                },
+                {
+                    "size": 122724
+                },
+                {
+                    "size": 29424
+                },
+                {
+                    "size": 17294
+                },
+                {
+                    "size": 3433
+                },
+                {
+                    "size": 2012
+                }
+            ]
+        }
+    }
+}
