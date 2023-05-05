@@ -54,7 +54,7 @@
     "flux-framework/flux-accounting": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 594257,
+            "totalSize": 597019,
             "nodes": [
                 {
                     "name": "Python",
@@ -94,10 +94,10 @@
                     "size": 206666
                 },
                 {
-                    "size": 194933
+                    "size": 197228
                 },
                 {
-                    "size": 119144
+                    "size": 119579
                 },
                 {
                     "size": 47429
@@ -106,7 +106,7 @@
                     "size": 13329
                 },
                 {
-                    "size": 9972
+                    "size": 10004
                 },
                 {
                     "size": 1787
@@ -120,7 +120,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 13,
-            "totalSize": 11169217,
+            "totalSize": 11169129,
             "nodes": [
                 {
                     "name": "C",
@@ -177,7 +177,7 @@
             ],
             "edges": [
                 {
-                    "size": 8187898
+                    "size": 8187810
                 },
                 {
                     "size": 1480503
@@ -221,7 +221,7 @@
     "flux-framework/flux-operator": {
         "languages": {
             "totalCount": 7,
-            "totalSize": 441030,
+            "totalSize": 466297,
             "nodes": [
                 {
                     "name": "Python",
@@ -254,13 +254,13 @@
             ],
             "edges": [
                 {
-                    "size": 291223
+                    "size": 316247
                 },
                 {
-                    "size": 102280
+                    "size": 102547
                 },
                 {
-                    "size": 27561
+                    "size": 27537
                 },
                 {
                     "size": 15874
