@@ -444,6 +444,7 @@
         }
     ],
     "flux-framework/flux-pmix": [],
+    "flux-framework/flux-python": [],
     "flux-framework/flux-restful-api": [
         {
             "date": "2022-11-14",

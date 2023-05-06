@@ -343,6 +343,37 @@
             ]
         }
     },
+    "flux-framework/flux-python": {
+        "languages": {
+            "totalCount": 3,
+            "totalSize": 26682,
+            "nodes": [
+                {
+                    "name": "Python",
+                    "color": "#3572A5"
+                },
+                {
+                    "name": "Dockerfile",
+                    "color": "#384d54"
+                },
+                {
+                    "name": "C",
+                    "color": "#555555"
+                }
+            ],
+            "edges": [
+                {
+                    "size": 21288
+                },
+                {
+                    "size": 4878
+                },
+                {
+                    "size": 516
+                }
+            ]
+        }
+    },
     "flux-framework/flux-restful-api": {
         "languages": {
             "totalCount": 7,
