@@ -59,7 +59,6 @@ projects programmatically available, and as stated above, it's updated nightly.
  - `/flux-framework.github.io/api/commits.json`
  - `/flux-framework.github.io/api/lines.json`
 
-
 ### Custom Data
 
 #### Avatars

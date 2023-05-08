@@ -1239,6 +1239,13 @@
             0
         ]
     ],
+    "flux-framework/flux-python": [
+        [
+            "2023-04-24",
+            10234,
+            -8415
+        ]
+    ],
     "flux-framework/flux-restful-api": [
         [
             "2022-10-24",

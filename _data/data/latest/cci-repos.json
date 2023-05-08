@@ -384,6 +384,61 @@
             "totalCount": 16
         }
     },
+    "flux-framework/flux-python": {
+        "nameWithOwner": "flux-framework/flux-python",
+        "name": "flux-python",
+        "owner": {
+            "login": "flux-framework",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/7545483?v=4"
+        },
+        "url": "https://github.com/flux-framework/flux-python",
+        "homepageUrl": "https://pypi.org/project/flux-python/",
+        "description": "Python bindings generator for flux-core",
+        "createdAt": "2023-05-02T03:12:55Z",
+        "defaultBranchRef": {
+            "name": "main"
+        },
+        "licenseInfo": {
+            "name": "GNU Lesser General Public License v3.0",
+            "nickname": "GNU LGPLv3",
+            "spdxId": "LGPL-3.0",
+            "url": "http://choosealicense.com/licenses/lgpl-3.0/"
+        },
+        "stargazers": {
+            "totalCount": 0
+        },
+        "mentionableUsers": {
+            "totalCount": 16
+        },
+        "forks": {
+            "totalCount": 1
+        },
+        "primaryLanguage": {
+            "name": "Python"
+        },
+        "languages": {
+            "totalCount": 3
+        },
+        "repositoryTopics": {
+            "totalCount": 6
+        },
+        "parent": null,
+        "pullRequests_Open": {
+            "totalCount": 0
+        },
+        "pullRequests_Closed": {
+            "totalCount": 0
+        },
+        "pullRequests_Merged": {
+            "totalCount": 3
+        },
+        "issues_Open": {
+            "totalCount": 0
+        },
+        "issues_Closed": {
+            "totalCount": 0
+        }
+    },
     "flux-framework/dyad": {
         "nameWithOwner": "flux-framework/dyad",
         "name": "dyad",

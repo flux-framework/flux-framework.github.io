@@ -67,6 +67,18 @@
             "flux-framework"
         ]
     },
+    "flux-framework/flux-python": {
+        "name": "flux-framework/flux-python",
+        "description": "Python bindings generator for flux-core",
+        "website": "https://pypi.org/project/flux-python/",
+        "topics": [
+            "bindings",
+            "flux",
+            "flux-framework",
+            "hpc",
+            "python"
+        ]
+    },
     "flux-framework/dyad": {
         "name": "flux-framework/dyad",
         "description": "DYAD: DYnamic and Asynchronous Data Streamliner",

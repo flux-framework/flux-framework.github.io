@@ -457,6 +457,11 @@
             ]
         }
     },
+    "flux-framework/flux-python": {
+        "releases": {
+            "nodes": []
+        }
+    },
     "flux-framework/flux-restful-api": {
         "releases": {
             "nodes": []
