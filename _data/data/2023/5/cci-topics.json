@@ -125,7 +125,7 @@
     },
     "flux-framework/flux-python": {
         "repositoryTopics": {
-            "totalCount": 6,
+            "totalCount": 5,
             "nodes": [
                 {
                     "topic": {
@@ -133,13 +133,6 @@
                     },
                     "resourcePath": "/topics/bindings",
                     "url": "https://github.com/topics/bindings"
-                },
-                {
-                    "topic": {
-                        "name": "converged-computing"
-                    },
-                    "resourcePath": "/topics/converged-computing",
-                    "url": "https://github.com/topics/converged-computing"
                 },
                 {
                     "topic": {
