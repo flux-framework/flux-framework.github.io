@@ -120,7 +120,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 13,
-            "totalSize": 11187818,
+            "totalSize": 11189892,
             "nodes": [
                 {
                     "name": "C",
@@ -180,10 +180,10 @@
                     "size": 8199213
                 },
                 {
-                    "size": 1485699
+                    "size": 1486217
                 },
                 {
-                    "size": 992305
+                    "size": 993861
                 },
                 {
                     "size": 163176
@@ -345,8 +345,8 @@
     },
     "flux-framework/flux-python": {
         "languages": {
-            "totalCount": 3,
-            "totalSize": 27026,
+            "totalCount": 4,
+            "totalSize": 28596,
             "nodes": [
                 {
                     "name": "Python",
@@ -355,6 +355,10 @@
                 {
                     "name": "Dockerfile",
                     "color": "#384d54"
+                },
+                {
+                    "name": "Shell",
+                    "color": "#89e051"
                 },
                 {
                     "name": "C",
@@ -366,7 +370,10 @@
                     "size": 21668
                 },
                 {
-                    "size": 4842
+                    "size": 4841
+                },
+                {
+                    "size": 1571
                 },
                 {
                     "size": 516

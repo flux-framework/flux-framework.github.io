@@ -39,19 +39,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 13
+            "totalCount": 12
         },
         "pullRequests_Closed": {
-            "totalCount": 179
+            "totalCount": 180
         },
         "pullRequests_Merged": {
-            "totalCount": 2269
+            "totalCount": 2270
         },
         "issues_Open": {
             "totalCount": 396
         },
         "issues_Closed": {
-            "totalCount": 2232
+            "totalCount": 2233
         }
     },
     "flux-framework/flux-sched": {
@@ -100,7 +100,7 @@
             "totalCount": 48
         },
         "pullRequests_Merged": {
-            "totalCount": 431
+            "totalCount": 432
         },
         "issues_Open": {
             "totalCount": 92
@@ -158,7 +158,7 @@
             "totalCount": 179
         },
         "issues_Open": {
-            "totalCount": 17
+            "totalCount": 19
         },
         "issues_Closed": {
             "totalCount": 138
@@ -417,7 +417,7 @@
             "name": "Python"
         },
         "languages": {
-            "totalCount": 3
+            "totalCount": 4
         },
         "repositoryTopics": {
             "totalCount": 5
@@ -430,7 +430,7 @@
             "totalCount": 0
         },
         "pullRequests_Merged": {
-            "totalCount": 4
+            "totalCount": 5
         },
         "issues_Open": {
             "totalCount": 0
