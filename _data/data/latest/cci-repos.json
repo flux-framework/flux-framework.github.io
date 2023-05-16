@@ -259,19 +259,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 1
+            "totalCount": 0
         },
         "pullRequests_Closed": {
             "totalCount": 1
         },
         "pullRequests_Merged": {
-            "totalCount": 100
+            "totalCount": 102
         },
         "issues_Open": {
-            "totalCount": 27
+            "totalCount": 26
         },
         "issues_Closed": {
-            "totalCount": 34
+            "totalCount": 35
         }
     },
     "flux-framework/flux-operator": {
@@ -295,7 +295,7 @@
             "url": "http://choosealicense.com/licenses/mit/"
         },
         "stargazers": {
-            "totalCount": 16
+            "totalCount": 17
         },
         "mentionableUsers": {
             "totalCount": 10
