@@ -45,10 +45,10 @@
             "totalCount": 181
         },
         "pullRequests_Merged": {
-            "totalCount": 2274
+            "totalCount": 2276
         },
         "issues_Open": {
-            "totalCount": 397
+            "totalCount": 400
         },
         "issues_Closed": {
             "totalCount": 2237
@@ -158,7 +158,7 @@
             "totalCount": 179
         },
         "issues_Open": {
-            "totalCount": 20
+            "totalCount": 23
         },
         "issues_Closed": {
             "totalCount": 139
@@ -320,7 +320,7 @@
             "totalCount": 6
         },
         "pullRequests_Merged": {
-            "totalCount": 116
+            "totalCount": 117
         },
         "issues_Open": {
             "totalCount": 7
