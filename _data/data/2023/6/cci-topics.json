@@ -119,8 +119,30 @@
     },
     "flux-framework/flux-pmix": {
         "repositoryTopics": {
-            "totalCount": 0,
-            "nodes": []
+            "totalCount": 3,
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "flux-framework"
+                    },
+                    "resourcePath": "/topics/flux-framework",
+                    "url": "https://github.com/topics/flux-framework"
+                },
+                {
+                    "topic": {
+                        "name": "hpc"
+                    },
+                    "resourcePath": "/topics/hpc",
+                    "url": "https://github.com/topics/hpc"
+                },
+                {
+                    "topic": {
+                        "name": "openmpi"
+                    },
+                    "resourcePath": "/topics/openmpi",
+                    "url": "https://github.com/topics/openmpi"
+                }
+            ]
         }
     },
     "flux-framework/flux-python": {

@@ -37,8 +37,12 @@
     "flux-framework/flux-pmix": {
         "name": "flux-framework/flux-pmix",
         "description": "flux shell plugin to bootstrap openmpi v5+",
-        "website": null,
-        "topics": null
+        "website": "",
+        "topics": [
+            "flux-framework",
+            "hpc",
+            "openmpi"
+        ]
     },
     "flux-framework/flux-security": {
         "name": "flux-framework/flux-security",
