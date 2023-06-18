@@ -703,6 +703,10 @@
         {
             "date": "2023-05-08",
             "value": 1
+        },
+        {
+            "date": "2023-05-15",
+            "value": 1
         }
     ],
     "flux-framework/flux-security": []
