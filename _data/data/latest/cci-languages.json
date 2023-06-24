@@ -221,7 +221,7 @@
     "flux-framework/flux-operator": {
         "languages": {
             "totalCount": 7,
-            "totalSize": 492870,
+            "totalSize": 494272,
             "nodes": [
                 {
                     "name": "Python",
@@ -254,10 +254,10 @@
             ],
             "edges": [
                 {
-                    "size": 330572
+                    "size": 331625
                 },
                 {
-                    "size": 113991
+                    "size": 114340
                 },
                 {
                     "size": 28330
@@ -443,7 +443,7 @@
     "flux-framework/flux-sched": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 2817185,
+            "totalSize": 2820016,
             "nodes": [
                 {
                     "name": "C++",
@@ -484,10 +484,10 @@
             ],
             "edges": [
                 {
-                    "size": 2050170
+                    "size": 2050194
                 },
                 {
-                    "size": 520485
+                    "size": 523203
                 },
                 {
                     "size": 82920
@@ -499,7 +499,7 @@
                     "size": 46634
                 },
                 {
-                    "size": 19473
+                    "size": 19562
                 },
                 {
                     "size": 12222
