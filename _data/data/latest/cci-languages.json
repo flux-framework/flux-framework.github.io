@@ -54,7 +54,7 @@
     "flux-framework/flux-accounting": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 597019,
+            "totalSize": 613435,
             "nodes": [
                 {
                     "name": "Python",
@@ -91,7 +91,7 @@
             ],
             "edges": [
                 {
-                    "size": 206666
+                    "size": 223055
                 },
                 {
                     "size": 197228
@@ -106,7 +106,7 @@
                     "size": 13329
                 },
                 {
-                    "size": 10004
+                    "size": 10031
                 },
                 {
                     "size": 1787
@@ -120,7 +120,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 13,
-            "totalSize": 11340803,
+            "totalSize": 11340951,
             "nodes": [
                 {
                     "name": "C",
@@ -180,7 +180,7 @@
                     "size": 8268873
                 },
                 {
-                    "size": 1526066
+                    "size": 1526214
                 },
                 {
                     "size": 1033241
@@ -221,7 +221,7 @@
     "flux-framework/flux-operator": {
         "languages": {
             "totalCount": 7,
-            "totalSize": 522195,
+            "totalSize": 520740,
             "nodes": [
                 {
                     "name": "Python",
@@ -254,10 +254,10 @@
             ],
             "edges": [
                 {
-                    "size": 353743
+                    "size": 352755
                 },
                 {
-                    "size": 120171
+                    "size": 119704
                 },
                 {
                     "size": 27561
@@ -443,7 +443,7 @@
     "flux-framework/flux-sched": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 2820016,
+            "totalSize": 2819863,
             "nodes": [
                 {
                     "name": "C++",
@@ -484,7 +484,7 @@
             ],
             "edges": [
                 {
-                    "size": 2050194
+                    "size": 2050041
                 },
                 {
                     "size": 523203
