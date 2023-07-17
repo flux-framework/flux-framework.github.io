@@ -473,6 +473,10 @@
         {
             "date": "2023-05-22",
             "value": 1
+        },
+        {
+            "date": "2023-06-12",
+            "value": 1
         }
     ],
     "flux-framework/flux-pmix": [],
