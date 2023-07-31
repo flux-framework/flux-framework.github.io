@@ -221,7 +221,7 @@
     "flux-framework/flux-operator": {
         "languages": {
             "totalCount": 7,
-            "totalSize": 551609,
+            "totalSize": 550700,
             "nodes": [
                 {
                     "name": "Python",
@@ -240,12 +240,12 @@
                     "color": "#427819"
                 },
                 {
-                    "name": "Dockerfile",
-                    "color": "#384d54"
-                },
-                {
                     "name": "Smarty",
                     "color": "#f0c040"
+                },
+                {
+                    "name": "Dockerfile",
+                    "color": "#384d54"
                 },
                 {
                     "name": "C",
@@ -266,10 +266,10 @@
                     "size": 16566
                 },
                 {
-                    "size": 2278
+                    "size": 1762
                 },
                 {
-                    "size": 1762
+                    "size": 1369
                 },
                 {
                     "size": 52

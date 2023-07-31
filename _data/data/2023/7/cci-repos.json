@@ -51,7 +51,7 @@
             "totalCount": 414
         },
         "issues_Closed": {
-            "totalCount": 2298
+            "totalCount": 2299
         }
     },
     "flux-framework/flux-sched": {
@@ -75,7 +75,7 @@
             "url": "http://choosealicense.com/licenses/lgpl-3.0/"
         },
         "stargazers": {
-            "totalCount": 74
+            "totalCount": 75
         },
         "mentionableUsers": {
             "totalCount": 27
@@ -320,7 +320,7 @@
             "totalCount": 9
         },
         "pullRequests_Merged": {
-            "totalCount": 139
+            "totalCount": 140
         },
         "issues_Open": {
             "totalCount": 7
