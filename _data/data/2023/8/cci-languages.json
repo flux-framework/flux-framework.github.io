@@ -54,7 +54,7 @@
     "flux-framework/flux-accounting": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 626801,
+            "totalSize": 626796,
             "nodes": [
                 {
                     "name": "Python",
@@ -91,7 +91,7 @@
             ],
             "edges": [
                 {
-                    "size": 227965
+                    "size": 227961
                 },
                 {
                     "size": 204792
@@ -112,7 +112,7 @@
                     "size": 1787
                 },
                 {
-                    "size": 997
+                    "size": 996
                 }
             ]
         }
@@ -120,7 +120,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 13,
-            "totalSize": 11598565,
+            "totalSize": 11603001,
             "nodes": [
                 {
                     "name": "C",
@@ -147,12 +147,12 @@
                     "color": "#000080"
                 },
                 {
-                    "name": "Roff",
-                    "color": "#ecdebe"
-                },
-                {
                     "name": "Dockerfile",
                     "color": "#384d54"
+                },
+                {
+                    "name": "Roff",
+                    "color": "#ecdebe"
                 },
                 {
                     "name": "Terra",
@@ -177,16 +177,16 @@
             ],
             "edges": [
                 {
-                    "size": 8388880
+                    "size": 8389006
                 },
                 {
-                    "size": 1556441
+                    "size": 1556431
                 },
                 {
-                    "size": 1139294
+                    "size": 1139321
                 },
                 {
-                    "size": 163007
+                    "size": 163008
                 },
                 {
                     "size": 153524
@@ -195,10 +195,10 @@
                     "size": 99997
                 },
                 {
-                    "size": 26527
+                    "size": 30766
                 },
                 {
-                    "size": 26474
+                    "size": 26527
                 },
                 {
                     "size": 20336
