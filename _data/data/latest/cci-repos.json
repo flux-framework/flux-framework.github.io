@@ -20,7 +20,7 @@
             "url": "http://choosealicense.com/licenses/lgpl-3.0/"
         },
         "stargazers": {
-            "totalCount": 135
+            "totalCount": 136
         },
         "mentionableUsers": {
             "totalCount": 27
@@ -39,7 +39,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 13
+            "totalCount": 14
         },
         "pullRequests_Closed": {
             "totalCount": 186
@@ -48,10 +48,10 @@
             "totalCount": 2377
         },
         "issues_Open": {
-            "totalCount": 416
+            "totalCount": 415
         },
         "issues_Closed": {
-            "totalCount": 2306
+            "totalCount": 2307
         }
     },
     "flux-framework/flux-sched": {
@@ -259,19 +259,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 1
+            "totalCount": 0
         },
         "pullRequests_Closed": {
             "totalCount": 1
         },
         "pullRequests_Merged": {
-            "totalCount": 104
+            "totalCount": 105
         },
         "issues_Open": {
-            "totalCount": 28
+            "totalCount": 27
         },
         "issues_Closed": {
-            "totalCount": 35
+            "totalCount": 36
         }
     },
     "flux-framework/flux-operator": {
@@ -326,7 +326,7 @@
             "totalCount": 7
         },
         "issues_Closed": {
-            "totalCount": 32
+            "totalCount": 33
         }
     },
     "flux-framework/flux-restful-api": {
@@ -463,7 +463,7 @@
             "totalCount": 5
         },
         "mentionableUsers": {
-            "totalCount": 17
+            "totalCount": 18
         },
         "forks": {
             "totalCount": 3
@@ -479,7 +479,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 5
+            "totalCount": 7
         },
         "pullRequests_Closed": {
             "totalCount": 2
