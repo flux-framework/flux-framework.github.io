@@ -505,6 +505,10 @@
         {
             "date": "2023-06-19",
             "value": 1
+        },
+        {
+            "date": "2023-07-31",
+            "value": 1
         }
     ],
     "flux-framework/flux-sched": [
