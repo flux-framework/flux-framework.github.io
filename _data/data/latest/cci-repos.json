@@ -298,7 +298,7 @@
             "totalCount": 19
         },
         "mentionableUsers": {
-            "totalCount": 10
+            "totalCount": 11
         },
         "forks": {
             "totalCount": 6
@@ -314,19 +314,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 10
+            "totalCount": 8
         },
         "pullRequests_Closed": {
             "totalCount": 10
         },
         "pullRequests_Merged": {
-            "totalCount": 142
+            "totalCount": 144
         },
         "issues_Open": {
-            "totalCount": 7
+            "totalCount": 6
         },
         "issues_Closed": {
-            "totalCount": 33
+            "totalCount": 34
         }
     },
     "flux-framework/flux-restful-api": {
