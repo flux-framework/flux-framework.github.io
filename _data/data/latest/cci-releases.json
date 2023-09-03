@@ -455,6 +455,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "Flux Operator Release v0.1.1",
+                    "publishedAt": "2023-09-03T01:46:42Z",
+                    "tagName": "0.1.1"
+                },
+                {
                     "name": "Flux Operator Release v0.1.0",
                     "publishedAt": "2023-07-31T01:49:59Z",
                     "tagName": "0.1.0"
@@ -490,7 +495,13 @@
     },
     "flux-framework/flux-restful-api": {
         "releases": {
-            "nodes": []
+            "nodes": [
+                {
+                    "name": "Flux RESTFul API Release v0.1.13",
+                    "publishedAt": "2023-09-03T01:56:22Z",
+                    "tagName": "0.1.13"
+                }
+            ]
         }
     },
     "flux-framework/flux-sched": {
