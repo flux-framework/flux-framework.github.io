@@ -831,7 +831,7 @@
             "week": "2023-08-14"
         },
         {
-            "total": 3,
+            "total": 4,
             "week": "2023-08-21"
         },
         {
@@ -840,10 +840,6 @@
         }
     ],
     "flux-framework/flux-pmix": [
-        {
-            "total": 0,
-            "week": "2022-08-29"
-        },
         {
             "total": 0,
             "week": "2022-09-05"
@@ -1047,6 +1043,10 @@
         {
             "total": 0,
             "week": "2023-08-21"
+        },
+        {
+            "total": 0,
+            "week": "2023-08-28"
         }
     ],
     "flux-framework/flux-python": [
