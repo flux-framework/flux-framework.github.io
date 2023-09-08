@@ -39,19 +39,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 20
+            "totalCount": 22
         },
         "pullRequests_Closed": {
             "totalCount": 188
         },
         "pullRequests_Merged": {
-            "totalCount": 2401
+            "totalCount": 2402
         },
         "issues_Open": {
-            "totalCount": 422
+            "totalCount": 421
         },
         "issues_Closed": {
-            "totalCount": 2313
+            "totalCount": 2314
         }
     },
     "flux-framework/flux-sched": {
@@ -87,7 +87,7 @@
             "name": "C++"
         },
         "languages": {
-            "totalCount": 9
+            "totalCount": 10
         },
         "repositoryTopics": {
             "totalCount": 5
@@ -100,10 +100,10 @@
             "totalCount": 51
         },
         "pullRequests_Merged": {
-            "totalCount": 449
+            "totalCount": 450
         },
         "issues_Open": {
-            "totalCount": 95
+            "totalCount": 97
         },
         "issues_Closed": {
             "totalCount": 450
@@ -155,13 +155,13 @@
             "totalCount": 9
         },
         "pullRequests_Merged": {
-            "totalCount": 194
+            "totalCount": 195
         },
         "issues_Open": {
-            "totalCount": 24
+            "totalCount": 25
         },
         "issues_Closed": {
-            "totalCount": 144
+            "totalCount": 145
         }
     },
     "flux-framework/flux-pmix": {
@@ -479,16 +479,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 7
+            "totalCount": 6
         },
         "pullRequests_Closed": {
             "totalCount": 2
         },
         "pullRequests_Merged": {
-            "totalCount": 17
+            "totalCount": 18
         },
         "issues_Open": {
-            "totalCount": 12
+            "totalCount": 14
         },
         "issues_Closed": {
             "totalCount": 4
