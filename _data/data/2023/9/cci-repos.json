@@ -39,13 +39,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 17
+            "totalCount": 20
         },
         "pullRequests_Closed": {
             "totalCount": 188
         },
         "pullRequests_Merged": {
-            "totalCount": 2420
+            "totalCount": 2421
         },
         "issues_Open": {
             "totalCount": 420
@@ -103,7 +103,7 @@
             "totalCount": 456
         },
         "issues_Open": {
-            "totalCount": 99
+            "totalCount": 100
         },
         "issues_Closed": {
             "totalCount": 453
@@ -136,7 +136,7 @@
             "totalCount": 18
         },
         "forks": {
-            "totalCount": 8
+            "totalCount": 9
         },
         "primaryLanguage": {
             "name": "Python"
@@ -155,13 +155,13 @@
             "totalCount": 10
         },
         "pullRequests_Merged": {
-            "totalCount": 202
+            "totalCount": 203
         },
         "issues_Open": {
-            "totalCount": 25
+            "totalCount": 24
         },
         "issues_Closed": {
-            "totalCount": 148
+            "totalCount": 150
         }
     },
     "flux-framework/flux-pmix": {
