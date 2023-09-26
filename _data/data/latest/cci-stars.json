@@ -439,6 +439,10 @@
         {
             "date": "2023-09-18",
             "value": 1
+        },
+        {
+            "date": "2023-09-25",
+            "value": 2
         }
     ],
     "flux-framework/flux-operator": [
