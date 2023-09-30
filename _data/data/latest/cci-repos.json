@@ -39,7 +39,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 20
+            "totalCount": 21
         },
         "pullRequests_Closed": {
             "totalCount": 188
@@ -78,7 +78,7 @@
             "totalCount": 76
         },
         "mentionableUsers": {
-            "totalCount": 28
+            "totalCount": 29
         },
         "forks": {
             "totalCount": 34
@@ -87,26 +87,26 @@
             "name": "C++"
         },
         "languages": {
-            "totalCount": 10
+            "totalCount": 11
         },
         "repositoryTopics": {
             "totalCount": 5
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 7
+            "totalCount": 6
         },
         "pullRequests_Closed": {
             "totalCount": 52
         },
         "pullRequests_Merged": {
-            "totalCount": 458
+            "totalCount": 461
         },
         "issues_Open": {
-            "totalCount": 105
+            "totalCount": 102
         },
         "issues_Closed": {
-            "totalCount": 453
+            "totalCount": 457
         }
     },
     "flux-framework/flux-accounting": {
