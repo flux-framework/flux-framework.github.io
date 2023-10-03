@@ -781,8 +781,8 @@
         ],
         [
             "2023-09-25",
-            0,
-            0
+            416,
+            -489
         ]
     ],
     "flux-framework/flux-operator": [
@@ -1931,8 +1931,8 @@
         ],
         [
             "2023-09-25",
-            0,
-            0
+            6,
+            -6
         ]
     ],
     "flux-framework/flux-security": [
