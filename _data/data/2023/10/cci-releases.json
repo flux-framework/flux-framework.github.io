@@ -491,6 +491,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "flux-pmix v0.4.0",
+                    "publishedAt": "2023-10-05T01:43:58Z",
+                    "tagName": "v0.4.0"
+                },
+                {
                     "name": "flux-pmix v0.3.0",
                     "publishedAt": "2023-04-05T13:03:24Z",
                     "tagName": "v0.3.0"

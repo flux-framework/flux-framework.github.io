@@ -20,13 +20,13 @@
             "url": "http://choosealicense.com/licenses/lgpl-3.0/"
         },
         "stargazers": {
-            "totalCount": 141
+            "totalCount": 142
         },
         "mentionableUsers": {
             "totalCount": 27
         },
         "forks": {
-            "totalCount": 43
+            "totalCount": 44
         },
         "primaryLanguage": {
             "name": "C"
@@ -39,7 +39,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 20
+            "totalCount": 22
         },
         "pullRequests_Closed": {
             "totalCount": 188
@@ -48,10 +48,10 @@
             "totalCount": 2433
         },
         "issues_Open": {
-            "totalCount": 424
+            "totalCount": 426
         },
         "issues_Closed": {
-            "totalCount": 2332
+            "totalCount": 2333
         }
     },
     "flux-framework/flux-sched": {
@@ -81,7 +81,7 @@
             "totalCount": 29
         },
         "forks": {
-            "totalCount": 34
+            "totalCount": 35
         },
         "primaryLanguage": {
             "name": "C++"
@@ -100,13 +100,13 @@
             "totalCount": 53
         },
         "pullRequests_Merged": {
-            "totalCount": 464
+            "totalCount": 465
         },
         "issues_Open": {
-            "totalCount": 101
+            "totalCount": 102
         },
         "issues_Closed": {
-            "totalCount": 462
+            "totalCount": 463
         }
     },
     "flux-framework/flux-accounting": {
@@ -210,13 +210,13 @@
             "totalCount": 2
         },
         "pullRequests_Merged": {
-            "totalCount": 53
+            "totalCount": 56
         },
         "issues_Open": {
-            "totalCount": 10
+            "totalCount": 8
         },
         "issues_Closed": {
-            "totalCount": 25
+            "totalCount": 27
         }
     },
     "flux-framework/flux-security": {
@@ -479,10 +479,10 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 6
+            "totalCount": 7
         },
         "pullRequests_Closed": {
-            "totalCount": 3
+            "totalCount": 4
         },
         "pullRequests_Merged": {
             "totalCount": 18
