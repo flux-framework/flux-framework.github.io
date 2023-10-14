@@ -2,7 +2,7 @@
     "flux-framework/dyad": {
         "languages": {
             "totalCount": 6,
-            "totalSize": 483276,
+            "totalSize": 483642,
             "nodes": [
                 {
                     "name": "C",
@@ -40,10 +40,10 @@
                     "size": 104016
                 },
                 {
-                    "size": 35702
+                    "size": 35895
                 },
                 {
-                    "size": 8652
+                    "size": 8825
                 },
                 {
                     "size": 6515
@@ -120,7 +120,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 13,
-            "totalSize": 11796344,
+            "totalSize": 11800725,
             "nodes": [
                 {
                     "name": "C",
@@ -177,10 +177,10 @@
             ],
             "edges": [
                 {
-                    "size": 8519376
+                    "size": 8523925
                 },
                 {
-                    "size": 1587847
+                    "size": 1587861
                 },
                 {
                     "size": 1171334
@@ -189,7 +189,7 @@
                     "size": 166231
                 },
                 {
-                    "size": 154225
+                    "size": 154043
                 },
                 {
                     "size": 99997
@@ -443,7 +443,7 @@
     "flux-framework/flux-sched": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 2895416,
+            "totalSize": 2895351,
             "nodes": [
                 {
                     "name": "C++",
@@ -501,13 +501,13 @@
                     "size": 83502
                 },
                 {
-                    "size": 69428
+                    "size": 69399
                 },
                 {
                     "size": 48959
                 },
                 {
-                    "size": 31381
+                    "size": 31345
                 },
                 {
                     "size": 22976
