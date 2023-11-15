@@ -781,8 +781,8 @@
         ],
         [
             "2023-11-06",
-            233,
-            -170
+            399,
+            -186
         ]
     ],
     "flux-framework/flux-operator": [
@@ -1452,8 +1452,8 @@
         ],
         [
             "2023-11-06",
-            0,
-            0
+            9,
+            -1
         ]
     ],
     "flux-framework/flux-restful-api": [
@@ -1976,8 +1976,8 @@
         ],
         [
             "2023-11-06",
-            0,
-            0
+            78,
+            -1
         ]
     ],
     "flux-framework/flux-security": [
