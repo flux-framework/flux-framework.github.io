@@ -26,7 +26,7 @@
             "totalCount": 27
         },
         "forks": {
-            "totalCount": 44
+            "totalCount": 43
         },
         "primaryLanguage": {
             "name": "C"
@@ -39,19 +39,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 22
+            "totalCount": 21
         },
         "pullRequests_Closed": {
-            "totalCount": 193
+            "totalCount": 194
         },
         "pullRequests_Merged": {
-            "totalCount": 2497
+            "totalCount": 2501
         },
         "issues_Open": {
-            "totalCount": 437
+            "totalCount": 438
         },
         "issues_Closed": {
-            "totalCount": 2360
+            "totalCount": 2362
         }
     },
     "flux-framework/flux-sched": {
@@ -81,7 +81,7 @@
             "totalCount": 29
         },
         "forks": {
-            "totalCount": 35
+            "totalCount": 34
         },
         "primaryLanguage": {
             "name": "C++"
