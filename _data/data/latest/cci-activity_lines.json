@@ -781,8 +781,8 @@
         ],
         [
             "2023-12-18",
-            0,
-            0
+            32,
+            -5
         ]
     ],
     "flux-framework/flux-operator": [
