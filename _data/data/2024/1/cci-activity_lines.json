@@ -257,8 +257,8 @@
         ],
         [
             "2023-12-25",
-            0,
-            0
+            19,
+            -6
         ]
     ],
     "flux-framework/flux-accounting": [
@@ -781,8 +781,8 @@
         ],
         [
             "2023-12-25",
-            135,
-            -8
+            167,
+            -28
         ]
     ],
     "flux-framework/flux-operator": [
