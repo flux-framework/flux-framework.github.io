@@ -39,16 +39,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 19
+            "totalCount": 21
         },
         "pullRequests_Closed": {
             "totalCount": 195
         },
         "pullRequests_Merged": {
-            "totalCount": 2552
+            "totalCount": 2553
         },
         "issues_Open": {
-            "totalCount": 420
+            "totalCount": 422
         },
         "issues_Closed": {
             "totalCount": 2405
@@ -149,10 +149,10 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 9
+            "totalCount": 8
         },
         "pullRequests_Closed": {
-            "totalCount": 11
+            "totalCount": 12
         },
         "pullRequests_Merged": {
             "totalCount": 208
@@ -472,20 +472,20 @@
             "name": "C"
         },
         "languages": {
-            "totalCount": 7
+            "totalCount": 8
         },
         "repositoryTopics": {
             "totalCount": 0
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 9
+            "totalCount": 8
         },
         "pullRequests_Closed": {
             "totalCount": 4
         },
         "pullRequests_Merged": {
-            "totalCount": 25
+            "totalCount": 29
         },
         "issues_Open": {
             "totalCount": 18
