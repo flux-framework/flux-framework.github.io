@@ -2,7 +2,7 @@
     "flux-framework/dyad": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 543163,
+            "totalSize": 570031,
             "nodes": [
                 {
                     "name": "C",
@@ -17,16 +17,16 @@
                     "color": "#89e051"
                 },
                 {
+                    "name": "CMake",
+                    "color": "#DA3434"
+                },
+                {
                     "name": "M4",
                     "color": null
                 },
                 {
                     "name": "Python",
                     "color": "#3572A5"
-                },
-                {
-                    "name": "CMake",
-                    "color": "#DA3434"
                 },
                 {
                     "name": "Awk",
@@ -39,28 +39,28 @@
             ],
             "edges": [
                 {
-                    "size": 198297
+                    "size": 200241
                 },
                 {
-                    "size": 125356
+                    "size": 126320
                 },
                 {
                     "size": 111616
                 },
                 {
+                    "size": 51212
+                },
+                {
                     "size": 35992
                 },
                 {
-                    "size": 31727
-                },
-                {
-                    "size": 27399
+                    "size": 31869
                 },
                 {
                     "size": 6515
                 },
                 {
-                    "size": 6261
+                    "size": 6266
                 }
             ]
         }
