@@ -103,7 +103,7 @@
             "totalCount": 481
         },
         "issues_Open": {
-            "totalCount": 111
+            "totalCount": 112
         },
         "issues_Closed": {
             "totalCount": 470
@@ -479,13 +479,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 9
+            "totalCount": 7
         },
         "pullRequests_Closed": {
-            "totalCount": 6
+            "totalCount": 9
         },
         "pullRequests_Merged": {
-            "totalCount": 31
+            "totalCount": 32
         },
         "issues_Open": {
             "totalCount": 20
