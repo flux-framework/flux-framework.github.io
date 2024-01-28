@@ -398,7 +398,7 @@
     "flux-framework/flux-restful-api": {
         "languages": {
             "totalCount": 7,
-            "totalSize": 158082,
+            "totalSize": 158521,
             "nodes": [
                 {
                     "name": "Python",
@@ -431,7 +431,7 @@
             ],
             "edges": [
                 {
-                    "size": 128359
+                    "size": 128798
                 },
                 {
                     "size": 22509
