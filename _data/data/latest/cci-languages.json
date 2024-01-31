@@ -1,12 +1,16 @@
 {
     "flux-framework/dyad": {
         "languages": {
-            "totalCount": 8,
-            "totalSize": 609421,
+            "totalCount": 9,
+            "totalSize": 825213,
             "nodes": [
                 {
                     "name": "C",
                     "color": "#555555"
+                },
+                {
+                    "name": "Jupyter Notebook",
+                    "color": "#DA5B0B"
                 },
                 {
                     "name": "C++",
@@ -39,16 +43,19 @@
             ],
             "edges": [
                 {
-                    "size": 223777
+                    "size": 229092
                 },
                 {
-                    "size": 135150
+                    "size": 210302
                 },
                 {
-                    "size": 112649
+                    "size": 135056
                 },
                 {
-                    "size": 54617
+                    "size": 112691
+                },
+                {
+                    "size": 54844
                 },
                 {
                     "size": 37419
