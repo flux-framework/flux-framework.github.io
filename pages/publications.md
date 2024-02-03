@@ -16,6 +16,12 @@ permalink: /publications/
    Computing, Network, Storage, and Analysis (SC-W '23). 2023, New York, NY, USA, 2077–2088.
    doi: 10.1145/3624062.3624286. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3624062.3624286) [[journal-link]](https://dl.acm.org/doi/10.1145/3624062.3624286) [[slides]](https://works-workshop.org/files/works23_patki.pdf)
 
+ * D. J. Milroy et al., **"One Step Closer to Converged Computing: Achieving Scalability
+   with Cloud-Native HPC,"** 2022 IEEE/ACM 4th International Workshop on Containers and 
+   New Orchestration Paradigms for Isolated Environments in HPC (CANOPIE-HPC),
+   Dallas, TX, USA, 2022, pp. 57-70, doi: 10.1109/CANOPIE-HPC56864.2022.00011.
+   [[journal-link]](https://ieeexplore.ieee.org/abstract/document/10029991)
+
  * D. H. Ahn et al., **"Scalable Composition and Analysis Techniques for Massive
    Scientific Workflows,"** 2022 IEEE 18th International Conference on e-Science
    (e-Science), 2022, pp. 32-43, doi: 10.1109/eScience55777.2022.00018. 
