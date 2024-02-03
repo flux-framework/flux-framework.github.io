@@ -6,6 +6,11 @@ permalink: /publications/
 
 ## Papers
 
+ * D. Nichols et al., "Predicting Cross-Architecture Performance of Parallel Programs"
+   2024 IEEE International Parallel & Distributed Processing Symposium,
+   San Francisco, California USA, 2024.
+   [[pdf]](./Flux-D.Nichols_IPDPS2024.pdf)
+
  * D. H. Ahn et al., "Scalable Composition and Analysis Techniques for Massive
    Scientific Workflows," 2022 IEEE 18th International Conference on e-Science
    (e-Science), 2022, pp. 32-43, doi: 10.1109/eScience55777.2022.00018. 
