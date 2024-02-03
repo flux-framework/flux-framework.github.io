@@ -6,15 +6,22 @@ permalink: /publications/
 
 ## Papers
 
+##### 2024
+
  * D. Nichols et al., **"Predicting Cross-Architecture Performance of Parallel Programs"**
    2024 IEEE International Parallel & Distributed Processing Symposium,
    San Francisco, California USA, 2024.
    [[pdf]](./Flux-D.Nichols_IPDPS2024.pdf)
 
+
+##### 2023
+
  * T. Patki, et al., **"Fluxion: A Scalable Graph-Based Resource Model for HPC Scheduling Challenges,"**
    Proceedings of the SC '23 Workshops of The International Conference on High Performance
    Computing, Network, Storage, and Analysis (SC-W '23). 2023, New York, NY, USA, 2077–2088.
    doi: 10.1145/3624062.3624286. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3624062.3624286) [[journal-link]](https://dl.acm.org/doi/10.1145/3624062.3624286) [[slides]](https://works-workshop.org/files/works23_patki.pdf)
+
+##### 2022
 
  * D. J. Milroy et al., **"One Step Closer to Converged Computing: Achieving Scalability
    with Cloud-Native HPC,"** 2022 IEEE/ACM 4th International Workshop on Containers and 
@@ -27,6 +34,8 @@ permalink: /publications/
    (e-Science), 2022, pp. 32-43, doi: 10.1109/eScience55777.2022.00018. 
    [[pdf]](./Flux-IEEE-2022.pdf) [[journal-link]](https://ieeexplore.ieee.org/document/9973491)
     
+##### 2021
+
  * H. Bhatia et al., **"Generalizable Coordination of Large Multiscale Workflows:
    Challenges and Learnings at Scale,"** SC21: International Conference for High
    Performance Computing, Networking, Storage and Analysis, 2021, pp. 1-16,
@@ -39,6 +48,8 @@ permalink: /publications/
    Information Science, vol 1512. Springer, Cham. 
    [[journal-link]](https://doi.org/10.1007/978-3-030-96498-6_18)
 
+##### 2020
+
  * Dong H. Ahn, Ned Bass, Albert Chu, Jim Garlick, Mark Grondona, Stephen
    Herbein, Helgi I. Ingólfsson, Joseph Koning, Tapasya Patki, Thomas
    R.W. Scogland, Becky Springmeyer, Michela Taufer, **"Flux: Overcoming
@@ -47,11 +58,16 @@ permalink: /publications/
    pdf]](./Flux-FGCS-2020.pdf) [[journal
    link]](https://doi.org/10.1016/j.future.2020.04.006)
 
+
+##### 2019
+
  * Stephen Herbein, David Domyancic, Paul Minner, Ignacio Laguna, Rafael
    Ferreira da Silva, Dong H. Ahn, **"MCEM: Multi-Level Cooperative Exception
    Model for HPC Workflows,"** *9th International Workshop on Runtime and
    Operating Systems for Supercomputers (ROSS)* Phoenix, AZ,
    June 2019. [[pdf]](./Flux-ROSS-2019.pdf) [[slides]](./Flux-ROSS-2019-Slides.pdf)
+
+##### 2018
 
  * Dong H. Ahn, Ned Bass, Albert Chu, Jim Garlick, Mark Grondona,
    Stephen Herbein, Joseph Koning, Tapasya Patki, Thomas R. W. Scogland,
@@ -72,12 +88,16 @@ permalink: /publications/
    Networks,"** *47th International Conference on Parallel Processing*, Eugene,
    OR, August 2018. [[pdf]](Flux-ICPP-2018.pdf)
 
+##### 2016
+
  * Stephen Herbein, Dong H. Ahn, Don Lipari, Thomas R.W. Scogland,
    Marc Stearman, Mark Grondona, Jim Garlick, Becky Springmeyer,
    Michela Taufer, **"Scalable I/O-Aware Job Scheduling for Burst
    Buffer Enabled HPC Clusters"**, *25th International Symposium on
    High-Performance Parallel and Distributed Computing*, Kyoto, Japan,
    June 2016. [[pdf]](Flux-HPDC-2016.pdf)
+
+##### 2014
 
  * Dong H. Ahn, Jim Garlick, Mark Grondona, Don Lipari, Becky Springmeyer,
    Martin Schulz, **"Flux: A Next-Generation Resource Management Framework for
@@ -90,6 +110,8 @@ permalink: /publications/
    May 2013. [[pdf]](Flux-vision-draft.pdf)
 
 ## Talks
+
+##### 2018
 
  * Dong H. Ahn, Ned Bass, Al Chu, Jim Garlick, Mark Grondona, Stephen Herbein,
    Tapasya Patki, Tom Scogland, Becky Springmeyer, **"Flux: Practical Job
