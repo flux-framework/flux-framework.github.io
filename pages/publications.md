@@ -33,6 +33,12 @@ permalink: /publications/
    doi: 10.1145/3458817.3476210. [[pdf]](./Flux-SC21-2021.pdf) 
    [[journal-link]](https://ieeexplore.ieee.org/document/9910090)
 
+ * C. Misale, C et al., **"Towards Standard Kubernetes Scheduling Interfaces for Converged 
+   Computing."** Driving Scientific and Engineering Discoveries Through the Integration of 
+   Experiment, Big Data, and Modeling and Simulation. SMC 2021. Communications in Computer and 
+   Information Science, vol 1512. Springer, Cham. 
+   [[journal-link]](https://doi.org/10.1007/978-3-030-96498-6_18)
+
  * Dong H. Ahn, Ned Bass, Albert Chu, Jim Garlick, Mark Grondona, Stephen
    Herbein, Helgi I. Ingólfsson, Joseph Koning, Tapasya Patki, Thomas
    R.W. Scogland, Becky Springmeyer, Michela Taufer, **"Flux: Overcoming
