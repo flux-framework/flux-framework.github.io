@@ -14,7 +14,7 @@ permalink: /publications/
  * T. Patki, et al., "Fluxion: A Scalable Graph-Based Resource Model for HPC Scheduling Challenges,"
    Proceedings of the SC '23 Workshops of The International Conference on High Performance
    Computing, Network, Storage, and Analysis (SC-W '23). 2023, New York, NY, USA, 2077–2088.
-   doi: 10.1145/3624062.3624286. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3624062.3624286) [[journal-link]](https://dl.acm.org/doi/10.1145/3624062.3624286) [[slides](https://works-workshop.org/files/works23_patki.pdf)]
+   doi: 10.1145/3624062.3624286. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3624062.3624286) [[journal-link]](https://dl.acm.org/doi/10.1145/3624062.3624286) [[slides]](https://works-workshop.org/files/works23_patki.pdf)
 
  * D. H. Ahn et al., "Scalable Composition and Analysis Techniques for Massive
    Scientific Workflows," 2022 IEEE 18th International Conference on e-Science
