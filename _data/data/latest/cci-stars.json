@@ -555,7 +555,12 @@
             "value": 1
         }
     ],
-    "flux-framework/flux-pmix": [],
+    "flux-framework/flux-pmix": [
+        {
+            "date": "2021-12-06",
+            "value": 1
+        }
+    ],
     "flux-framework/flux-python": [],
     "flux-framework/flux-restful-api": [
         {
