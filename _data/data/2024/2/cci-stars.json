@@ -17,16 +17,6 @@
             "value": 1
         }
     ],
-    "flux-framework/flux-accounting": [
-        {
-            "date": "2020-08-03",
-            "value": 1
-        },
-        {
-            "date": "2020-08-10",
-            "value": 1
-        }
-    ],
     "flux-framework/flux-core": [
         {
             "date": "2014-10-06",

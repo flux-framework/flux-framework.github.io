@@ -14,25 +14,7 @@
         "name": "flux-framework/flux-sched",
         "description": "Fluxion Graph-based Scheduler",
         "website": "",
-        "topics": [
-            "hpc",
-            "job-scheduler",
-            "scheduling",
-            "workflows",
-            "radiuss"
-        ]
-    },
-    "flux-framework/flux-accounting": {
-        "name": "flux-framework/flux-accounting",
-        "description": "bank/accounting interface for the Flux resource manager ",
-        "website": "",
-        "topics": [
-            "accounting",
-            "database",
-            "hpc",
-            "user-management",
-            "priority-calculation"
-        ]
+        "topics": null
     },
     "flux-framework/flux-pmix": {
         "name": "flux-framework/flux-pmix",

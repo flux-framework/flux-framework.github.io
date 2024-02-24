@@ -145,48 +145,6 @@
             ]
         }
     },
-    "flux-framework/flux-python": {
-        "repositoryTopics": {
-            "totalCount": 5,
-            "nodes": [
-                {
-                    "topic": {
-                        "name": "bindings"
-                    },
-                    "resourcePath": "/topics/bindings",
-                    "url": "https://github.com/topics/bindings"
-                },
-                {
-                    "topic": {
-                        "name": "flux"
-                    },
-                    "resourcePath": "/topics/flux",
-                    "url": "https://github.com/topics/flux"
-                },
-                {
-                    "topic": {
-                        "name": "flux-framework"
-                    },
-                    "resourcePath": "/topics/flux-framework",
-                    "url": "https://github.com/topics/flux-framework"
-                },
-                {
-                    "topic": {
-                        "name": "hpc"
-                    },
-                    "resourcePath": "/topics/hpc",
-                    "url": "https://github.com/topics/hpc"
-                },
-                {
-                    "topic": {
-                        "name": "python"
-                    },
-                    "resourcePath": "/topics/python",
-                    "url": "https://github.com/topics/python"
-                }
-            ]
-        }
-    },
     "flux-framework/flux-restful-api": {
         "repositoryTopics": {
             "totalCount": 3,
