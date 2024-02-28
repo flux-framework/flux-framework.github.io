@@ -2,7 +2,7 @@
     "flux-framework/dyad": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 851160,
+            "totalSize": 857129,
             "nodes": [
                 {
                     "name": "C",
@@ -43,25 +43,25 @@
             ],
             "edges": [
                 {
-                    "size": 263244
+                    "size": 268179
                 },
                 {
                     "size": 175403
                 },
                 {
-                    "size": 153310
+                    "size": 153088
                 },
                 {
                     "size": 112772
                 },
                 {
-                    "size": 61575
+                    "size": 61883
                 },
                 {
                     "size": 37419
                 },
                 {
-                    "size": 35370
+                    "size": 36318
                 },
                 {
                     "size": 6515
@@ -75,7 +75,7 @@
     "flux-framework/flux-accounting": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 662803,
+            "totalSize": 662504,
             "nodes": [
                 {
                     "name": "Python",
@@ -115,10 +115,10 @@
                     "size": 227681
                 },
                 {
-                    "size": 224310
+                    "size": 224343
                 },
                 {
-                    "size": 132475
+                    "size": 132143
                 },
                 {
                     "size": 49842
@@ -141,7 +141,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 13,
-            "totalSize": 12120931,
+            "totalSize": 12120932,
             "nodes": [
                 {
                     "name": "C",
@@ -201,7 +201,7 @@
                     "size": 8772842
                 },
                 {
-                    "size": 1591504
+                    "size": 1591505
                 },
                 {
                     "size": 1235390
