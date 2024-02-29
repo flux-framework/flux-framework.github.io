@@ -18,6 +18,11 @@
                     "tagName": "v0.28.0"
                 },
                 {
+                    "name": "flux-accounting v0.27.0",
+                    "publishedAt": "2023-09-06T23:03:49Z",
+                    "tagName": "v0.27.0"
+                },
+                {
                     "name": "flux-accounting v0.26.0",
                     "publishedAt": "2023-07-06T15:30:42Z",
                     "tagName": "v0.26.0"
@@ -61,6 +66,11 @@
                     "name": "flux-accounting v0.21.0",
                     "publishedAt": "2022-12-12T21:01:29Z",
                     "tagName": "v0.21.0"
+                },
+                {
+                    "name": "flux-accounting v0.20.1",
+                    "publishedAt": "2022-10-06T18:37:52Z",
+                    "tagName": "v0.20.1"
                 },
                 {
                     "name": "flux-accounting v0.20.0",
