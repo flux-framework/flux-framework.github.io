@@ -39,19 +39,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 20
+            "totalCount": 18
         },
         "pullRequests_Closed": {
             "totalCount": 196
         },
         "pullRequests_Merged": {
-            "totalCount": 2593
+            "totalCount": 2598
         },
         "issues_Open": {
-            "totalCount": 434
+            "totalCount": 433
         },
         "issues_Closed": {
-            "totalCount": 2428
+            "totalCount": 2430
         }
     },
     "flux-framework/flux-sched": {
@@ -100,7 +100,7 @@
             "totalCount": 54
         },
         "pullRequests_Merged": {
-            "totalCount": 489
+            "totalCount": 490
         },
         "issues_Open": {
             "totalCount": 116
@@ -149,13 +149,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 7
+            "totalCount": 6
         },
         "pullRequests_Closed": {
             "totalCount": 15
         },
         "pullRequests_Merged": {
-            "totalCount": 215
+            "totalCount": 216
         },
         "issues_Open": {
             "totalCount": 28
@@ -320,13 +320,13 @@
             "totalCount": 11
         },
         "pullRequests_Merged": {
-            "totalCount": 150
+            "totalCount": 151
         },
         "issues_Open": {
-            "totalCount": 8
+            "totalCount": 7
         },
         "issues_Closed": {
-            "totalCount": 38
+            "totalCount": 39
         }
     },
     "flux-framework/flux-restful-api": {
