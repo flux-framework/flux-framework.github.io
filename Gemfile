@@ -20,5 +20,6 @@ gem "jekyll-feed"
 gem 'jekyll'
 gem 'kramdown'
 gem 'pygments.rb'
+gem "webrick"
 
 # If you have any plugins, put them here!
