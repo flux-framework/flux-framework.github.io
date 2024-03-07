@@ -6,6 +6,14 @@ permalink: /publications/
 
 ## Papers
 
+ * Stephen Herbein, Tapasya Patki, Dong H Ahn, Sebastian Mobo, Clark Hathaway,
+   Silvina Caíno-Lores, James Corbett, David Domyancic, Thomas RW Scogland,
+   Bronis R de Supinski, Michela Taufer, **"An analytical performance model of
+   generalized hierarchical scheduling,"** *The International Journal of High
+   Performance Computing Applications*, Volume 36, Pages
+   289-306. [[pre-print]](./Flux-IJHPCA-2022.pdf) [[journal
+   link]](https://doi.org/10.1177/10943420211051039)
+
  * Dong H. Ahn, Ned Bass, Albert Chu, Jim Garlick, Mark Grondona, Stephen
    Herbein, Helgi I. Ingólfsson, Joseph Koning, Tapasya Patki, Thomas
    R.W. Scogland, Becky Springmeyer, Michela Taufer, **"Flux: Overcoming
