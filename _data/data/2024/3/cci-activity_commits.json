@@ -842,10 +842,6 @@
     "flux-framework/flux-pmix": [
         {
             "total": 0,
-            "week": "2023-03-06"
-        },
-        {
-            "total": 0,
             "week": "2023-03-13"
         },
         {
@@ -1047,6 +1043,10 @@
         {
             "total": 0,
             "week": "2024-02-26"
+        },
+        {
+            "total": 0,
+            "week": "2024-03-04"
         }
     ],
     "flux-framework/flux-python": [
@@ -1465,7 +1465,7 @@
             "week": "2024-02-26"
         },
         {
-            "total": 0,
+            "total": 2,
             "week": "2024-03-04"
         }
     ],
