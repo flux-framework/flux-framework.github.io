@@ -48,7 +48,7 @@
             "totalCount": 2605
         },
         "issues_Open": {
-            "totalCount": 438
+            "totalCount": 440
         },
         "issues_Closed": {
             "totalCount": 2439
@@ -94,13 +94,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 6
+            "totalCount": 5
         },
         "pullRequests_Closed": {
             "totalCount": 54
         },
         "pullRequests_Merged": {
-            "totalCount": 491
+            "totalCount": 492
         },
         "issues_Open": {
             "totalCount": 118
@@ -139,7 +139,7 @@
             "totalCount": 10
         },
         "primaryLanguage": {
-            "name": "Python"
+            "name": "Shell"
         },
         "languages": {
             "totalCount": 8
@@ -155,7 +155,7 @@
             "totalCount": 16
         },
         "pullRequests_Merged": {
-            "totalCount": 217
+            "totalCount": 218
         },
         "issues_Open": {
             "totalCount": 27
