@@ -510,6 +510,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "Flux Operator Release v0.2.0",
+                    "publishedAt": "2024-03-15T22:28:56Z",
+                    "tagName": "0.2.0"
+                },
+                {
                     "name": "Flux Operator Release v0.1.1",
                     "publishedAt": "2023-09-03T01:46:42Z",
                     "tagName": "0.1.1"
