@@ -9,6 +9,10 @@ permalink: /publications/
 
 ##### 2023 to present
 
+ * Sochat V, Culquicondor A, Ojea A and Milroy D. **The Flux Operator** version 1. F1000Research 2024,
+    13:203 [[pdf](https://f1000research.com/articles/13-203/v1/pdf?article_uuid=53df6da1-719d-4e83-a6a3-01122137d481)]
+    [[journal-link](https://doi.org/10.12688/f1000research.147989.1)] 
+
  * D. Nichols et al., **"Predicting Cross-Architecture Performance of Parallel Programs"**
    2024 IEEE International Parallel & Distributed Processing Symposium,
    San Francisco, California USA, 2024. [[pdf](https://www.cs.umd.edu/~bhatele/pubs/pdf/2024/ipdps2024.pdf)]
