@@ -39,19 +39,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 23
+            "totalCount": 20
         },
         "pullRequests_Closed": {
             "totalCount": 197
         },
         "pullRequests_Merged": {
-            "totalCount": 2636
+            "totalCount": 2639
         },
         "issues_Open": {
-            "totalCount": 435
+            "totalCount": 436
         },
         "issues_Closed": {
-            "totalCount": 2466
+            "totalCount": 2467
         }
     },
     "flux-framework/flux-sched": {
@@ -149,19 +149,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 6
+            "totalCount": 5
         },
         "pullRequests_Closed": {
             "totalCount": 16
         },
         "pullRequests_Merged": {
-            "totalCount": 225
+            "totalCount": 226
         },
         "issues_Open": {
-            "totalCount": 28
+            "totalCount": 27
         },
         "issues_Closed": {
-            "totalCount": 159
+            "totalCount": 160
         }
     },
     "flux-framework/flux-pmix": {
@@ -295,7 +295,7 @@
             "url": "http://choosealicense.com/licenses/mit/"
         },
         "stargazers": {
-            "totalCount": 22
+            "totalCount": 23
         },
         "mentionableUsers": {
             "totalCount": 11
@@ -488,7 +488,7 @@
             "totalCount": 48
         },
         "issues_Open": {
-            "totalCount": 29
+            "totalCount": 30
         },
         "issues_Closed": {
             "totalCount": 8
