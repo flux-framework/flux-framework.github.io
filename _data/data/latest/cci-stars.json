@@ -15,6 +15,10 @@
         {
             "date": "2022-10-31",
             "value": 1
+        },
+        {
+            "date": "2023-05-15",
+            "value": 1
         }
     ],
     "flux-framework/flux-accounting": [
@@ -568,6 +572,10 @@
         },
         {
             "date": "2023-12-25",
+            "value": 1
+        },
+        {
+            "date": "2024-04-08",
             "value": 1
         }
     ],

@@ -45,13 +45,13 @@
             "totalCount": 197
         },
         "pullRequests_Merged": {
-            "totalCount": 2654
+            "totalCount": 2657
         },
         "issues_Open": {
-            "totalCount": 439
+            "totalCount": 438
         },
         "issues_Closed": {
-            "totalCount": 2477
+            "totalCount": 2480
         }
     },
     "flux-framework/flux-sched": {
@@ -100,7 +100,7 @@
             "totalCount": 54
         },
         "pullRequests_Merged": {
-            "totalCount": 498
+            "totalCount": 500
         },
         "issues_Open": {
             "totalCount": 122
@@ -295,7 +295,7 @@
             "url": "http://choosealicense.com/licenses/mit/"
         },
         "stargazers": {
-            "totalCount": 23
+            "totalCount": 24
         },
         "mentionableUsers": {
             "totalCount": 11
@@ -460,7 +460,7 @@
             "url": "http://choosealicense.com/licenses/lgpl-3.0/"
         },
         "stargazers": {
-            "totalCount": 5
+            "totalCount": 6
         },
         "mentionableUsers": {
             "totalCount": 19
