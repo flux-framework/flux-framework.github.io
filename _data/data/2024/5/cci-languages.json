@@ -471,7 +471,7 @@
     "flux-framework/flux-sched": {
         "languages": {
             "totalCount": 11,
-            "totalSize": 3027083,
+            "totalSize": 3030620,
             "nodes": [
                 {
                     "name": "C++",
@@ -482,12 +482,12 @@
                     "color": "#89e051"
                 },
                 {
-                    "name": "M4",
-                    "color": null
-                },
-                {
                     "name": "Python",
                     "color": "#3572A5"
+                },
+                {
+                    "name": "M4",
+                    "color": null
                 },
                 {
                     "name": "CMake",
@@ -520,16 +520,16 @@
             ],
             "edges": [
                 {
-                    "size": 2172176
+                    "size": 2174394
                 },
                 {
-                    "size": 501778
+                    "size": 501963
+                },
+                {
+                    "size": 84433
                 },
                 {
                     "size": 83481
-                },
-                {
-                    "size": 83299
                 },
                 {
                     "size": 56429
