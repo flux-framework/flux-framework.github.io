@@ -141,7 +141,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 14,
-            "totalSize": 12265677,
+            "totalSize": 12272150,
             "nodes": [
                 {
                     "name": "C",
@@ -202,10 +202,10 @@
             ],
             "edges": [
                 {
-                    "size": 8835067
+                    "size": 8838973
                 },
                 {
-                    "size": 1631401
+                    "size": 1633968
                 },
                 {
                     "size": 1244761
@@ -470,8 +470,8 @@
     },
     "flux-framework/flux-sched": {
         "languages": {
-            "totalCount": 11,
-            "totalSize": 3030620,
+            "totalCount": 9,
+            "totalSize": 2896986,
             "nodes": [
                 {
                     "name": "C++",
@@ -486,10 +486,6 @@
                     "color": "#3572A5"
                 },
                 {
-                    "name": "M4",
-                    "color": null
-                },
-                {
                     "name": "CMake",
                     "color": "#DA3434"
                 },
@@ -500,10 +496,6 @@
                 {
                     "name": "Go",
                     "color": "#00ADD8"
-                },
-                {
-                    "name": "Makefile",
-                    "color": "#427819"
                 },
                 {
                     "name": "Perl",
@@ -520,28 +512,22 @@
             ],
             "edges": [
                 {
-                    "size": 2174394
+                    "size": 2175829
                 },
                 {
-                    "size": 501963
+                    "size": 472750
                 },
                 {
                     "size": 84433
                 },
                 {
-                    "size": 83481
-                },
-                {
-                    "size": 56429
+                    "size": 56442
                 },
                 {
                     "size": 56337
                 },
                 {
                     "size": 24316
-                },
-                {
-                    "size": 22388
                 },
                 {
                     "size": 12665
