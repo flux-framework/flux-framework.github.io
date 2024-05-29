@@ -75,15 +75,15 @@
     "flux-framework/flux-accounting": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 691505,
+            "totalSize": 697590,
             "nodes": [
-                {
-                    "name": "Python",
-                    "color": "#3572A5"
-                },
                 {
                     "name": "Shell",
                     "color": "#89e051"
+                },
+                {
+                    "name": "Python",
+                    "color": "#3572A5"
                 },
                 {
                     "name": "C++",
@@ -112,22 +112,22 @@
             ],
             "edges": [
                 {
+                    "size": 233572
+                },
+                {
                     "size": 232147
                 },
                 {
-                    "size": 230634
+                    "size": 146438
                 },
                 {
-                    "size": 144894
-                },
-                {
-                    "size": 55105
+                    "size": 56674
                 },
                 {
                     "size": 13329
                 },
                 {
-                    "size": 11418
+                    "size": 11452
                 },
                 {
                     "size": 2191
