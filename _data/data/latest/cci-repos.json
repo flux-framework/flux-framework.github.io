@@ -39,7 +39,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 15
+            "totalCount": 16
         },
         "pullRequests_Closed": {
             "totalCount": 203
@@ -100,13 +100,13 @@
             "totalCount": 55
         },
         "pullRequests_Merged": {
-            "totalCount": 522
+            "totalCount": 524
         },
         "issues_Open": {
-            "totalCount": 124
+            "totalCount": 123
         },
         "issues_Closed": {
-            "totalCount": 485
+            "totalCount": 486
         }
     },
     "flux-framework/flux-accounting": {
@@ -155,7 +155,7 @@
             "totalCount": 17
         },
         "pullRequests_Merged": {
-            "totalCount": 238
+            "totalCount": 239
         },
         "issues_Open": {
             "totalCount": 23
