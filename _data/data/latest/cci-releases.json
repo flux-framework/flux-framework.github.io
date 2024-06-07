@@ -618,6 +618,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "flux-sched v0.35.0",
+                    "publishedAt": "2024-06-07T00:07:33Z",
+                    "tagName": "v0.35.0"
+                },
+                {
                     "name": "flux-sched v0.34.0",
                     "publishedAt": "2024-05-08T17:01:59Z",
                     "tagName": "v0.34.0"
