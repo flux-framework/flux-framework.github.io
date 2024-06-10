@@ -631,10 +631,6 @@
     ],
     "flux-framework/flux-operator": [
         {
-            "total": 1,
-            "week": "2023-06-05"
-        },
-        {
             "total": 4,
             "week": "2023-06-12"
         },
@@ -837,6 +833,10 @@
         {
             "total": 0,
             "week": "2024-05-27"
+        },
+        {
+            "total": 0,
+            "week": "2024-06-03"
         }
     ],
     "flux-framework/flux-pmix": [
@@ -1682,10 +1682,6 @@
     "flux-framework/flux-security": [
         {
             "total": 0,
-            "week": "2023-06-05"
-        },
-        {
-            "total": 0,
             "week": "2023-06-12"
         },
         {
@@ -1887,6 +1883,10 @@
         {
             "total": 0,
             "week": "2024-05-27"
+        },
+        {
+            "total": 0,
+            "week": "2024-06-03"
         }
     ]
 }
