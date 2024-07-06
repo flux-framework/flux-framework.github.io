@@ -100,13 +100,13 @@
             "totalCount": 57
         },
         "pullRequests_Merged": {
-            "totalCount": 537
+            "totalCount": 538
         },
         "issues_Open": {
-            "totalCount": 128
+            "totalCount": 127
         },
         "issues_Closed": {
-            "totalCount": 488
+            "totalCount": 489
         }
     },
     "flux-framework/flux-accounting": {
