@@ -20,7 +20,7 @@
             "url": "http://choosealicense.com/licenses/lgpl-3.0/"
         },
         "stargazers": {
-            "totalCount": 162
+            "totalCount": 163
         },
         "mentionableUsers": {
             "totalCount": 28
@@ -39,19 +39,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 19
+            "totalCount": 18
         },
         "pullRequests_Closed": {
             "totalCount": 204
         },
         "pullRequests_Merged": {
-            "totalCount": 2777
+            "totalCount": 2778
         },
         "issues_Open": {
             "totalCount": 467
         },
         "issues_Closed": {
-            "totalCount": 2593
+            "totalCount": 2594
         }
     },
     "flux-framework/flux-sched": {
@@ -94,19 +94,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 11
+            "totalCount": 9
         },
         "pullRequests_Closed": {
             "totalCount": 58
         },
         "pullRequests_Merged": {
-            "totalCount": 548
+            "totalCount": 550
         },
         "issues_Open": {
-            "totalCount": 131
+            "totalCount": 104
         },
         "issues_Closed": {
-            "totalCount": 491
+            "totalCount": 519
         }
     },
     "flux-framework/flux-accounting": {
@@ -149,13 +149,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 7
+            "totalCount": 6
         },
         "pullRequests_Closed": {
             "totalCount": 17
         },
         "pullRequests_Merged": {
-            "totalCount": 250
+            "totalCount": 251
         },
         "issues_Open": {
             "totalCount": 20
@@ -479,13 +479,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 11
+            "totalCount": 8
         },
         "pullRequests_Closed": {
             "totalCount": 21
         },
         "pullRequests_Merged": {
-            "totalCount": 48
+            "totalCount": 51
         },
         "issues_Open": {
             "totalCount": 26

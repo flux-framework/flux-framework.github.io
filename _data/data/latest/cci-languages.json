@@ -2,19 +2,19 @@
     "flux-framework/dyad": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 857129,
+            "totalSize": 1012316,
             "nodes": [
                 {
                     "name": "C",
                     "color": "#555555"
                 },
                 {
-                    "name": "Jupyter Notebook",
-                    "color": "#DA5B0B"
-                },
-                {
                     "name": "C++",
                     "color": "#f34b7d"
+                },
+                {
+                    "name": "Jupyter Notebook",
+                    "color": "#DA5B0B"
                 },
                 {
                     "name": "Shell",
@@ -25,12 +25,12 @@
                     "color": "#DA3434"
                 },
                 {
-                    "name": "M4",
-                    "color": null
-                },
-                {
                     "name": "Python",
                     "color": "#3572A5"
+                },
+                {
+                    "name": "M4",
+                    "color": null
                 },
                 {
                     "name": "Awk",
@@ -43,25 +43,25 @@
             ],
             "edges": [
                 {
-                    "size": 268179
+                    "size": 270197
+                },
+                {
+                    "size": 237035
                 },
                 {
                     "size": 175403
                 },
                 {
-                    "size": 153088
+                    "size": 129099
                 },
                 {
-                    "size": 112772
+                    "size": 78346
                 },
                 {
-                    "size": 61883
+                    "size": 72750
                 },
                 {
                     "size": 37419
-                },
-                {
-                    "size": 36318
                 },
                 {
                     "size": 6515
@@ -75,7 +75,7 @@
     "flux-framework/flux-accounting": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 703923,
+            "totalSize": 705843,
             "nodes": [
                 {
                     "name": "Shell",
@@ -112,13 +112,13 @@
             ],
             "edges": [
                 {
-                    "size": 236748
+                    "size": 239272
                 },
                 {
-                    "size": 235482
+                    "size": 237047
                 },
                 {
-                    "size": 146582
+                    "size": 144385
                 },
                 {
                     "size": 56674
@@ -127,7 +127,7 @@
                     "size": 13329
                 },
                 {
-                    "size": 11130
+                    "size": 11158
                 },
                 {
                     "size": 2191
@@ -141,7 +141,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 14,
-            "totalSize": 12479597,
+            "totalSize": 12481270,
             "nodes": [
                 {
                     "name": "C",
@@ -205,10 +205,10 @@
                     "size": 8976803
                 },
                 {
-                    "size": 1685985
+                    "size": 1686151
                 },
                 {
-                    "size": 1254292
+                    "size": 1255799
                 },
                 {
                     "size": 167939
@@ -471,7 +471,7 @@
     "flux-framework/flux-sched": {
         "languages": {
             "totalCount": 9,
-            "totalSize": 2956621,
+            "totalSize": 2969142,
             "nodes": [
                 {
                     "name": "C++",
@@ -512,19 +512,19 @@
             ],
             "edges": [
                 {
-                    "size": 2217253
+                    "size": 2227669
                 },
                 {
                     "size": 479502
                 },
                 {
-                    "size": 86820
+                    "size": 86330
                 },
                 {
-                    "size": 61469
+                    "size": 62843
                 },
                 {
-                    "size": 56968
+                    "size": 58189
                 },
                 {
                     "size": 24316
