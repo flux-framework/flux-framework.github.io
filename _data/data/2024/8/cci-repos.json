@@ -32,26 +32,26 @@
             "name": "C"
         },
         "languages": {
-            "totalCount": 14
+            "totalCount": 15
         },
         "repositoryTopics": {
             "totalCount": 4
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 20
+            "totalCount": 18
         },
         "pullRequests_Closed": {
             "totalCount": 204
         },
         "pullRequests_Merged": {
-            "totalCount": 2785
+            "totalCount": 2790
         },
         "issues_Open": {
-            "totalCount": 478
+            "totalCount": 474
         },
         "issues_Closed": {
-            "totalCount": 2598
+            "totalCount": 2602
         }
     },
     "flux-framework/flux-sched": {
@@ -139,7 +139,7 @@
             "totalCount": 10
         },
         "primaryLanguage": {
-            "name": "Shell"
+            "name": "Python"
         },
         "languages": {
             "totalCount": 8
@@ -155,13 +155,13 @@
             "totalCount": 17
         },
         "pullRequests_Merged": {
-            "totalCount": 251
+            "totalCount": 253
         },
         "issues_Open": {
-            "totalCount": 21
+            "totalCount": 20
         },
         "issues_Closed": {
-            "totalCount": 172
+            "totalCount": 173
         }
     },
     "flux-framework/flux-pmix": {
@@ -460,7 +460,7 @@
             "url": "http://choosealicense.com/licenses/lgpl-3.0/"
         },
         "stargazers": {
-            "totalCount": 6
+            "totalCount": 7
         },
         "mentionableUsers": {
             "totalCount": 19
