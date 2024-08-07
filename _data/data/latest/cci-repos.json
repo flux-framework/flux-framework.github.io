@@ -45,13 +45,13 @@
             "totalCount": 204
         },
         "pullRequests_Merged": {
-            "totalCount": 2790
+            "totalCount": 2798
         },
         "issues_Open": {
-            "totalCount": 474
+            "totalCount": 472
         },
         "issues_Closed": {
-            "totalCount": 2602
+            "totalCount": 2604
         }
     },
     "flux-framework/flux-sched": {
@@ -81,7 +81,7 @@
             "totalCount": 30
         },
         "forks": {
-            "totalCount": 37
+            "totalCount": 38
         },
         "primaryLanguage": {
             "name": "C++"
@@ -149,16 +149,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 7
+            "totalCount": 8
         },
         "pullRequests_Closed": {
             "totalCount": 17
         },
         "pullRequests_Merged": {
-            "totalCount": 253
+            "totalCount": 254
         },
         "issues_Open": {
-            "totalCount": 20
+            "totalCount": 22
         },
         "issues_Closed": {
             "totalCount": 173
