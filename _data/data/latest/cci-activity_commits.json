@@ -211,10 +211,6 @@
     ],
     "flux-framework/flux-accounting": [
         {
-            "total": 0,
-            "week": "2023-08-14"
-        },
-        {
             "total": 2,
             "week": "2023-08-21"
         },
@@ -417,6 +413,10 @@
         {
             "total": 0,
             "week": "2024-08-05"
+        },
+        {
+            "total": 0,
+            "week": "2024-08-12"
         }
     ],
     "flux-framework/flux-core": [
@@ -631,10 +631,6 @@
     ],
     "flux-framework/flux-operator": [
         {
-            "total": 0,
-            "week": "2023-08-14"
-        },
-        {
             "total": 4,
             "week": "2023-08-21"
         },
@@ -837,13 +833,13 @@
         {
             "total": 1,
             "week": "2024-08-05"
+        },
+        {
+            "total": 0,
+            "week": "2024-08-12"
         }
     ],
     "flux-framework/flux-pmix": [
-        {
-            "total": 0,
-            "week": "2023-08-14"
-        },
         {
             "total": 0,
             "week": "2023-08-21"
@@ -1047,13 +1043,13 @@
         {
             "total": 0,
             "week": "2024-08-05"
+        },
+        {
+            "total": 0,
+            "week": "2024-08-12"
         }
     ],
     "flux-framework/flux-python": [
-        {
-            "total": 0,
-            "week": "2023-08-14"
-        },
         {
             "total": 0,
             "week": "2023-08-21"
@@ -1257,13 +1253,13 @@
         {
             "total": 0,
             "week": "2024-08-05"
+        },
+        {
+            "total": 0,
+            "week": "2024-08-12"
         }
     ],
     "flux-framework/flux-restful-api": [
-        {
-            "total": 0,
-            "week": "2023-08-14"
-        },
         {
             "total": 1,
             "week": "2023-08-21"
@@ -1467,13 +1463,13 @@
         {
             "total": 0,
             "week": "2024-08-05"
+        },
+        {
+            "total": 0,
+            "week": "2024-08-12"
         }
     ],
     "flux-framework/flux-sched": [
-        {
-            "total": 11,
-            "week": "2023-08-14"
-        },
         {
             "total": 4,
             "week": "2023-08-21"
@@ -1677,13 +1673,13 @@
         {
             "total": 4,
             "week": "2024-08-05"
+        },
+        {
+            "total": 0,
+            "week": "2024-08-12"
         }
     ],
     "flux-framework/flux-security": [
-        {
-            "total": 0,
-            "week": "2023-08-14"
-        },
         {
             "total": 0,
             "week": "2023-08-21"
@@ -1887,6 +1883,10 @@
         {
             "total": 0,
             "week": "2024-08-05"
+        },
+        {
+            "total": 0,
+            "week": "2024-08-12"
         }
     ]
 }
