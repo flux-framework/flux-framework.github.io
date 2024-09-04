@@ -32,26 +32,26 @@
             "name": "C"
         },
         "languages": {
-            "totalCount": 15
+            "totalCount": 17
         },
         "repositoryTopics": {
             "totalCount": 4
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 17
+            "totalCount": 16
         },
         "pullRequests_Closed": {
             "totalCount": 205
         },
         "pullRequests_Merged": {
-            "totalCount": 2827
+            "totalCount": 2831
         },
         "issues_Open": {
-            "totalCount": 478
+            "totalCount": 475
         },
         "issues_Closed": {
-            "totalCount": 2624
+            "totalCount": 2627
         }
     },
     "flux-framework/flux-sched": {
@@ -94,19 +94,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 9
+            "totalCount": 10
         },
         "pullRequests_Closed": {
             "totalCount": 61
         },
         "pullRequests_Merged": {
-            "totalCount": 569
+            "totalCount": 570
         },
         "issues_Open": {
-            "totalCount": 101
+            "totalCount": 100
         },
         "issues_Closed": {
-            "totalCount": 525
+            "totalCount": 526
         }
     },
     "flux-framework/flux-accounting": {
@@ -149,13 +149,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 6
+            "totalCount": 5
         },
         "pullRequests_Closed": {
             "totalCount": 19
         },
         "pullRequests_Merged": {
-            "totalCount": 261
+            "totalCount": 262
         },
         "issues_Open": {
             "totalCount": 21
@@ -295,7 +295,7 @@
             "url": "http://choosealicense.com/licenses/mit/"
         },
         "stargazers": {
-            "totalCount": 29
+            "totalCount": 30
         },
         "mentionableUsers": {
             "totalCount": 10
@@ -479,7 +479,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 9
+            "totalCount": 10
         },
         "pullRequests_Closed": {
             "totalCount": 21
