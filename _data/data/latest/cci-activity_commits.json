@@ -1,10 +1,6 @@
 {
     "flux-framework/dyad": [
         {
-            "total": 0,
-            "week": "2023-09-04"
-        },
-        {
             "total": 1,
             "week": "2023-09-11"
         },
@@ -207,6 +203,10 @@
         {
             "total": 0,
             "week": "2024-08-26"
+        },
+        {
+            "total": 0,
+            "week": "2024-09-02"
         }
     ],
     "flux-framework/flux-accounting": [
@@ -421,10 +421,6 @@
     ],
     "flux-framework/flux-core": [
         {
-            "total": 46,
-            "week": "2023-09-04"
-        },
-        {
             "total": 48,
             "week": "2023-09-11"
         },
@@ -627,13 +623,13 @@
         {
             "total": 11,
             "week": "2024-08-26"
+        },
+        {
+            "total": 0,
+            "week": "2024-09-02"
         }
     ],
     "flux-framework/flux-operator": [
-        {
-            "total": 1,
-            "week": "2023-09-04"
-        },
         {
             "total": 0,
             "week": "2023-09-11"
@@ -837,6 +833,10 @@
         {
             "total": 0,
             "week": "2024-08-26"
+        },
+        {
+            "total": 0,
+            "week": "2024-09-02"
         }
     ],
     "flux-framework/flux-pmix": [
@@ -1052,10 +1052,6 @@
     "flux-framework/flux-python": [
         {
             "total": 0,
-            "week": "2023-09-04"
-        },
-        {
-            "total": 0,
             "week": "2023-09-11"
         },
         {
@@ -1257,13 +1253,13 @@
         {
             "total": 0,
             "week": "2024-08-26"
+        },
+        {
+            "total": 0,
+            "week": "2024-09-02"
         }
     ],
     "flux-framework/flux-restful-api": [
-        {
-            "total": 0,
-            "week": "2023-09-04"
-        },
         {
             "total": 0,
             "week": "2023-09-11"
@@ -1467,6 +1463,10 @@
         {
             "total": 0,
             "week": "2024-08-26"
+        },
+        {
+            "total": 0,
+            "week": "2024-09-02"
         }
     ],
     "flux-framework/flux-sched": [
