@@ -75,7 +75,7 @@
     "flux-framework/flux-accounting": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 712207,
+            "totalSize": 721222,
             "nodes": [
                 {
                     "name": "Shell",
@@ -112,13 +112,13 @@
             ],
             "edges": [
                 {
-                    "size": 242684
+                    "size": 249062
                 },
                 {
                     "size": 240417
                 },
                 {
-                    "size": 144383
+                    "size": 146988
                 },
                 {
                     "size": 56730
@@ -127,7 +127,7 @@
                     "size": 13329
                 },
                 {
-                    "size": 10686
+                    "size": 10718
                 },
                 {
                     "size": 2191
@@ -141,7 +141,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 12611332,
+            "totalSize": 12633664,
             "nodes": [
                 {
                     "name": "C",
@@ -214,19 +214,19 @@
             ],
             "edges": [
                 {
-                    "size": 9055603
+                    "size": 9070593
                 },
                 {
-                    "size": 1720274
+                    "size": 1723690
                 },
                 {
-                    "size": 1265885
+                    "size": 1269533
                 },
                 {
                     "size": 169458
                 },
                 {
-                    "size": 159145
+                    "size": 159423
                 },
                 {
                     "size": 98927
@@ -492,7 +492,7 @@
     "flux-framework/flux-sched": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 2073386,
+            "totalSize": 2073468,
             "nodes": [
                 {
                     "name": "C++",
@@ -541,7 +541,7 @@
                     "size": 62847
                 },
                 {
-                    "size": 61082
+                    "size": 61164
                 },
                 {
                     "size": 24316
