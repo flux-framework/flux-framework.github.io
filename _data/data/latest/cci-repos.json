@@ -94,19 +94,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 11
+            "totalCount": 10
         },
         "pullRequests_Closed": {
             "totalCount": 62
         },
         "pullRequests_Merged": {
-            "totalCount": 579
+            "totalCount": 580
         },
         "issues_Open": {
-            "totalCount": 104
+            "totalCount": 103
         },
         "issues_Closed": {
-            "totalCount": 529
+            "totalCount": 530
         }
     },
     "flux-framework/flux-accounting": {
