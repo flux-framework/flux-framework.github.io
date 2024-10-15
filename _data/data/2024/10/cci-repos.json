@@ -45,13 +45,13 @@
             "totalCount": 206
         },
         "pullRequests_Merged": {
-            "totalCount": 2882
+            "totalCount": 2883
         },
         "issues_Open": {
-            "totalCount": 505
+            "totalCount": 504
         },
         "issues_Closed": {
-            "totalCount": 2655
+            "totalCount": 2656
         }
     },
     "flux-framework/flux-sched": {
@@ -103,7 +103,7 @@
             "totalCount": 581
         },
         "issues_Open": {
-            "totalCount": 103
+            "totalCount": 104
         },
         "issues_Closed": {
             "totalCount": 532
@@ -117,7 +117,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/7545483?v=4"
         },
         "url": "https://github.com/flux-framework/flux-accounting",
-        "homepageUrl": "",
+        "homepageUrl": "https://flux-accounting.readthedocs.io/en/latest/index.html",
         "description": "bank/accounting interface for the Flux resource manager ",
         "createdAt": "2020-03-06T16:58:23Z",
         "defaultBranchRef": {
@@ -155,13 +155,13 @@
             "totalCount": 19
         },
         "pullRequests_Merged": {
-            "totalCount": 274
+            "totalCount": 275
         },
         "issues_Open": {
-            "totalCount": 19
+            "totalCount": 18
         },
         "issues_Closed": {
-            "totalCount": 182
+            "totalCount": 184
         }
     },
     "flux-framework/flux-pmix": {
