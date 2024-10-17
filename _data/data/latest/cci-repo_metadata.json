@@ -25,7 +25,7 @@
     "flux-framework/flux-accounting": {
         "name": "flux-framework/flux-accounting",
         "description": "bank/accounting interface for the Flux resource manager ",
-        "website": "https://flux-accounting.readthedocs.io/en/latest/index.html",
+        "website": "https://flux-framework.readthedocs.io/projects/flux-accounting/en/latest/index.html",
         "topics": [
             "accounting",
             "database",
