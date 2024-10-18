@@ -39,13 +39,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 17
+            "totalCount": 16
         },
         "pullRequests_Closed": {
             "totalCount": 210
         },
         "pullRequests_Merged": {
-            "totalCount": 2885
+            "totalCount": 2887
         },
         "issues_Open": {
             "totalCount": 507
@@ -149,16 +149,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 7
+            "totalCount": 6
         },
         "pullRequests_Closed": {
             "totalCount": 19
         },
         "pullRequests_Merged": {
-            "totalCount": 281
+            "totalCount": 283
         },
         "issues_Open": {
-            "totalCount": 18
+            "totalCount": 20
         },
         "issues_Closed": {
             "totalCount": 186
@@ -268,10 +268,10 @@
             "totalCount": 111
         },
         "issues_Open": {
-            "totalCount": 29
+            "totalCount": 30
         },
         "issues_Closed": {
-            "totalCount": 38
+            "totalCount": 39
         }
     },
     "flux-framework/flux-operator": {
@@ -472,7 +472,7 @@
             "name": "C"
         },
         "languages": {
-            "totalCount": 9
+            "totalCount": 7
         },
         "repositoryTopics": {
             "totalCount": 0
@@ -485,13 +485,13 @@
             "totalCount": 21
         },
         "pullRequests_Merged": {
-            "totalCount": 51
+            "totalCount": 52
         },
         "issues_Open": {
-            "totalCount": 28
+            "totalCount": 27
         },
         "issues_Closed": {
-            "totalCount": 12
+            "totalCount": 13
         }
     }
 }

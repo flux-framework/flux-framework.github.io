@@ -1,8 +1,8 @@
 {
     "flux-framework/dyad": {
         "languages": {
-            "totalCount": 9,
-            "totalSize": 1012316,
+            "totalCount": 7,
+            "totalSize": 963766,
             "nodes": [
                 {
                     "name": "C",
@@ -29,16 +29,8 @@
                     "color": "#3572A5"
                 },
                 {
-                    "name": "M4",
-                    "color": null
-                },
-                {
                     "name": "Awk",
                     "color": "#c30e9b"
-                },
-                {
-                    "name": "Makefile",
-                    "color": "#427819"
                 }
             ],
             "edges": [
@@ -52,7 +44,7 @@
                     "size": 175403
                 },
                 {
-                    "size": 129099
+                    "size": 123520
                 },
                 {
                     "size": 78346
@@ -61,13 +53,7 @@
                     "size": 72750
                 },
                 {
-                    "size": 37419
-                },
-                {
                     "size": 6515
-                },
-                {
-                    "size": 5552
                 }
             ]
         }
@@ -75,7 +61,7 @@
     "flux-framework/flux-accounting": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 731750,
+            "totalSize": 731150,
             "nodes": [
                 {
                     "name": "Shell",
@@ -112,10 +98,10 @@
             ],
             "edges": [
                 {
-                    "size": 253926
+                    "size": 253038
                 },
                 {
-                    "size": 245872
+                    "size": 246160
                 },
                 {
                     "size": 147144
@@ -141,7 +127,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 12719281,
+            "totalSize": 12722859,
             "nodes": [
                 {
                     "name": "C",
@@ -214,13 +200,13 @@
             ],
             "edges": [
                 {
-                    "size": 9143023
+                    "size": 9143135
                 },
                 {
                     "size": 1730123
                 },
                 {
-                    "size": 1274879
+                    "size": 1278345
                 },
                 {
                     "size": 169522
