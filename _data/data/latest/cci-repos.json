@@ -45,10 +45,10 @@
             "totalCount": 210
         },
         "pullRequests_Merged": {
-            "totalCount": 2893
+            "totalCount": 2894
         },
         "issues_Open": {
-            "totalCount": 506
+            "totalCount": 510
         },
         "issues_Closed": {
             "totalCount": 2661
@@ -81,7 +81,7 @@
             "totalCount": 30
         },
         "forks": {
-            "totalCount": 38
+            "totalCount": 39
         },
         "primaryLanguage": {
             "name": "C++"
