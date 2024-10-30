@@ -519,8 +519,8 @@
         ],
         [
             "2024-10-21",
-            0,
-            0
+            12,
+            -12
         ]
     ],
     "flux-framework/flux-operator": [
