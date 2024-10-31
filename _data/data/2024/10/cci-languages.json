@@ -61,7 +61,7 @@
     "flux-framework/flux-accounting": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 726191,
+            "totalSize": 734986,
             "nodes": [
                 {
                     "name": "Shell",
@@ -101,7 +101,7 @@
                     "size": 253038
                 },
                 {
-                    "size": 241201
+                    "size": 249936
                 },
                 {
                     "size": 147144
@@ -113,7 +113,7 @@
                     "size": 13329
                 },
                 {
-                    "size": 10770
+                    "size": 10830
                 },
                 {
                     "size": 2191
@@ -127,7 +127,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 12738856,
+            "totalSize": 12739047,
             "nodes": [
                 {
                     "name": "C",
@@ -206,7 +206,7 @@
                     "size": 1721945
                 },
                 {
-                    "size": 1304354
+                    "size": 1304545
                 },
                 {
                     "size": 169522
