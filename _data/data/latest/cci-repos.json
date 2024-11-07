@@ -39,19 +39,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 15
+            "totalCount": 11
         },
         "pullRequests_Closed": {
-            "totalCount": 211
+            "totalCount": 212
         },
         "pullRequests_Merged": {
-            "totalCount": 2902
+            "totalCount": 2907
         },
         "issues_Open": {
-            "totalCount": 514
+            "totalCount": 510
         },
         "issues_Closed": {
-            "totalCount": 2669
+            "totalCount": 2675
         }
     },
     "flux-framework/flux-sched": {
@@ -94,19 +94,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 9
+            "totalCount": 7
         },
         "pullRequests_Closed": {
             "totalCount": 63
         },
         "pullRequests_Merged": {
-            "totalCount": 583
+            "totalCount": 586
         },
         "issues_Open": {
-            "totalCount": 103
+            "totalCount": 101
         },
         "issues_Closed": {
-            "totalCount": 533
+            "totalCount": 535
         }
     },
     "flux-framework/flux-accounting": {
@@ -149,13 +149,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 7
+            "totalCount": 8
         },
         "pullRequests_Closed": {
             "totalCount": 19
         },
         "pullRequests_Merged": {
-            "totalCount": 287
+            "totalCount": 289
         },
         "issues_Open": {
             "totalCount": 19
@@ -265,13 +265,13 @@
             "totalCount": 1
         },
         "pullRequests_Merged": {
-            "totalCount": 119
+            "totalCount": 121
         },
         "issues_Open": {
             "totalCount": 29
         },
         "issues_Closed": {
-            "totalCount": 40
+            "totalCount": 41
         }
     },
     "flux-framework/flux-operator": {
@@ -320,13 +320,13 @@
             "totalCount": 11
         },
         "pullRequests_Merged": {
-            "totalCount": 162
+            "totalCount": 163
         },
         "issues_Open": {
             "totalCount": 9
         },
         "issues_Closed": {
-            "totalCount": 40
+            "totalCount": 41
         }
     },
     "flux-framework/flux-restful-api": {

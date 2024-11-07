@@ -8,6 +8,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "flux-accounting v0.39.0",
+                    "publishedAt": "2024-11-05T19:56:44Z",
+                    "tagName": "v0.39.0"
+                },
+                {
                     "name": "flux-accounting v0.38.0",
                     "publishedAt": "2024-10-01T18:46:35Z",
                     "tagName": "v0.38.0"
@@ -228,6 +233,11 @@
     "flux-framework/flux-core": {
         "releases": {
             "nodes": [
+                {
+                    "name": "flux-core v0.68.0",
+                    "publishedAt": "2024-11-06T22:12:59Z",
+                    "tagName": "v0.68.0"
+                },
                 {
                     "name": "flux-core v0.67.0",
                     "publishedAt": "2024-10-02T03:53:49Z",
@@ -668,6 +678,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "flux-sched v0.40.0",
+                    "publishedAt": "2024-11-07T01:04:48Z",
+                    "tagName": "v0.40.0"
+                },
+                {
                     "name": "flux-sched v0.39.0",
                     "publishedAt": "2024-10-01T22:23:19Z",
                     "tagName": "v0.39.0"
@@ -883,6 +898,11 @@
     "flux-framework/flux-security": {
         "releases": {
             "nodes": [
+                {
+                    "name": "flux-security v0.13.0",
+                    "publishedAt": "2024-11-06T18:23:02Z",
+                    "tagName": "v0.13.0"
+                },
                 {
                     "name": "flux-security v0.12.0",
                     "publishedAt": "2024-11-04T14:49:15Z",
