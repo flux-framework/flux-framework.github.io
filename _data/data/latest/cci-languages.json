@@ -127,7 +127,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 12745110,
+            "totalSize": 12755958,
             "nodes": [
                 {
                     "name": "C",
@@ -200,19 +200,19 @@
             ],
             "edges": [
                 {
-                    "size": 9164499
+                    "size": 9172157
                 },
                 {
-                    "size": 1718119
+                    "size": 1719078
                 },
                 {
-                    "size": 1292130
+                    "size": 1293650
                 },
                 {
-                    "size": 169583
+                    "size": 169971
                 },
                 {
-                    "size": 160586
+                    "size": 160909
                 },
                 {
                     "size": 98924
@@ -431,7 +431,7 @@
                 },
                 {
                     "name": "CSS",
-                    "color": "#563d7c"
+                    "color": "#663399"
                 },
                 {
                     "name": "Dockerfile",
