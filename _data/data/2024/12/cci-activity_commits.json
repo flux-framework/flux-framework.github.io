@@ -1052,10 +1052,6 @@
     "flux-framework/flux-python": [
         {
             "total": 0,
-            "week": "2023-12-25"
-        },
-        {
-            "total": 0,
             "week": "2024-01-01"
         },
         {
@@ -1257,6 +1253,10 @@
         {
             "total": 0,
             "week": "2024-12-16"
+        },
+        {
+            "total": 0,
+            "week": "2024-12-23"
         }
     ],
     "flux-framework/flux-restful-api": [
@@ -1471,10 +1471,6 @@
     ],
     "flux-framework/flux-sched": [
         {
-            "total": 1,
-            "week": "2023-12-25"
-        },
-        {
             "total": 13,
             "week": "2024-01-01"
         },
@@ -1677,6 +1673,10 @@
         {
             "total": 0,
             "week": "2024-12-16"
+        },
+        {
+            "total": 0,
+            "week": "2024-12-23"
         }
     ],
     "flux-framework/flux-security": [
