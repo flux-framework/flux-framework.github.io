@@ -2,7 +2,7 @@
     "flux-framework/dyad": {
         "languages": {
             "totalCount": 7,
-            "totalSize": 970738,
+            "totalSize": 970171,
             "nodes": [
                 {
                     "name": "C",
@@ -35,7 +35,7 @@
             ],
             "edges": [
                 {
-                    "size": 271051
+                    "size": 270484
                 },
                 {
                     "size": 240128
@@ -127,7 +127,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 12809073,
+            "totalSize": 12809738,
             "nodes": [
                 {
                     "name": "C",
@@ -200,7 +200,7 @@
             ],
             "edges": [
                 {
-                    "size": 9213724
+                    "size": 9214389
                 },
                 {
                     "size": 1727305
