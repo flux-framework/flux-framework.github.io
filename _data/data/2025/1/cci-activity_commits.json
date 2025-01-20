@@ -625,15 +625,11 @@
             "week": "2025-01-13"
         },
         {
-            "total": 1,
+            "total": 7,
             "week": "2025-01-20"
         }
     ],
     "flux-framework/flux-operator": [
-        {
-            "total": 3,
-            "week": "2024-01-15"
-        },
         {
             "total": 0,
             "week": "2024-01-22"
@@ -837,6 +833,10 @@
         {
             "total": 0,
             "week": "2025-01-13"
+        },
+        {
+            "total": 0,
+            "week": "2025-01-20"
         }
     ],
     "flux-framework/flux-pmix": [
