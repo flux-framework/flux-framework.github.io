@@ -45,13 +45,13 @@
             "totalCount": 215
         },
         "pullRequests_Merged": {
-            "totalCount": 2985
+            "totalCount": 2989
         },
         "issues_Open": {
-            "totalCount": 528
+            "totalCount": 527
         },
         "issues_Closed": {
-            "totalCount": 2726
+            "totalCount": 2729
         }
     },
     "flux-framework/flux-sched": {
@@ -94,13 +94,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 11
+            "totalCount": 10
         },
         "pullRequests_Closed": {
             "totalCount": 63
         },
         "pullRequests_Merged": {
-            "totalCount": 593
+            "totalCount": 594
         },
         "issues_Open": {
             "totalCount": 103
@@ -149,7 +149,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 13
+            "totalCount": 14
         },
         "pullRequests_Closed": {
             "totalCount": 21
@@ -158,7 +158,7 @@
             "totalCount": 306
         },
         "issues_Open": {
-            "totalCount": 23
+            "totalCount": 25
         },
         "issues_Closed": {
             "totalCount": 195
