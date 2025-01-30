@@ -551,6 +551,10 @@
         {
             "date": "2024-11-25",
             "value": 1
+        },
+        {
+            "date": "2025-01-20",
+            "value": 1
         }
     ],
     "flux-framework/flux-operator": [
@@ -665,7 +669,12 @@
             "value": 1
         }
     ],
-    "flux-framework/flux-python": [],
+    "flux-framework/flux-python": [
+        {
+            "date": "2024-06-17",
+            "value": 1
+        }
+    ],
     "flux-framework/flux-restful-api": [
         {
             "date": "2022-11-14",
