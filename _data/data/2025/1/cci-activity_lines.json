@@ -519,8 +519,8 @@
         ],
         [
             "2025-01-27",
-            188,
-            -7
+            277,
+            -13
         ]
     ],
     "flux-framework/flux-operator": [
@@ -1305,8 +1305,8 @@
         ],
         [
             "2025-01-27",
-            0,
-            0
+            7,
+            -2
         ]
     ],
     "flux-framework/flux-restful-api": [
