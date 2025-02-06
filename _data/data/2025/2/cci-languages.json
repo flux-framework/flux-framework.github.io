@@ -61,15 +61,15 @@
     "flux-framework/flux-accounting": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 791403,
+            "totalSize": 794342,
             "nodes": [
-                {
-                    "name": "Shell",
-                    "color": "#89e051"
-                },
                 {
                     "name": "Python",
                     "color": "#3572A5"
+                },
+                {
+                    "name": "Shell",
+                    "color": "#89e051"
                 },
                 {
                     "name": "C++",
@@ -98,10 +98,10 @@
             ],
             "edges": [
                 {
-                    "size": 275081
+                    "size": 276513
                 },
                 {
-                    "size": 274108
+                    "size": 275654
                 },
                 {
                     "size": 157109
@@ -113,7 +113,7 @@
                     "size": 13329
                 },
                 {
-                    "size": 11067
+                    "size": 11028
                 },
                 {
                     "size": 2191
@@ -127,7 +127,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 12830171,
+            "totalSize": 12841356,
             "nodes": [
                 {
                     "name": "C",
@@ -200,19 +200,19 @@
             ],
             "edges": [
                 {
-                    "size": 9225233
+                    "size": 9231793
                 },
                 {
-                    "size": 1733556
+                    "size": 1736832
                 },
                 {
-                    "size": 1301977
+                    "size": 1303298
                 },
                 {
                     "size": 170311
                 },
                 {
-                    "size": 161535
+                    "size": 161563
                 },
                 {
                     "size": 98924
