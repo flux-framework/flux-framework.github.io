@@ -559,6 +559,10 @@
         {
             "date": "2025-02-03",
             "value": 1
+        },
+        {
+            "date": "2025-02-10",
+            "value": 1
         }
     ],
     "flux-framework/flux-operator": [

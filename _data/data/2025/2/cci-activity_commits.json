@@ -422,10 +422,6 @@
     "flux-framework/flux-core": [
         {
             "total": 27,
-            "week": "2024-02-12"
-        },
-        {
-            "total": 27,
             "week": "2024-02-19"
         },
         {
@@ -627,13 +623,13 @@
         {
             "total": 53,
             "week": "2025-02-10"
+        },
+        {
+            "total": 0,
+            "week": "2025-02-17"
         }
     ],
     "flux-framework/flux-operator": [
-        {
-            "total": 3,
-            "week": "2024-02-12"
-        },
         {
             "total": 1,
             "week": "2024-02-19"
@@ -837,13 +833,13 @@
         {
             "total": 0,
             "week": "2025-02-10"
+        },
+        {
+            "total": 0,
+            "week": "2025-02-17"
         }
     ],
     "flux-framework/flux-pmix": [
-        {
-            "total": 0,
-            "week": "2024-02-12"
-        },
         {
             "total": 0,
             "week": "2024-02-19"
@@ -1047,13 +1043,13 @@
         {
             "total": 0,
             "week": "2025-02-10"
+        },
+        {
+            "total": 0,
+            "week": "2025-02-17"
         }
     ],
     "flux-framework/flux-python": [
-        {
-            "total": 0,
-            "week": "2024-02-12"
-        },
         {
             "total": 0,
             "week": "2024-02-19"
@@ -1257,6 +1253,10 @@
         {
             "total": 0,
             "week": "2025-02-10"
+        },
+        {
+            "total": 0,
+            "week": "2025-02-17"
         }
     ],
     "flux-framework/flux-restful-api": [
@@ -1471,10 +1471,6 @@
     ],
     "flux-framework/flux-sched": [
         {
-            "total": 10,
-            "week": "2024-02-12"
-        },
-        {
             "total": 2,
             "week": "2024-02-19"
         },
@@ -1677,6 +1673,10 @@
         {
             "total": 5,
             "week": "2025-02-10"
+        },
+        {
+            "total": 0,
+            "week": "2025-02-17"
         }
     ],
     "flux-framework/flux-security": [
