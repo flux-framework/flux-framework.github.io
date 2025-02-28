@@ -954,6 +954,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "flux-security v0.14.0",
+                    "publishedAt": "2025-02-27T21:57:51Z",
+                    "tagName": "v0.14.0"
+                },
+                {
                     "name": "flux-security v0.13.0",
                     "publishedAt": "2024-11-06T18:23:02Z",
                     "tagName": "v0.13.0"
