@@ -249,6 +249,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "flux-core v0.72.0",
+                    "publishedAt": "2025-03-05T03:11:35Z",
+                    "tagName": "v0.72.0"
+                },
+                {
                     "name": "flux-core v0.71.0",
                     "publishedAt": "2025-02-05T00:31:53Z",
                     "tagName": "v0.71.0"
@@ -712,6 +717,11 @@
     "flux-framework/flux-sched": {
         "releases": {
             "nodes": [
+                {
+                    "name": "flux-sched v0.43.0",
+                    "publishedAt": "2025-03-04T19:28:13Z",
+                    "tagName": "v0.43.0"
+                },
                 {
                     "name": "flux-sched v0.42.2",
                     "publishedAt": "2025-02-10T18:25:46Z",
