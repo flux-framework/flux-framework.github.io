@@ -39,16 +39,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 19
+            "totalCount": 18
         },
         "pullRequests_Closed": {
             "totalCount": 218
         },
         "pullRequests_Merged": {
-            "totalCount": 3065
+            "totalCount": 3067
         },
         "issues_Open": {
-            "totalCount": 557
+            "totalCount": 559
         },
         "issues_Closed": {
             "totalCount": 2774
@@ -149,13 +149,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 8
+            "totalCount": 7
         },
         "pullRequests_Closed": {
             "totalCount": 22
         },
         "pullRequests_Merged": {
-            "totalCount": 336
+            "totalCount": 339
         },
         "issues_Open": {
             "totalCount": 22
