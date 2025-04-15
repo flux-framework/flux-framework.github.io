@@ -48,7 +48,7 @@
             "totalCount": 3078
         },
         "issues_Open": {
-            "totalCount": 558
+            "totalCount": 559
         },
         "issues_Closed": {
             "totalCount": 2784
@@ -149,13 +149,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 8
+            "totalCount": 9
         },
         "pullRequests_Closed": {
             "totalCount": 22
         },
         "pullRequests_Merged": {
-            "totalCount": 341
+            "totalCount": 343
         },
         "issues_Open": {
             "totalCount": 23
@@ -295,7 +295,7 @@
             "url": "http://choosealicense.com/licenses/mit/"
         },
         "stargazers": {
-            "totalCount": 31
+            "totalCount": 32
         },
         "mentionableUsers": {
             "totalCount": 10
