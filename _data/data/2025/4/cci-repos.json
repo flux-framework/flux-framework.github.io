@@ -48,10 +48,10 @@
             "totalCount": 3079
         },
         "issues_Open": {
-            "totalCount": 561
+            "totalCount": 560
         },
         "issues_Closed": {
-            "totalCount": 2785
+            "totalCount": 2786
         }
     },
     "flux-framework/flux-sched": {
@@ -298,7 +298,7 @@
             "totalCount": 32
         },
         "mentionableUsers": {
-            "totalCount": 10
+            "totalCount": 11
         },
         "forks": {
             "totalCount": 8
@@ -492,6 +492,61 @@
         },
         "issues_Closed": {
             "totalCount": 15
+        }
+    },
+    "flux-framework/flux-coral2": {
+        "nameWithOwner": "flux-framework/flux-coral2",
+        "name": "flux-coral2",
+        "owner": {
+            "login": "flux-framework",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/7545483?v=4"
+        },
+        "url": "https://github.com/flux-framework/flux-coral2",
+        "homepageUrl": "",
+        "description": "Plugins and services for Flux on CORAL2 systems",
+        "createdAt": "2021-04-12T17:10:16Z",
+        "defaultBranchRef": {
+            "name": "master"
+        },
+        "licenseInfo": {
+            "name": "GNU Lesser General Public License v3.0",
+            "nickname": "GNU LGPLv3",
+            "spdxId": "LGPL-3.0",
+            "url": "http://choosealicense.com/licenses/lgpl-3.0/"
+        },
+        "stargazers": {
+            "totalCount": 9
+        },
+        "mentionableUsers": {
+            "totalCount": 22
+        },
+        "forks": {
+            "totalCount": 8
+        },
+        "primaryLanguage": {
+            "name": "Shell"
+        },
+        "languages": {
+            "totalCount": 7
+        },
+        "repositoryTopics": {
+            "totalCount": 3
+        },
+        "parent": null,
+        "pullRequests_Open": {
+            "totalCount": 2
+        },
+        "pullRequests_Closed": {
+            "totalCount": 6
+        },
+        "pullRequests_Merged": {
+            "totalCount": 206
+        },
+        "issues_Open": {
+            "totalCount": 53
+        },
+        "issues_Closed": {
+            "totalCount": 76
         }
     }
 }

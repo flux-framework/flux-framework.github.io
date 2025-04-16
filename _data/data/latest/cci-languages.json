@@ -124,6 +124,65 @@
             ]
         }
     },
+    "flux-framework/flux-coral2": {
+        "languages": {
+            "totalCount": 7,
+            "totalSize": 504081,
+            "nodes": [
+                {
+                    "name": "Shell",
+                    "color": "#89e051"
+                },
+                {
+                    "name": "C",
+                    "color": "#555555"
+                },
+                {
+                    "name": "Python",
+                    "color": "#3572A5"
+                },
+                {
+                    "name": "M4",
+                    "color": null
+                },
+                {
+                    "name": "Makefile",
+                    "color": "#427819"
+                },
+                {
+                    "name": "Perl",
+                    "color": "#0298c3"
+                },
+                {
+                    "name": "Dockerfile",
+                    "color": "#384d54"
+                }
+            ],
+            "edges": [
+                {
+                    "size": 184633
+                },
+                {
+                    "size": 135816
+                },
+                {
+                    "size": 134761
+                },
+                {
+                    "size": 37975
+                },
+                {
+                    "size": 7562
+                },
+                {
+                    "size": 1769
+                },
+                {
+                    "size": 1565
+                }
+            ]
+        }
+    },
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,

@@ -17,6 +17,7 @@ repos:
 - flux-framework/flux-restful-api
 - flux-framework/flux-python
 - flux-framework/dyad
+- flux-framework/flux-coral2
 
 # Parsing functions to use (e.g, parse a NEWS.md)
 functions:
@@ -25,3 +26,4 @@ functions:
   flux-framework/flux-accounting: linked-news-markdown-rst
   flux-framework/flux-pmix: linked-news-markdown-rst
   flux-framework/flux-security: linked-news-markdown-rst
+  flux-framework/flux-coral2: linked-news-markdown-rst

@@ -47,6 +47,34 @@
             ]
         }
     },
+    "flux-framework/flux-coral2": {
+        "repositoryTopics": {
+            "totalCount": 3,
+            "nodes": [
+                {
+                    "topic": {
+                        "name": "hpc"
+                    },
+                    "resourcePath": "/topics/hpc",
+                    "url": "https://github.com/topics/hpc"
+                },
+                {
+                    "topic": {
+                        "name": "resource-manager"
+                    },
+                    "resourcePath": "/topics/resource-manager",
+                    "url": "https://github.com/topics/resource-manager"
+                },
+                {
+                    "topic": {
+                        "name": "workflows"
+                    },
+                    "resourcePath": "/topics/workflows",
+                    "url": "https://github.com/topics/workflows"
+                }
+            ]
+        }
+    },
     "flux-framework/flux-core": {
         "repositoryTopics": {
             "totalCount": 4,
