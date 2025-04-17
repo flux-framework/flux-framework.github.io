@@ -250,6 +250,157 @@
             ]
         }
     },
+    "flux-framework/flux-coral2": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "flux-coral2 v0.22.0",
+                    "publishedAt": "2025-04-05T00:09:57Z",
+                    "tagName": "v0.22.0"
+                },
+                {
+                    "name": "flux-coral2 v0.21.0",
+                    "publishedAt": "2025-03-06T16:37:10Z",
+                    "tagName": "v0.21.0"
+                },
+                {
+                    "name": "flux-coral2 v0.20.1",
+                    "publishedAt": "2025-02-18T17:25:34Z",
+                    "tagName": "v0.20.1"
+                },
+                {
+                    "name": "flux-coral2 v0.20.0",
+                    "publishedAt": "2025-02-10T18:22:31Z",
+                    "tagName": "v0.20.0"
+                },
+                {
+                    "name": "flux-coral2 v0.19.1",
+                    "publishedAt": "2025-01-29T06:24:16Z",
+                    "tagName": "v0.19.1"
+                },
+                {
+                    "name": "flux-coral2 v0.19.0",
+                    "publishedAt": "2025-01-16T04:38:58Z",
+                    "tagName": "v0.19.0"
+                },
+                {
+                    "name": "flux-coral2 v0.18.0",
+                    "publishedAt": "2024-11-08T22:40:21Z",
+                    "tagName": "v0.18.0"
+                },
+                {
+                    "name": "flux-coral2 v0.17.1",
+                    "publishedAt": "2024-10-01T17:51:30Z",
+                    "tagName": "v0.17.1"
+                },
+                {
+                    "name": "flux-coral2 v0.17.0",
+                    "publishedAt": "2024-09-20T22:38:14Z",
+                    "tagName": "v0.17.0"
+                },
+                {
+                    "name": "flux-coral2 v0.16.0",
+                    "publishedAt": "2024-08-05T16:28:21Z",
+                    "tagName": "v0.16.0"
+                },
+                {
+                    "name": "flux-coral2 v0.15.0",
+                    "publishedAt": "2024-07-17T16:43:01Z",
+                    "tagName": "v0.15.0"
+                },
+                {
+                    "name": "flux-coral2 v0.14.0",
+                    "publishedAt": "2024-07-04T17:12:59Z",
+                    "tagName": "v0.14.0"
+                },
+                {
+                    "name": "flux-coral2 v0.13.0",
+                    "publishedAt": "2024-05-14T17:41:07Z",
+                    "tagName": "v0.13.0"
+                },
+                {
+                    "name": "flux-coral2 v0.12.0",
+                    "publishedAt": "2024-04-10T23:37:27Z",
+                    "tagName": "v0.12.0"
+                },
+                {
+                    "name": "flux-coral2 v0.11.0",
+                    "publishedAt": "2024-03-05T00:37:16Z",
+                    "tagName": "v0.11.0"
+                },
+                {
+                    "name": "flux-coral2 v0.10.0",
+                    "publishedAt": "2024-02-07T17:55:14Z",
+                    "tagName": "v0.10.0"
+                },
+                {
+                    "name": "flux-coral2 v0.9.0",
+                    "publishedAt": "2024-01-05T23:34:39Z",
+                    "tagName": "v0.9.0"
+                },
+                {
+                    "name": "flux-coral2 v0.8.1",
+                    "publishedAt": "2023-11-30T05:11:34Z",
+                    "tagName": "v0.8.1"
+                },
+                {
+                    "name": "flux-coral2 v0.8.0",
+                    "publishedAt": "2023-10-05T01:38:00Z",
+                    "tagName": "v0.8.0"
+                },
+                {
+                    "name": "flux-coral2 v0.7.0",
+                    "publishedAt": "2023-08-30T18:04:53Z",
+                    "tagName": "v0.7.0"
+                },
+                {
+                    "name": "flux-coral2 v0.6.0",
+                    "publishedAt": "2023-07-20T19:12:49Z",
+                    "tagName": "v0.6.0"
+                },
+                {
+                    "name": "flux-coral2 v0.5.1",
+                    "publishedAt": "2023-06-28T21:57:34Z",
+                    "tagName": "v0.5.1"
+                },
+                {
+                    "name": "flux-coral2 v0.5.0",
+                    "publishedAt": "2023-06-09T18:01:50Z",
+                    "tagName": "v0.5.0"
+                },
+                {
+                    "name": "flux-coral2 v0.4.1",
+                    "publishedAt": "2023-04-24T22:39:36Z",
+                    "tagName": "v0.4.1"
+                },
+                {
+                    "name": "flux-coral2 v0.4.0",
+                    "publishedAt": "2023-04-06T21:21:47Z",
+                    "tagName": "v0.4.0"
+                },
+                {
+                    "name": "flux-coral2 v0.3.1",
+                    "publishedAt": "2023-02-01T01:10:34Z",
+                    "tagName": "v0.3.1"
+                },
+                {
+                    "name": "flux-coral2 v0.3.0",
+                    "publishedAt": "2023-01-31T18:14:10Z",
+                    "tagName": "v0.3.0"
+                },
+                {
+                    "name": "flux-coral2 v0.2.0",
+                    "publishedAt": "2022-10-12T19:24:00Z",
+                    "tagName": "v0.2.0"
+                },
+                {
+                    "name": "flux-coral2 v0.1.0",
+                    "publishedAt": "2022-08-18T21:09:40Z",
+                    "tagName": "v0.1.0"
+                }
+            ]
+        }
+    },
     "flux-framework/flux-core": {
         "releases": {
             "nodes": [
