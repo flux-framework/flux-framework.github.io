@@ -127,7 +127,7 @@
     "flux-framework/flux-coral2": {
         "languages": {
             "totalCount": 7,
-            "totalSize": 511746,
+            "totalSize": 514317,
             "nodes": [
                 {
                     "name": "Shell",
@@ -160,10 +160,10 @@
             ],
             "edges": [
                 {
-                    "size": 187871
+                    "size": 189650
                 },
                 {
-                    "size": 139112
+                    "size": 139904
                 },
                 {
                     "size": 135873
@@ -186,7 +186,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 13143386,
+            "totalSize": 13145485,
             "nodes": [
                 {
                     "name": "C",
@@ -259,10 +259,10 @@
             ],
             "edges": [
                 {
-                    "size": 9298332
+                    "size": 9298760
                 },
                 {
-                    "size": 1764496
+                    "size": 1766124
                 },
                 {
                     "size": 1510509
@@ -271,7 +271,7 @@
                     "size": 170311
                 },
                 {
-                    "size": 162179
+                    "size": 162222
                 },
                 {
                     "size": 98924
