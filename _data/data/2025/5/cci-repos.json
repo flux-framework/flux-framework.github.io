@@ -534,19 +534,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 4
+            "totalCount": 3
         },
         "pullRequests_Closed": {
             "totalCount": 6
         },
         "pullRequests_Merged": {
-            "totalCount": 215
+            "totalCount": 216
         },
         "issues_Open": {
-            "totalCount": 50
+            "totalCount": 49
         },
         "issues_Closed": {
-            "totalCount": 80
+            "totalCount": 81
         }
     }
 }
