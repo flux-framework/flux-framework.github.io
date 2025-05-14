@@ -259,6 +259,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "flux-coral2 v0.23.1",
+                    "publishedAt": "2025-05-13T16:54:13Z",
+                    "tagName": "v0.23.1"
+                },
+                {
                     "name": "flux-coral2 v0.23.0",
                     "publishedAt": "2025-04-29T21:52:34Z",
                     "tagName": "v0.23.0"
