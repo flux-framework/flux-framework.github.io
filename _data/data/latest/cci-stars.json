@@ -1111,6 +1111,10 @@
         {
             "date": "2025-04-28",
             "value": 1
+        },
+        {
+            "date": "2025-05-12",
+            "value": 1
         }
     ],
     "flux-framework/flux-security": []
