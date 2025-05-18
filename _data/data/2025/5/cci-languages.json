@@ -315,7 +315,7 @@
     "flux-framework/flux-operator": {
         "languages": {
             "totalCount": 7,
-            "totalSize": 479235,
+            "totalSize": 479402,
             "nodes": [
                 {
                     "name": "Python",
@@ -351,7 +351,7 @@
                     "size": 306498
                 },
                 {
-                    "size": 129099
+                    "size": 129266
                 },
                 {
                     "size": 23419
