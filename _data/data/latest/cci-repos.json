@@ -48,7 +48,7 @@
             "totalCount": 3111
         },
         "issues_Open": {
-            "totalCount": 575
+            "totalCount": 576
         },
         "issues_Closed": {
             "totalCount": 2809
@@ -103,10 +103,10 @@
             "totalCount": 617
         },
         "issues_Open": {
-            "totalCount": 114
+            "totalCount": 113
         },
         "issues_Closed": {
-            "totalCount": 540
+            "totalCount": 541
         }
     },
     "flux-framework/flux-accounting": {
@@ -295,7 +295,7 @@
             "url": "http://choosealicense.com/licenses/mit/"
         },
         "stargazers": {
-            "totalCount": 32
+            "totalCount": 33
         },
         "mentionableUsers": {
             "totalCount": 10
