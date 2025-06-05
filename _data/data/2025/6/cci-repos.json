@@ -39,7 +39,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 21
+            "totalCount": 23
         },
         "pullRequests_Closed": {
             "totalCount": 229
@@ -48,7 +48,7 @@
             "totalCount": 3113
         },
         "issues_Open": {
-            "totalCount": 578
+            "totalCount": 582
         },
         "issues_Closed": {
             "totalCount": 2810
@@ -81,7 +81,7 @@
             "totalCount": 31
         },
         "forks": {
-            "totalCount": 41
+            "totalCount": 42
         },
         "primaryLanguage": {
             "name": "C++"
@@ -540,10 +540,10 @@
             "totalCount": 6
         },
         "pullRequests_Merged": {
-            "totalCount": 224
+            "totalCount": 225
         },
         "issues_Open": {
-            "totalCount": 49
+            "totalCount": 50
         },
         "issues_Closed": {
             "totalCount": 82
