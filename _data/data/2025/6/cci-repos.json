@@ -39,7 +39,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 23
+            "totalCount": 24
         },
         "pullRequests_Closed": {
             "totalCount": 231
@@ -94,13 +94,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 12
+            "totalCount": 11
         },
         "pullRequests_Closed": {
             "totalCount": 71
         },
         "pullRequests_Merged": {
-            "totalCount": 617
+            "totalCount": 618
         },
         "issues_Open": {
             "totalCount": 111
@@ -155,13 +155,13 @@
             "totalCount": 25
         },
         "pullRequests_Merged": {
-            "totalCount": 375
+            "totalCount": 377
         },
         "issues_Open": {
-            "totalCount": 30
+            "totalCount": 27
         },
         "issues_Closed": {
-            "totalCount": 225
+            "totalCount": 229
         }
     },
     "flux-framework/flux-pmix": {
@@ -191,7 +191,7 @@
             "totalCount": 7
         },
         "forks": {
-            "totalCount": 4
+            "totalCount": 5
         },
         "primaryLanguage": {
             "name": "C"
@@ -204,7 +204,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 0
+            "totalCount": 1
         },
         "pullRequests_Closed": {
             "totalCount": 3
@@ -213,7 +213,7 @@
             "totalCount": 66
         },
         "issues_Open": {
-            "totalCount": 9
+            "totalCount": 10
         },
         "issues_Closed": {
             "totalCount": 30
@@ -479,13 +479,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 6
+            "totalCount": 4
         },
         "pullRequests_Closed": {
             "totalCount": 25
         },
         "pullRequests_Merged": {
-            "totalCount": 68
+            "totalCount": 70
         },
         "issues_Open": {
             "totalCount": 28
