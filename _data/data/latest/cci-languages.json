@@ -61,7 +61,7 @@
     "flux-framework/flux-accounting": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 927353,
+            "totalSize": 953121,
             "nodes": [
                 {
                     "name": "Shell",
@@ -98,13 +98,13 @@
             ],
             "edges": [
                 {
-                    "size": 323572
+                    "size": 337416
                 },
                 {
-                    "size": 320305
+                    "size": 331961
                 },
                 {
-                    "size": 197153
+                    "size": 197354
                 },
                 {
                     "size": 56731
@@ -113,7 +113,7 @@
                     "size": 13329
                 },
                 {
-                    "size": 12285
+                    "size": 12352
                 },
                 {
                     "size": 2191
