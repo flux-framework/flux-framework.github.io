@@ -2,7 +2,7 @@
     "flux-framework/dyad": {
         "languages": {
             "totalCount": 7,
-            "totalSize": 989338,
+            "totalSize": 989121,
             "nodes": [
                 {
                     "name": "C",
@@ -47,7 +47,7 @@
                     "size": 128095
                 },
                 {
-                    "size": 77993
+                    "size": 77776
                 },
                 {
                     "size": 72415
@@ -127,7 +127,7 @@
     "flux-framework/flux-coral2": {
         "languages": {
             "totalCount": 7,
-            "totalSize": 522615,
+            "totalSize": 514426,
             "nodes": [
                 {
                     "name": "Shell",
@@ -160,10 +160,10 @@
             ],
             "edges": [
                 {
-                    "size": 192428
+                    "size": 181891
                 },
                 {
-                    "size": 148153
+                    "size": 150501
                 },
                 {
                     "size": 133145
