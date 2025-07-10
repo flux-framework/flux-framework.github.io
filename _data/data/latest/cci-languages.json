@@ -61,7 +61,7 @@
     "flux-framework/flux-accounting": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 971617,
+            "totalSize": 971428,
             "nodes": [
                 {
                     "name": "Python",
@@ -104,7 +104,7 @@
                     "size": 340957
                 },
                 {
-                    "size": 197354
+                    "size": 197165
                 },
                 {
                     "size": 56731
