@@ -45,7 +45,7 @@
             "totalCount": 231
         },
         "pullRequests_Merged": {
-            "totalCount": 3143
+            "totalCount": 3145
         },
         "issues_Open": {
             "totalCount": 585
@@ -100,7 +100,7 @@
             "totalCount": 71
         },
         "pullRequests_Merged": {
-            "totalCount": 618
+            "totalCount": 619
         },
         "issues_Open": {
             "totalCount": 111
@@ -149,19 +149,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 12
+            "totalCount": 10
         },
         "pullRequests_Closed": {
             "totalCount": 25
         },
         "pullRequests_Merged": {
-            "totalCount": 392
+            "totalCount": 395
         },
         "issues_Open": {
-            "totalCount": 30
+            "totalCount": 27
         },
         "issues_Closed": {
-            "totalCount": 237
+            "totalCount": 240
         }
     },
     "flux-framework/flux-pmix": {
@@ -295,7 +295,7 @@
             "url": "http://choosealicense.com/licenses/mit/"
         },
         "stargazers": {
-            "totalCount": 34
+            "totalCount": 35
         },
         "mentionableUsers": {
             "totalCount": 10

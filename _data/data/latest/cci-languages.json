@@ -61,7 +61,7 @@
     "flux-framework/flux-accounting": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 975084,
+            "totalSize": 976686,
             "nodes": [
                 {
                     "name": "Python",
@@ -98,13 +98,13 @@
             ],
             "edges": [
                 {
-                    "size": 346809
+                    "size": 348118
                 },
                 {
-                    "size": 343889
+                    "size": 343987
                 },
                 {
-                    "size": 197867
+                    "size": 198062
                 },
                 {
                     "size": 56731
@@ -186,7 +186,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 13266981,
+            "totalSize": 13274299,
             "nodes": [
                 {
                     "name": "C",
@@ -259,10 +259,10 @@
             ],
             "edges": [
                 {
-                    "size": 9379234
+                    "size": 9382516
                 },
                 {
-                    "size": 1784322
+                    "size": 1788358
                 },
                 {
                     "size": 1533745
@@ -537,7 +537,7 @@
     "flux-framework/flux-sched": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 2175944,
+            "totalSize": 2176913,
             "nodes": [
                 {
                     "name": "C++",
@@ -574,10 +574,10 @@
             ],
             "edges": [
                 {
-                    "size": 1380786
+                    "size": 1381436
                 },
                 {
-                    "size": 538169
+                    "size": 538488
                 },
                 {
                     "size": 90949

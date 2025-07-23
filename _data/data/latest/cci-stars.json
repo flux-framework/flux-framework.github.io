@@ -759,6 +759,10 @@
         {
             "date": "2025-06-02",
             "value": 1
+        },
+        {
+            "date": "2025-06-30",
+            "value": 1
         }
     ],
     "flux-framework/flux-pmix": [
