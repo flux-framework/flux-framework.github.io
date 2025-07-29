@@ -61,7 +61,7 @@
     "flux-framework/flux-accounting": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 983420,
+            "totalSize": 1018388,
             "nodes": [
                 {
                     "name": "Shell",
@@ -98,13 +98,13 @@
             ],
             "edges": [
                 {
-                    "size": 349377
+                    "size": 370671
                 },
                 {
-                    "size": 348118
+                    "size": 355487
                 },
                 {
-                    "size": 199371
+                    "size": 205228
                 },
                 {
                     "size": 56731
@@ -113,7 +113,7 @@
                     "size": 13329
                 },
                 {
-                    "size": 12516
+                    "size": 12964
                 },
                 {
                     "size": 2191
@@ -186,7 +186,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 13273111,
+            "totalSize": 13283578,
             "nodes": [
                 {
                     "name": "C",
@@ -259,19 +259,19 @@
             ],
             "edges": [
                 {
-                    "size": 9382698
+                    "size": 9392456
                 },
                 {
-                    "size": 1786992
+                    "size": 1787396
                 },
                 {
                     "size": 1533745
                 },
                 {
-                    "size": 169547
+                    "size": 169588
                 },
                 {
-                    "size": 162794
+                    "size": 163058
                 },
                 {
                     "size": 98924
@@ -374,7 +374,7 @@
     "flux-framework/flux-pmix": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 900132,
+            "totalSize": 900300,
             "nodes": [
                 {
                     "name": "C",
@@ -417,7 +417,7 @@
                     "size": 109509
                 },
                 {
-                    "size": 52664
+                    "size": 52832
                 },
                 {
                     "size": 28592
