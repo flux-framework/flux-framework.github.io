@@ -1567,8 +1567,8 @@
         ],
         [
             "2025-08-04",
-            0,
-            0
+            1,
+            -1
         ]
     ],
     "flux-framework/flux-restful-api": [
