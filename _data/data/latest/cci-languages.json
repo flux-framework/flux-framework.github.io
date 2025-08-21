@@ -61,7 +61,7 @@
     "flux-framework/flux-accounting": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 1031999,
+            "totalSize": 1033392,
             "nodes": [
                 {
                     "name": "Shell",
@@ -98,10 +98,10 @@
             ],
             "edges": [
                 {
-                    "size": 378516
+                    "size": 378709
                 },
                 {
-                    "size": 354740
+                    "size": 355940
                 },
                 {
                     "size": 211691
@@ -127,7 +127,7 @@
     "flux-framework/flux-coral2": {
         "languages": {
             "totalCount": 7,
-            "totalSize": 530051,
+            "totalSize": 530013,
             "nodes": [
                 {
                     "name": "Shell",
@@ -160,7 +160,7 @@
             ],
             "edges": [
                 {
-                    "size": 189399
+                    "size": 189361
                 },
                 {
                     "size": 157871
@@ -186,7 +186,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 13446980,
+            "totalSize": 13421855,
             "nodes": [
                 {
                     "name": "C",
@@ -259,19 +259,19 @@
             ],
             "edges": [
                 {
-                    "size": 9422583
+                    "size": 9401503
                 },
                 {
-                    "size": 1840879
+                    "size": 1838560
                 },
                 {
-                    "size": 1611728
+                    "size": 1610092
                 },
                 {
                     "size": 170070
                 },
                 {
-                    "size": 164338
+                    "size": 164248
                 },
                 {
                     "size": 98971
@@ -537,7 +537,7 @@
     "flux-framework/flux-sched": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 2170955,
+            "totalSize": 2170917,
             "nodes": [
                 {
                     "name": "C++",
@@ -577,7 +577,7 @@
                     "size": 1364314
                 },
                 {
-                    "size": 547161
+                    "size": 547123
                 },
                 {
                     "size": 92784
