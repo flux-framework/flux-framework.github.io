@@ -421,10 +421,6 @@
     ],
     "flux-framework/flux-coral2": [
         {
-            "total": 0,
-            "week": "2024-09-02"
-        },
-        {
             "total": 15,
             "week": "2024-09-09"
         },
@@ -627,6 +623,10 @@
         {
             "total": 16,
             "week": "2025-09-01"
+        },
+        {
+            "total": 0,
+            "week": "2025-09-08"
         }
     ],
     "flux-framework/flux-core": [
@@ -1045,15 +1045,11 @@
             "week": "2025-09-01"
         },
         {
-            "total": 0,
+            "total": 1,
             "week": "2025-09-08"
         }
     ],
     "flux-framework/flux-pmix": [
-        {
-            "total": 0,
-            "week": "2024-09-02"
-        },
         {
             "total": 0,
             "week": "2024-09-09"
@@ -1257,6 +1253,10 @@
         {
             "total": 0,
             "week": "2025-09-01"
+        },
+        {
+            "total": 0,
+            "week": "2025-09-08"
         }
     ],
     "flux-framework/flux-python": [
@@ -1681,10 +1681,6 @@
     ],
     "flux-framework/flux-sched": [
         {
-            "total": 1,
-            "week": "2024-09-02"
-        },
-        {
             "total": 5,
             "week": "2024-09-09"
         },
@@ -1887,6 +1883,10 @@
         {
             "total": 1,
             "week": "2025-09-01"
+        },
+        {
+            "total": 0,
+            "week": "2025-09-08"
         }
     ],
     "flux-framework/flux-security": [
