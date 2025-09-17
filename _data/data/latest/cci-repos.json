@@ -39,19 +39,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 19
+            "totalCount": 18
         },
         "pullRequests_Closed": {
             "totalCount": 236
         },
         "pullRequests_Merged": {
-            "totalCount": 3230
+            "totalCount": 3232
         },
         "issues_Open": {
-            "totalCount": 597
+            "totalCount": 596
         },
         "issues_Closed": {
-            "totalCount": 2867
+            "totalCount": 2868
         }
     },
     "flux-framework/flux-sched": {
@@ -155,13 +155,13 @@
             "totalCount": 27
         },
         "pullRequests_Merged": {
-            "totalCount": 429
+            "totalCount": 430
         },
         "issues_Open": {
-            "totalCount": 23
+            "totalCount": 22
         },
         "issues_Closed": {
-            "totalCount": 252
+            "totalCount": 253
         }
     },
     "flux-framework/flux-pmix": {
@@ -424,13 +424,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 3
+            "totalCount": 2
         },
         "pullRequests_Closed": {
             "totalCount": 0
         },
         "pullRequests_Merged": {
-            "totalCount": 10
+            "totalCount": 11
         },
         "issues_Open": {
             "totalCount": 2
@@ -534,7 +534,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 3
+            "totalCount": 5
         },
         "pullRequests_Closed": {
             "totalCount": 7
@@ -543,7 +543,7 @@
             "totalCount": 261
         },
         "issues_Open": {
-            "totalCount": 56
+            "totalCount": 57
         },
         "issues_Closed": {
             "totalCount": 89
