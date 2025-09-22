@@ -2,10 +2,6 @@
     "flux-framework/dyad": [
         {
             "total": 0,
-            "week": "2024-09-16"
-        },
-        {
-            "total": 0,
             "week": "2024-09-23"
         },
         {
@@ -207,6 +203,10 @@
         {
             "total": 0,
             "week": "2025-09-15"
+        },
+        {
+            "total": 0,
+            "week": "2025-09-22"
         }
     ],
     "flux-framework/flux-accounting": [
@@ -1681,10 +1681,6 @@
     ],
     "flux-framework/flux-sched": [
         {
-            "total": 8,
-            "week": "2024-09-16"
-        },
-        {
             "total": 5,
             "week": "2024-09-23"
         },
@@ -1887,6 +1883,10 @@
         {
             "total": 0,
             "week": "2025-09-15"
+        },
+        {
+            "total": 0,
+            "week": "2025-09-22"
         }
     ],
     "flux-framework/flux-security": [
