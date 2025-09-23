@@ -61,7 +61,7 @@
     "flux-framework/flux-accounting": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 1071453,
+            "totalSize": 1073889,
             "nodes": [
                 {
                     "name": "Shell",
@@ -98,10 +98,10 @@
             ],
             "edges": [
                 {
-                    "size": 403678
+                    "size": 405028
                 },
                 {
-                    "size": 364746
+                    "size": 365832
                 },
                 {
                     "size": 215801
@@ -127,7 +127,7 @@
     "flux-framework/flux-coral2": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 805319,
+            "totalSize": 805955,
             "nodes": [
                 {
                     "name": "C",
@@ -164,10 +164,10 @@
             ],
             "edges": [
                 {
-                    "size": 363033
+                    "size": 363239
                 },
                 {
-                    "size": 203195
+                    "size": 203625
                 },
                 {
                     "size": 158877
@@ -193,7 +193,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 13510125,
+            "totalSize": 13557726,
             "nodes": [
                 {
                     "name": "C",
@@ -266,19 +266,19 @@
             ],
             "edges": [
                 {
-                    "size": 9448209
+                    "size": 9493970
                 },
                 {
                     "size": 1863220
                 },
                 {
-                    "size": 1622765
+                    "size": 1623748
                 },
                 {
                     "size": 170304
                 },
                 {
-                    "size": 164710
+                    "size": 165567
                 },
                 {
                     "size": 98971
