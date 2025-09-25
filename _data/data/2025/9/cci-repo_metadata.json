@@ -88,15 +88,5 @@
         "description": "DYAD: DYnamic and Asynchronous Data Streamliner",
         "website": null,
         "topics": null
-    },
-    "flux-framework/flux-coral2": {
-        "name": "flux-framework/flux-coral2",
-        "description": "Plugins and services for Flux on CORAL2 systems",
-        "website": "",
-        "topics": [
-            "hpc",
-            "resource-manager",
-            "workflows"
-        ]
     }
 }

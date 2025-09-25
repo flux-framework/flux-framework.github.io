@@ -215,34 +215,6 @@
             ]
         }
     },
-    "flux-framework/flux-restful-api": {
-        "repositoryTopics": {
-            "totalCount": 3,
-            "nodes": [
-                {
-                    "topic": {
-                        "name": "docker"
-                    },
-                    "resourcePath": "/topics/docker",
-                    "url": "https://github.com/topics/docker"
-                },
-                {
-                    "topic": {
-                        "name": "fastapi"
-                    },
-                    "resourcePath": "/topics/fastapi",
-                    "url": "https://github.com/topics/fastapi"
-                },
-                {
-                    "topic": {
-                        "name": "flux-framework"
-                    },
-                    "resourcePath": "/topics/flux-framework",
-                    "url": "https://github.com/topics/flux-framework"
-                }
-            ]
-        }
-    },
     "flux-framework/flux-sched": {
         "repositoryTopics": {
             "totalCount": 5,
