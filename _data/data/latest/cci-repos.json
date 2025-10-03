@@ -45,13 +45,13 @@
             "totalCount": 239
         },
         "pullRequests_Merged": {
-            "totalCount": 3262
+            "totalCount": 3263
         },
         "issues_Open": {
             "totalCount": 595
         },
         "issues_Closed": {
-            "totalCount": 2879
+            "totalCount": 2880
         }
     },
     "flux-framework/flux-sched": {
@@ -94,13 +94,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 17
+            "totalCount": 16
         },
         "pullRequests_Closed": {
             "totalCount": 72
         },
         "pullRequests_Merged": {
-            "totalCount": 633
+            "totalCount": 634
         },
         "issues_Open": {
             "totalCount": 114
