@@ -1262,10 +1262,6 @@
     "flux-framework/flux-python": [
         {
             "total": 0,
-            "week": "2024-10-07"
-        },
-        {
-            "total": 0,
             "week": "2024-10-14"
         },
         {
@@ -1467,6 +1463,10 @@
         {
             "total": 0,
             "week": "2025-10-06"
+        },
+        {
+            "total": 0,
+            "week": "2025-10-13"
         }
     ],
     "flux-framework/flux-restful-api": [
