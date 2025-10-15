@@ -127,7 +127,7 @@
     "flux-framework/flux-coral2": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 807279,
+            "totalSize": 819538,
             "nodes": [
                 {
                     "name": "C",
@@ -167,10 +167,10 @@
                     "size": 363239
                 },
                 {
-                    "size": 204887
+                    "size": 209054
                 },
                 {
-                    "size": 158877
+                    "size": 166913
                 },
                 {
                     "size": 39045
@@ -179,7 +179,7 @@
                     "size": 26527
                 },
                 {
-                    "size": 11103
+                    "size": 11159
                 },
                 {
                     "size": 1832
@@ -193,7 +193,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 13601170,
+            "totalSize": 13604898,
             "nodes": [
                 {
                     "name": "C",
@@ -266,19 +266,19 @@
             ],
             "edges": [
                 {
-                    "size": 9522092
+                    "size": 9521385
                 },
                 {
-                    "size": 1872931
+                    "size": 1873362
                 },
                 {
-                    "size": 1629382
+                    "size": 1630491
                 },
                 {
-                    "size": 170304
+                    "size": 170102
                 },
                 {
-                    "size": 165518
+                    "size": 165565
                 },
                 {
                     "size": 98971
@@ -299,7 +299,7 @@
                     "size": 10804
                 },
                 {
-                    "size": 7633
+                    "size": 10683
                 },
                 {
                     "size": 4657
@@ -322,7 +322,7 @@
     "flux-framework/flux-operator": {
         "languages": {
             "totalCount": 7,
-            "totalSize": 481111,
+            "totalSize": 481635,
             "nodes": [
                 {
                     "name": "Python",
@@ -358,7 +358,7 @@
                     "size": 304385
                 },
                 {
-                    "size": 132764
+                    "size": 133288
                 },
                 {
                     "size": 23743
