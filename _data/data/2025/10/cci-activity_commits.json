@@ -421,10 +421,6 @@
     ],
     "flux-framework/flux-coral2": [
         {
-            "total": 0,
-            "week": "2024-10-14"
-        },
-        {
             "total": 6,
             "week": "2024-10-21"
         },
@@ -627,6 +623,10 @@
         {
             "total": 11,
             "week": "2025-10-13"
+        },
+        {
+            "total": 0,
+            "week": "2025-10-20"
         }
     ],
     "flux-framework/flux-core": [
