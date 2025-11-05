@@ -8,6 +8,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "flux-accounting v0.53.0",
+                    "publishedAt": "2025-11-04T17:59:20Z",
+                    "tagName": "v0.53.0"
+                },
+                {
                     "name": "flux-accounting v0.52.0",
                     "publishedAt": "2025-09-30T22:01:15Z",
                     "tagName": "v0.52.0"
@@ -490,6 +495,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "flux-core v0.80.0",
+                    "publishedAt": "2025-11-04T23:49:04Z",
+                    "tagName": "v0.80.0"
+                },
+                {
                     "name": "flux-core v0.79.0",
                     "publishedAt": "2025-10-08T01:44:46Z",
                     "tagName": "v0.79.0"
@@ -941,6 +951,11 @@
     "flux-framework/flux-pmix": {
         "releases": {
             "nodes": [
+                {
+                    "name": "",
+                    "publishedAt": "2025-11-04T22:54:43Z",
+                    "tagName": "v0.7.0"
+                },
                 {
                     "name": "flux-pmix v0.6.0",
                     "publishedAt": "2025-01-15T18:37:47Z",

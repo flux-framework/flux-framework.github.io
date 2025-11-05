@@ -39,13 +39,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 18
+            "totalCount": 19
         },
         "pullRequests_Closed": {
             "totalCount": 239
         },
         "pullRequests_Merged": {
-            "totalCount": 3305
+            "totalCount": 3307
         },
         "issues_Open": {
             "totalCount": 607
@@ -149,13 +149,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 9
+            "totalCount": 8
         },
         "pullRequests_Closed": {
             "totalCount": 36
         },
         "pullRequests_Merged": {
-            "totalCount": 448
+            "totalCount": 449
         },
         "issues_Open": {
             "totalCount": 22
@@ -188,7 +188,7 @@
             "totalCount": 2
         },
         "mentionableUsers": {
-            "totalCount": 7
+            "totalCount": 10
         },
         "forks": {
             "totalCount": 6
@@ -204,19 +204,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 4
+            "totalCount": 0
         },
         "pullRequests_Closed": {
-            "totalCount": 3
+            "totalCount": 4
         },
         "pullRequests_Merged": {
-            "totalCount": 68
+            "totalCount": 74
         },
         "issues_Open": {
-            "totalCount": 11
+            "totalCount": 3
         },
         "issues_Closed": {
-            "totalCount": 31
+            "totalCount": 39
         }
     },
     "flux-framework/flux-security": {
@@ -534,7 +534,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 3
+            "totalCount": 4
         },
         "pullRequests_Closed": {
             "totalCount": 9
@@ -543,7 +543,7 @@
             "totalCount": 275
         },
         "issues_Open": {
-            "totalCount": 56
+            "totalCount": 57
         },
         "issues_Closed": {
             "totalCount": 92
