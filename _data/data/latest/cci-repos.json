@@ -75,7 +75,7 @@
             "url": "http://choosealicense.com/licenses/lgpl-3.0/"
         },
         "stargazers": {
-            "totalCount": 100
+            "totalCount": 101
         },
         "mentionableUsers": {
             "totalCount": 31
@@ -259,13 +259,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 3
+            "totalCount": 2
         },
         "pullRequests_Closed": {
             "totalCount": 2
         },
         "pullRequests_Merged": {
-            "totalCount": 126
+            "totalCount": 127
         },
         "issues_Open": {
             "totalCount": 31
@@ -295,7 +295,7 @@
             "url": "http://choosealicense.com/licenses/mit/"
         },
         "stargazers": {
-            "totalCount": 36
+            "totalCount": 37
         },
         "mentionableUsers": {
             "totalCount": 10
