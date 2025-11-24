@@ -421,10 +421,6 @@
     ],
     "flux-framework/flux-coral2": [
         {
-            "total": 1,
-            "week": "2024-11-18"
-        },
-        {
             "total": 2,
             "week": "2024-11-25"
         },
@@ -627,6 +623,10 @@
         {
             "total": 0,
             "week": "2025-11-17"
+        },
+        {
+            "total": 0,
+            "week": "2025-11-24"
         }
     ],
     "flux-framework/flux-core": [
@@ -1682,10 +1682,6 @@
     "flux-framework/flux-sched": [
         {
             "total": 0,
-            "week": "2024-11-18"
-        },
-        {
-            "total": 0,
             "week": "2024-11-25"
         },
         {
@@ -1887,6 +1883,10 @@
         {
             "total": 0,
             "week": "2025-11-17"
+        },
+        {
+            "total": 0,
+            "week": "2025-11-24"
         }
     ],
     "flux-framework/flux-security": [
