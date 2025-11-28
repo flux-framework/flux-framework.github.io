@@ -48,7 +48,7 @@
             "totalCount": 3320
         },
         "issues_Open": {
-            "totalCount": 611
+            "totalCount": 613
         },
         "issues_Closed": {
             "totalCount": 2910
@@ -320,7 +320,7 @@
             "totalCount": 11
         },
         "pullRequests_Merged": {
-            "totalCount": 180
+            "totalCount": 181
         },
         "issues_Open": {
             "totalCount": 9
@@ -344,10 +344,10 @@
             "name": "main"
         },
         "licenseInfo": {
-            "name": "GNU Lesser General Public License v3.0",
-            "nickname": "GNU LGPLv3",
-            "spdxId": "LGPL-3.0",
-            "url": "http://choosealicense.com/licenses/lgpl-3.0/"
+            "name": "MIT License",
+            "nickname": null,
+            "spdxId": "MIT",
+            "url": "http://choosealicense.com/licenses/mit/"
         },
         "stargazers": {
             "totalCount": 9
@@ -369,13 +369,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 2
+            "totalCount": 3
         },
         "pullRequests_Closed": {
             "totalCount": 1
         },
         "pullRequests_Merged": {
-            "totalCount": 38
+            "totalCount": 39
         },
         "issues_Open": {
             "totalCount": 8
