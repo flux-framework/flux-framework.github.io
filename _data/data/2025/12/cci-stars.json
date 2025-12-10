@@ -799,6 +799,10 @@
         {
             "date": "2024-06-17",
             "value": 1
+        },
+        {
+            "date": "2025-02-03",
+            "value": 1
         }
     ],
     "flux-framework/flux-restful-api": [
