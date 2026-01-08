@@ -258,7 +258,7 @@
         [
             "2026-01-05",
             0,
-            0
+            -123
         ]
     ],
     "flux-framework/flux-accounting": [

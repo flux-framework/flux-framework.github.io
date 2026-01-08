@@ -23,10 +23,10 @@
             "totalCount": 193
         },
         "mentionableUsers": {
-            "totalCount": 31
+            "totalCount": 32
         },
         "forks": {
-            "totalCount": 53
+            "totalCount": 54
         },
         "primaryLanguage": {
             "name": "C"
@@ -39,19 +39,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 20
+            "totalCount": 19
         },
         "pullRequests_Closed": {
             "totalCount": 242
         },
         "pullRequests_Merged": {
-            "totalCount": 3346
+            "totalCount": 3348
         },
         "issues_Open": {
-            "totalCount": 616
+            "totalCount": 614
         },
         "issues_Closed": {
-            "totalCount": 2924
+            "totalCount": 2927
         }
     },
     "flux-framework/flux-sched": {
@@ -149,7 +149,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 11
+            "totalCount": 12
         },
         "pullRequests_Closed": {
             "totalCount": 36
@@ -158,7 +158,7 @@
             "totalCount": 459
         },
         "issues_Open": {
-            "totalCount": 25
+            "totalCount": 26
         },
         "issues_Closed": {
             "totalCount": 263
@@ -466,7 +466,7 @@
             "totalCount": 17
         },
         "forks": {
-            "totalCount": 7
+            "totalCount": 8
         },
         "primaryLanguage": {
             "name": "C"
@@ -485,13 +485,13 @@
             "totalCount": 27
         },
         "pullRequests_Merged": {
-            "totalCount": 73
+            "totalCount": 74
         },
         "issues_Open": {
             "totalCount": 28
         },
         "issues_Closed": {
-            "totalCount": 15
+            "totalCount": 16
         }
     },
     "flux-framework/flux-coral2": {
