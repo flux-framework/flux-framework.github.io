@@ -193,7 +193,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 13849372,
+            "totalSize": 13850392,
             "nodes": [
                 {
                     "name": "C",
@@ -266,10 +266,10 @@
             ],
             "edges": [
                 {
-                    "size": 9661745
+                    "size": 9662049
                 },
                 {
-                    "size": 1939896
+                    "size": 1940623
                 },
                 {
                     "size": 1666433
@@ -278,7 +278,7 @@
                     "size": 170102
                 },
                 {
-                    "size": 167229
+                    "size": 167218
                 },
                 {
                     "size": 98971
@@ -381,7 +381,7 @@
     "flux-framework/flux-pmix": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 901925,
+            "totalSize": 901962,
             "nodes": [
                 {
                     "name": "C",
@@ -430,7 +430,7 @@
                     "size": 28592
                 },
                 {
-                    "size": 14018
+                    "size": 14055
                 },
                 {
                     "size": 6140
@@ -610,7 +610,7 @@
     "flux-framework/flux-security": {
         "languages": {
             "totalCount": 6,
-            "totalSize": 755773,
+            "totalSize": 755810,
             "nodes": [
                 {
                     "name": "C",
@@ -648,7 +648,7 @@
                     "size": 29502
                 },
                 {
-                    "size": 17737
+                    "size": 17774
                 },
                 {
                     "size": 3569
