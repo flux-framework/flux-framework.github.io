@@ -610,7 +610,7 @@
     "flux-framework/flux-security": {
         "languages": {
             "totalCount": 6,
-            "totalSize": 755810,
+            "totalSize": 755840,
             "nodes": [
                 {
                     "name": "C",
@@ -639,7 +639,7 @@
             ],
             "edges": [
                 {
-                    "size": 578561
+                    "size": 578591
                 },
                 {
                     "size": 124392

@@ -39,7 +39,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 19
+            "totalCount": 21
         },
         "pullRequests_Closed": {
             "totalCount": 242
@@ -48,7 +48,7 @@
             "totalCount": 3349
         },
         "issues_Open": {
-            "totalCount": 617
+            "totalCount": 618
         },
         "issues_Closed": {
             "totalCount": 2928
@@ -149,7 +149,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 12
+            "totalCount": 13
         },
         "pullRequests_Closed": {
             "totalCount": 36
@@ -158,7 +158,7 @@
             "totalCount": 459
         },
         "issues_Open": {
-            "totalCount": 26
+            "totalCount": 27
         },
         "issues_Closed": {
             "totalCount": 263
@@ -259,19 +259,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 2
+            "totalCount": 1
         },
         "pullRequests_Closed": {
             "totalCount": 2
         },
         "pullRequests_Merged": {
-            "totalCount": 129
+            "totalCount": 130
         },
         "issues_Open": {
-            "totalCount": 32
+            "totalCount": 31
         },
         "issues_Closed": {
-            "totalCount": 43
+            "totalCount": 44
         }
     },
     "flux-framework/flux-operator": {
