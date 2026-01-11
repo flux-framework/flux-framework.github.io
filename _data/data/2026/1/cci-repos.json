@@ -51,7 +51,7 @@
             "totalCount": 618
         },
         "issues_Closed": {
-            "totalCount": 2928
+            "totalCount": 2929
         }
     },
     "flux-framework/flux-sched": {
@@ -81,7 +81,7 @@
             "totalCount": 29
         },
         "forks": {
-            "totalCount": 45
+            "totalCount": 46
         },
         "primaryLanguage": {
             "name": "C++"
