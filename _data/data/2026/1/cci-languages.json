@@ -61,7 +61,7 @@
     "flux-framework/flux-accounting": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 1138762,
+            "totalSize": 1159108,
             "nodes": [
                 {
                     "name": "Shell",
@@ -80,12 +80,12 @@
                     "color": null
                 },
                 {
-                    "name": "C",
-                    "color": "#555555"
-                },
-                {
                     "name": "Makefile",
                     "color": "#427819"
+                },
+                {
+                    "name": "C",
+                    "color": "#555555"
                 },
                 {
                     "name": "Dockerfile",
@@ -98,10 +98,10 @@
             ],
             "edges": [
                 {
-                    "size": 443544
+                    "size": 450633
                 },
                 {
-                    "size": 377596
+                    "size": 390819
                 },
                 {
                     "size": 229859
@@ -110,10 +110,10 @@
                     "size": 56741
                 },
                 {
-                    "size": 13329
+                    "size": 13354
                 },
                 {
-                    "size": 13320
+                    "size": 13329
                 },
                 {
                     "size": 2586
@@ -193,7 +193,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 13850392,
+            "totalSize": 13850504,
             "nodes": [
                 {
                     "name": "C",
@@ -266,13 +266,13 @@
             ],
             "edges": [
                 {
-                    "size": 9662049
+                    "size": 9662192
                 },
                 {
-                    "size": 1940623
+                    "size": 1940590
                 },
                 {
-                    "size": 1666433
+                    "size": 1666435
                 },
                 {
                     "size": 170102
