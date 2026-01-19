@@ -842,10 +842,6 @@
     "flux-framework/flux-operator": [
         {
             "total": 0,
-            "week": "2025-01-20"
-        },
-        {
-            "total": 0,
             "week": "2025-01-27"
         },
         {
@@ -1047,6 +1043,10 @@
         {
             "total": 0,
             "week": "2026-01-12"
+        },
+        {
+            "total": 0,
+            "week": "2026-01-19"
         }
     ],
     "flux-framework/flux-pmix": [
@@ -1681,10 +1681,6 @@
     ],
     "flux-framework/flux-sched": [
         {
-            "total": 4,
-            "week": "2025-01-20"
-        },
-        {
             "total": 3,
             "week": "2025-01-27"
         },
@@ -1887,6 +1883,10 @@
         {
             "total": 0,
             "week": "2026-01-12"
+        },
+        {
+            "total": 0,
+            "week": "2026-01-19"
         }
     ],
     "flux-framework/flux-security": [
