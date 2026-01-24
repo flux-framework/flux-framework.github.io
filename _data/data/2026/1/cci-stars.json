@@ -807,6 +807,10 @@
         {
             "date": "2025-11-17",
             "value": 1
+        },
+        {
+            "date": "2025-12-29",
+            "value": 1
         }
     ],
     "flux-framework/flux-pmix": [
