@@ -20,7 +20,7 @@
             "url": "http://choosealicense.com/licenses/lgpl-3.0/"
         },
         "stargazers": {
-            "totalCount": 195
+            "totalCount": 196
         },
         "mentionableUsers": {
             "totalCount": 32
@@ -42,16 +42,16 @@
             "totalCount": 22
         },
         "pullRequests_Closed": {
-            "totalCount": 243
+            "totalCount": 244
         },
         "pullRequests_Merged": {
-            "totalCount": 3399
+            "totalCount": 3400
         },
         "issues_Open": {
-            "totalCount": 627
+            "totalCount": 628
         },
         "issues_Closed": {
-            "totalCount": 2964
+            "totalCount": 2965
         }
     },
     "flux-framework/flux-sched": {
@@ -100,7 +100,7 @@
             "totalCount": 72
         },
         "pullRequests_Merged": {
-            "totalCount": 642
+            "totalCount": 643
         },
         "issues_Open": {
             "totalCount": 120
@@ -155,13 +155,13 @@
             "totalCount": 36
         },
         "pullRequests_Merged": {
-            "totalCount": 468
+            "totalCount": 470
         },
         "issues_Open": {
-            "totalCount": 25
+            "totalCount": 24
         },
         "issues_Closed": {
-            "totalCount": 269
+            "totalCount": 270
         }
     },
     "flux-framework/flux-pmix": {
@@ -295,7 +295,7 @@
             "url": "http://choosealicense.com/licenses/mit/"
         },
         "stargazers": {
-            "totalCount": 39
+            "totalCount": 40
         },
         "mentionableUsers": {
             "totalCount": 10
@@ -540,7 +540,7 @@
             "totalCount": 9
         },
         "pullRequests_Merged": {
-            "totalCount": 281
+            "totalCount": 282
         },
         "issues_Open": {
             "totalCount": 58
