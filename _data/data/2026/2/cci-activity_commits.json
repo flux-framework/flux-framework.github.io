@@ -1,10 +1,6 @@
 {
     "flux-framework/dyad": [
         {
-            "total": 0,
-            "week": "2025-02-24"
-        },
-        {
             "total": 3,
             "week": "2025-03-03"
         },
@@ -207,13 +203,13 @@
         {
             "total": 0,
             "week": "2026-02-16"
+        },
+        {
+            "total": 0,
+            "week": "2026-02-23"
         }
     ],
     "flux-framework/flux-accounting": [
-        {
-            "total": 3,
-            "week": "2025-02-24"
-        },
         {
             "total": 1,
             "week": "2025-03-03"
@@ -417,6 +413,10 @@
         {
             "total": 8,
             "week": "2026-02-16"
+        },
+        {
+            "total": 0,
+            "week": "2026-02-23"
         }
     ],
     "flux-framework/flux-coral2": [
@@ -631,10 +631,6 @@
     ],
     "flux-framework/flux-core": [
         {
-            "total": 71,
-            "week": "2025-02-24"
-        },
-        {
             "total": 34,
             "week": "2025-03-03"
         },
@@ -837,13 +833,13 @@
         {
             "total": 54,
             "week": "2026-02-16"
+        },
+        {
+            "total": 0,
+            "week": "2026-02-23"
         }
     ],
     "flux-framework/flux-operator": [
-        {
-            "total": 0,
-            "week": "2025-02-24"
-        },
         {
             "total": 2,
             "week": "2025-03-03"
@@ -1047,13 +1043,13 @@
         {
             "total": 0,
             "week": "2026-02-16"
+        },
+        {
+            "total": 0,
+            "week": "2026-02-23"
         }
     ],
     "flux-framework/flux-pmix": [
-        {
-            "total": 0,
-            "week": "2025-02-24"
-        },
         {
             "total": 0,
             "week": "2025-03-03"
@@ -1257,6 +1253,10 @@
         {
             "total": 0,
             "week": "2026-02-16"
+        },
+        {
+            "total": 0,
+            "week": "2026-02-23"
         }
     ],
     "flux-framework/flux-python": [
@@ -1472,10 +1472,6 @@
     "flux-framework/flux-restful-api": [
         {
             "total": 0,
-            "week": "2025-02-24"
-        },
-        {
-            "total": 0,
             "week": "2025-03-03"
         },
         {
@@ -1677,13 +1673,13 @@
         {
             "total": 0,
             "week": "2026-02-16"
+        },
+        {
+            "total": 0,
+            "week": "2026-02-23"
         }
     ],
     "flux-framework/flux-sched": [
-        {
-            "total": 22,
-            "week": "2025-02-24"
-        },
         {
             "total": 2,
             "week": "2025-03-03"
@@ -1887,13 +1883,13 @@
         {
             "total": 0,
             "week": "2026-02-16"
+        },
+        {
+            "total": 0,
+            "week": "2026-02-23"
         }
     ],
     "flux-framework/flux-security": [
-        {
-            "total": 6,
-            "week": "2025-02-24"
-        },
         {
             "total": 0,
             "week": "2025-03-03"
@@ -2097,6 +2093,10 @@
         {
             "total": 0,
             "week": "2026-02-16"
+        },
+        {
+            "total": 0,
+            "week": "2026-02-23"
         }
     ]
 }
