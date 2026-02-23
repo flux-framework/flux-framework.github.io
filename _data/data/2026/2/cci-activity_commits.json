@@ -421,10 +421,6 @@
     ],
     "flux-framework/flux-coral2": [
         {
-            "total": 17,
-            "week": "2025-02-24"
-        },
-        {
             "total": 32,
             "week": "2025-03-03"
         },
@@ -627,6 +623,10 @@
         {
             "total": 0,
             "week": "2026-02-16"
+        },
+        {
+            "total": 0,
+            "week": "2026-02-23"
         }
     ],
     "flux-framework/flux-core": [
@@ -1262,10 +1262,6 @@
     "flux-framework/flux-python": [
         {
             "total": 0,
-            "week": "2025-02-24"
-        },
-        {
-            "total": 0,
             "week": "2025-03-03"
         },
         {
@@ -1467,6 +1463,10 @@
         {
             "total": 0,
             "week": "2026-02-16"
+        },
+        {
+            "total": 0,
+            "week": "2026-02-23"
         }
     ],
     "flux-framework/flux-restful-api": [
