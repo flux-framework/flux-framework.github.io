@@ -23,7 +23,7 @@
             "totalCount": 196
         },
         "mentionableUsers": {
-            "totalCount": 32
+            "totalCount": 33
         },
         "forks": {
             "totalCount": 54
@@ -45,7 +45,7 @@
             "totalCount": 246
         },
         "pullRequests_Merged": {
-            "totalCount": 3421
+            "totalCount": 3422
         },
         "issues_Open": {
             "totalCount": 631
@@ -149,13 +149,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 7
+            "totalCount": 6
         },
         "pullRequests_Closed": {
             "totalCount": 36
         },
         "pullRequests_Merged": {
-            "totalCount": 477
+            "totalCount": 479
         },
         "issues_Open": {
             "totalCount": 23
@@ -405,13 +405,13 @@
             "url": "http://choosealicense.com/licenses/lgpl-3.0/"
         },
         "stargazers": {
-            "totalCount": 3
+            "totalCount": 4
         },
         "mentionableUsers": {
             "totalCount": 15
         },
         "forks": {
-            "totalCount": 3
+            "totalCount": 4
         },
         "primaryLanguage": {
             "name": "Python"
