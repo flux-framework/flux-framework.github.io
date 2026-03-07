@@ -61,7 +61,7 @@
     "flux-framework/flux-accounting": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 1213591,
+            "totalSize": 1213650,
             "nodes": [
                 {
                     "name": "Shell",
@@ -101,7 +101,7 @@
                     "size": 466828
                 },
                 {
-                    "size": 425568
+                    "size": 425627
                 },
                 {
                     "size": 233142
@@ -127,7 +127,7 @@
     "flux-framework/flux-coral2": {
         "languages": {
             "totalCount": 7,
-            "totalSize": 802943,
+            "totalSize": 802989,
             "nodes": [
                 {
                     "name": "C",
@@ -160,7 +160,7 @@
             ],
             "edges": [
                 {
-                    "size": 362909
+                    "size": 362873
                 },
                 {
                     "size": 208942
@@ -169,10 +169,10 @@
                     "size": 177264
                 },
                 {
-                    "size": 39045
+                    "size": 39009
                 },
                 {
-                    "size": 11182
+                    "size": 11300
                 },
                 {
                     "size": 1832
@@ -186,7 +186,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 16,
-            "totalSize": 14004967,
+            "totalSize": 13999800,
             "nodes": [
                 {
                     "name": "C",
@@ -258,7 +258,7 @@
                     "size": 9765314
                 },
                 {
-                    "size": 1981608
+                    "size": 1976777
                 },
                 {
                     "size": 1700121
@@ -282,7 +282,7 @@
                     "size": 20395
                 },
                 {
-                    "size": 11597
+                    "size": 11261
                 },
                 {
                     "size": 10804
