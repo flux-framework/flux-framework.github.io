@@ -39,16 +39,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 20
+            "totalCount": 21
         },
         "pullRequests_Closed": {
             "totalCount": 246
         },
         "pullRequests_Merged": {
-            "totalCount": 3443
+            "totalCount": 3445
         },
         "issues_Open": {
-            "totalCount": 643
+            "totalCount": 644
         },
         "issues_Closed": {
             "totalCount": 2987
@@ -136,7 +136,7 @@
             "totalCount": 16
         },
         "forks": {
-            "totalCount": 10
+            "totalCount": 11
         },
         "primaryLanguage": {
             "name": "Shell"
@@ -149,7 +149,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 6
+            "totalCount": 7
         },
         "pullRequests_Closed": {
             "totalCount": 36
@@ -243,7 +243,7 @@
             "totalCount": 3
         },
         "mentionableUsers": {
-            "totalCount": 17
+            "totalCount": 18
         },
         "forks": {
             "totalCount": 8
@@ -259,13 +259,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 1
+            "totalCount": 0
         },
         "pullRequests_Closed": {
             "totalCount": 2
         },
         "pullRequests_Merged": {
-            "totalCount": 132
+            "totalCount": 134
         },
         "issues_Open": {
             "totalCount": 30
@@ -540,7 +540,7 @@
             "totalCount": 9
         },
         "pullRequests_Merged": {
-            "totalCount": 285
+            "totalCount": 286
         },
         "issues_Open": {
             "totalCount": 60
