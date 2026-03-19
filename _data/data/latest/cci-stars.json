@@ -49,6 +49,10 @@
         {
             "date": "2026-01-12",
             "value": 1
+        },
+        {
+            "date": "2026-03-16",
+            "value": 1
         }
     ],
     "flux-framework/flux-coral2": [
