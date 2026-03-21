@@ -1567,8 +1567,8 @@
         ],
         [
             "2026-03-16",
-            0,
-            0
+            1,
+            -95
         ]
     ],
     "flux-framework/flux-restful-api": [
