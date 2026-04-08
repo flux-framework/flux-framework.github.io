@@ -8,6 +8,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "flux-accounting v0.57.0",
+                    "publishedAt": "2026-04-07T22:14:42Z",
+                    "tagName": "v0.57.0"
+                },
+                {
                     "name": "flux-accounting v0.56.0",
                     "publishedAt": "2026-03-02T17:06:28Z",
                     "tagName": "v0.56.0"
@@ -539,6 +544,11 @@
     "flux-framework/flux-core": {
         "releases": {
             "nodes": [
+                {
+                    "name": "flux-core v0.84.0",
+                    "publishedAt": "2026-04-08T03:24:24Z",
+                    "tagName": "v0.84.0"
+                },
                 {
                     "name": "flux-core v0.83.1",
                     "publishedAt": "2026-03-07T22:06:06Z",

@@ -61,7 +61,7 @@
     "flux-framework/flux-accounting": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 1221783,
+            "totalSize": 1239645,
             "nodes": [
                 {
                     "name": "Shell",
@@ -98,13 +98,13 @@
             ],
             "edges": [
                 {
-                    "size": 474340
+                    "size": 487196
                 },
                 {
-                    "size": 427900
+                    "size": 428016
                 },
                 {
-                    "size": 233142
+                    "size": 237986
                 },
                 {
                     "size": 56741
@@ -113,7 +113,7 @@
                     "size": 13329
                 },
                 {
-                    "size": 11477
+                    "size": 11523
                 },
                 {
                     "size": 3067
@@ -127,7 +127,7 @@
     "flux-framework/flux-coral2": {
         "languages": {
             "totalCount": 7,
-            "totalSize": 813385,
+            "totalSize": 815139,
             "nodes": [
                 {
                     "name": "C",
@@ -160,13 +160,13 @@
             ],
             "edges": [
                 {
-                    "size": 363266
+                    "size": 364197
                 },
                 {
-                    "size": 211771
+                    "size": 212354
                 },
                 {
-                    "size": 184438
+                    "size": 184678
                 },
                 {
                     "size": 39009
@@ -186,19 +186,19 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 16,
-            "totalSize": 14363698,
+            "totalSize": 14450258,
             "nodes": [
                 {
                     "name": "C",
                     "color": "#555555"
                 },
                 {
-                    "name": "Shell",
-                    "color": "#89e051"
-                },
-                {
                     "name": "Python",
                     "color": "#3572A5"
+                },
+                {
+                    "name": "Shell",
+                    "color": "#89e051"
                 },
                 {
                     "name": "M4",
@@ -258,16 +258,16 @@
                     "size": 9771600
                 },
                 {
-                    "size": 2054752
+                    "size": 2063187
                 },
                 {
-                    "size": 1982853
+                    "size": 2060848
                 },
                 {
                     "size": 170458
                 },
                 {
-                    "size": 169146
+                    "size": 169276
                 },
                 {
                     "size": 98971
