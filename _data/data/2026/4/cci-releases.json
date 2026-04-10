@@ -8,6 +8,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "flux-accounting v0.57.1",
+                    "publishedAt": "2026-04-09T17:49:00Z",
+                    "tagName": "v0.57.1"
+                },
+                {
                     "name": "flux-accounting v0.57.0",
                     "publishedAt": "2026-04-07T22:14:42Z",
                     "tagName": "v0.57.0"
@@ -323,6 +328,11 @@
     "flux-framework/flux-coral2": {
         "releases": {
             "nodes": [
+                {
+                    "name": "flux-coral2 v0.33.1",
+                    "publishedAt": "2026-04-09T19:46:45Z",
+                    "tagName": "v0.33.1"
+                },
                 {
                     "name": "flux-coral2 v0.33.0",
                     "publishedAt": "2026-04-02T16:30:16Z",
