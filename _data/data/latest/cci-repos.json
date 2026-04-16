@@ -39,19 +39,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 20
+            "totalCount": 19
         },
         "pullRequests_Closed": {
             "totalCount": 250
         },
         "pullRequests_Merged": {
-            "totalCount": 3486
+            "totalCount": 3488
         },
         "issues_Open": {
             "totalCount": 658
         },
         "issues_Closed": {
-            "totalCount": 3009
+            "totalCount": 3010
         }
     },
     "flux-framework/flux-sched": {
@@ -149,19 +149,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 8
+            "totalCount": 7
         },
         "pullRequests_Closed": {
             "totalCount": 36
         },
         "pullRequests_Merged": {
-            "totalCount": 499
+            "totalCount": 501
         },
         "issues_Open": {
             "totalCount": 29
         },
         "issues_Closed": {
-            "totalCount": 275
+            "totalCount": 276
         }
     },
     "flux-framework/flux-pmix": {
@@ -188,7 +188,7 @@
             "totalCount": 2
         },
         "mentionableUsers": {
-            "totalCount": 10
+            "totalCount": 8
         },
         "forks": {
             "totalCount": 7
@@ -204,13 +204,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 1
+            "totalCount": 0
         },
         "pullRequests_Closed": {
             "totalCount": 4
         },
         "pullRequests_Merged": {
-            "totalCount": 76
+            "totalCount": 78
         },
         "issues_Open": {
             "totalCount": 5
@@ -298,7 +298,7 @@
             "totalCount": 41
         },
         "mentionableUsers": {
-            "totalCount": 10
+            "totalCount": 7
         },
         "forks": {
             "totalCount": 8
@@ -534,7 +534,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 3
+            "totalCount": 4
         },
         "pullRequests_Closed": {
             "totalCount": 9
