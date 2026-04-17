@@ -39,16 +39,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 19
+            "totalCount": 20
         },
         "pullRequests_Closed": {
             "totalCount": 250
         },
         "pullRequests_Merged": {
-            "totalCount": 3488
+            "totalCount": 3489
         },
         "issues_Open": {
-            "totalCount": 658
+            "totalCount": 659
         },
         "issues_Closed": {
             "totalCount": 3010
@@ -75,7 +75,7 @@
             "url": "http://choosealicense.com/licenses/lgpl-3.0/"
         },
         "stargazers": {
-            "totalCount": 112
+            "totalCount": 113
         },
         "mentionableUsers": {
             "totalCount": 29
@@ -149,19 +149,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 7
+            "totalCount": 6
         },
         "pullRequests_Closed": {
             "totalCount": 36
         },
         "pullRequests_Merged": {
-            "totalCount": 501
+            "totalCount": 504
         },
         "issues_Open": {
-            "totalCount": 29
+            "totalCount": 27
         },
         "issues_Closed": {
-            "totalCount": 276
+            "totalCount": 278
         }
     },
     "flux-framework/flux-pmix": {
@@ -243,7 +243,7 @@
             "totalCount": 3
         },
         "mentionableUsers": {
-            "totalCount": 19
+            "totalCount": 12
         },
         "forks": {
             "totalCount": 8
@@ -265,10 +265,10 @@
             "totalCount": 2
         },
         "pullRequests_Merged": {
-            "totalCount": 139
+            "totalCount": 141
         },
         "issues_Open": {
-            "totalCount": 30
+            "totalCount": 31
         },
         "issues_Closed": {
             "totalCount": 45
@@ -518,7 +518,7 @@
             "totalCount": 10
         },
         "mentionableUsers": {
-            "totalCount": 21
+            "totalCount": 22
         },
         "forks": {
             "totalCount": 9
@@ -534,13 +534,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 4
+            "totalCount": 3
         },
         "pullRequests_Closed": {
             "totalCount": 9
         },
         "pullRequests_Merged": {
-            "totalCount": 300
+            "totalCount": 301
         },
         "issues_Open": {
             "totalCount": 62

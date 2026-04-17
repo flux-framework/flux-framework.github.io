@@ -61,7 +61,7 @@
     "flux-framework/flux-accounting": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 1242975,
+            "totalSize": 1248999,
             "nodes": [
                 {
                     "name": "Shell",
@@ -98,10 +98,10 @@
             ],
             "edges": [
                 {
-                    "size": 489793
+                    "size": 491905
                 },
                 {
-                    "size": 428119
+                    "size": 431983
                 },
                 {
                     "size": 238200
@@ -113,7 +113,7 @@
                     "size": 13329
                 },
                 {
-                    "size": 11543
+                    "size": 11591
                 },
                 {
                     "size": 3463
@@ -186,7 +186,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 16,
-            "totalSize": 14467347,
+            "totalSize": 14468127,
             "nodes": [
                 {
                     "name": "C",
@@ -258,16 +258,16 @@
                     "size": 9773040
                 },
                 {
-                    "size": 2074937
+                    "size": 2075325
                 },
                 {
-                    "size": 2064713
+                    "size": 2065040
                 },
                 {
                     "size": 170458
                 },
                 {
-                    "size": 169276
+                    "size": 169341
                 },
                 {
                     "size": 98971
@@ -596,7 +596,7 @@
     "flux-framework/flux-security": {
         "languages": {
             "totalCount": 6,
-            "totalSize": 760745,
+            "totalSize": 855101,
             "nodes": [
                 {
                     "name": "C",
@@ -607,6 +607,10 @@
                     "color": "#89e051"
                 },
                 {
+                    "name": "Python",
+                    "color": "#3572A5"
+                },
+                {
                     "name": "M4",
                     "color": null
                 },
@@ -615,29 +619,25 @@
                     "color": "#427819"
                 },
                 {
-                    "name": "Python",
-                    "color": "#3572A5"
-                },
-                {
                     "name": "Dockerfile",
                     "color": "#384d54"
                 }
             ],
             "edges": [
                 {
-                    "size": 582766
+                    "size": 640061
                 },
                 {
-                    "size": 124806
+                    "size": 131494
                 },
                 {
-                    "size": 29502
+                    "size": 32263
                 },
                 {
-                    "size": 17774
+                    "size": 30056
                 },
                 {
-                    "size": 3885
+                    "size": 19215
                 },
                 {
                     "size": 2012
