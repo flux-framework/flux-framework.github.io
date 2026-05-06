@@ -560,6 +560,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "flux-core v0.85.0",
+                    "publishedAt": "2026-05-06T03:52:20Z",
+                    "tagName": "v0.85.0"
+                },
+                {
                     "name": "flux-core v0.84.0",
                     "publishedAt": "2026-04-08T03:24:24Z",
                     "tagName": "v0.84.0"
@@ -1379,6 +1384,11 @@
     "flux-framework/flux-security": {
         "releases": {
             "nodes": [
+                {
+                    "name": "flux-security v0.15.0",
+                    "publishedAt": "2026-05-05T18:13:20Z",
+                    "tagName": "v0.15.0"
+                },
                 {
                     "name": "flux-security v0.14.0",
                     "publishedAt": "2025-02-27T21:57:51Z",
