@@ -2,7 +2,7 @@
     "flux-framework/dyad": {
         "languages": {
             "totalCount": 7,
-            "totalSize": 1005582,
+            "totalSize": 1006968,
             "nodes": [
                 {
                     "name": "C",
@@ -47,7 +47,7 @@
                     "size": 128095
                 },
                 {
-                    "size": 83662
+                    "size": 85048
                 },
                 {
                     "size": 72415
