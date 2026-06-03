@@ -2,7 +2,7 @@
     "flux-framework/dyad": {
         "languages": {
             "totalCount": 7,
-            "totalSize": 980376,
+            "totalSize": 1036282,
             "nodes": [
                 {
                     "name": "C",
@@ -35,10 +35,10 @@
             ],
             "edges": [
                 {
-                    "size": 290664
+                    "size": 292726
                 },
                 {
-                    "size": 239046
+                    "size": 270924
                 },
                 {
                     "size": 175403
@@ -47,7 +47,7 @@
                     "size": 111537
                 },
                 {
-                    "size": 84420
+                    "size": 106386
                 },
                 {
                     "size": 72791
@@ -537,7 +537,7 @@
     "flux-framework/flux-sched": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 2361610,
+            "totalSize": 2366757,
             "nodes": [
                 {
                     "name": "C++",
@@ -574,7 +574,7 @@
             ],
             "edges": [
                 {
-                    "size": 1488607
+                    "size": 1488861
                 },
                 {
                     "size": 610792
@@ -583,7 +583,7 @@
                     "size": 94261
                 },
                 {
-                    "size": 66419
+                    "size": 71312
                 },
                 {
                     "size": 65325
