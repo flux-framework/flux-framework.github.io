@@ -26,7 +26,7 @@
             "totalCount": 33
         },
         "forks": {
-            "totalCount": 57
+            "totalCount": 58
         },
         "primaryLanguage": {
             "name": "C"
@@ -39,19 +39,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 19
+            "totalCount": 16
         },
         "pullRequests_Closed": {
             "totalCount": 256
         },
         "pullRequests_Merged": {
-            "totalCount": 3558
+            "totalCount": 3562
         },
         "issues_Open": {
-            "totalCount": 656
+            "totalCount": 657
         },
         "issues_Closed": {
-            "totalCount": 3044
+            "totalCount": 3045
         }
     },
     "flux-framework/flux-sched": {
@@ -94,7 +94,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 23
+            "totalCount": 25
         },
         "pullRequests_Closed": {
             "totalCount": 75
@@ -103,7 +103,7 @@
             "totalCount": 670
         },
         "issues_Open": {
-            "totalCount": 127
+            "totalCount": 129
         },
         "issues_Closed": {
             "totalCount": 573
@@ -149,7 +149,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 9
+            "totalCount": 11
         },
         "pullRequests_Closed": {
             "totalCount": 36
@@ -479,19 +479,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 3
+            "totalCount": 2
         },
         "pullRequests_Closed": {
             "totalCount": 29
         },
         "pullRequests_Merged": {
-            "totalCount": 93
+            "totalCount": 96
         },
         "issues_Open": {
-            "totalCount": 17
+            "totalCount": 16
         },
         "issues_Closed": {
-            "totalCount": 28
+            "totalCount": 29
         }
     },
     "flux-framework/flux-coral2": {
@@ -534,19 +534,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 6
+            "totalCount": 4
         },
         "pullRequests_Closed": {
-            "totalCount": 9
+            "totalCount": 10
         },
         "pullRequests_Merged": {
-            "totalCount": 306
+            "totalCount": 307
         },
         "issues_Open": {
-            "totalCount": 64
+            "totalCount": 63
         },
         "issues_Closed": {
-            "totalCount": 101
+            "totalCount": 102
         }
     }
 }
