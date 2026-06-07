@@ -485,13 +485,13 @@
             "totalCount": 29
         },
         "pullRequests_Merged": {
-            "totalCount": 103
+            "totalCount": 104
         },
         "issues_Open": {
-            "totalCount": 14
+            "totalCount": 13
         },
         "issues_Closed": {
-            "totalCount": 31
+            "totalCount": 32
         }
     },
     "flux-framework/flux-coral2": {
