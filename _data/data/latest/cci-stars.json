@@ -31,6 +31,10 @@
         {
             "date": "2024-12-02",
             "value": 1
+        },
+        {
+            "date": "2026-02-23",
+            "value": 1
         }
     ],
     "flux-framework/flux-accounting": [
