@@ -713,6 +713,10 @@
         {
             "date": "2026-03-23",
             "value": 1
+        },
+        {
+            "date": "2026-04-27",
+            "value": 2
         }
     ],
     "flux-framework/flux-operator": [
@@ -859,6 +863,10 @@
         {
             "date": "2026-03-16",
             "value": 1
+        },
+        {
+            "date": "2026-05-18",
+            "value": 1
         }
     ],
     "flux-framework/flux-pmix": [
@@ -912,6 +920,10 @@
         },
         {
             "date": "2025-02-17",
+            "value": 1
+        },
+        {
+            "date": "2025-03-31",
             "value": 1
         }
     ],

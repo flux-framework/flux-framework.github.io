@@ -20,7 +20,7 @@
             "url": "http://choosealicense.com/licenses/lgpl-3.0/"
         },
         "stargazers": {
-            "totalCount": 200
+            "totalCount": 201
         },
         "mentionableUsers": {
             "totalCount": 33
@@ -48,7 +48,7 @@
             "totalCount": 3572
         },
         "issues_Open": {
-            "totalCount": 657
+            "totalCount": 658
         },
         "issues_Closed": {
             "totalCount": 3051
@@ -81,7 +81,7 @@
             "totalCount": 30
         },
         "forks": {
-            "totalCount": 49
+            "totalCount": 50
         },
         "primaryLanguage": {
             "name": "C++"
@@ -100,13 +100,13 @@
             "totalCount": 75
         },
         "pullRequests_Merged": {
-            "totalCount": 672
+            "totalCount": 673
         },
         "issues_Open": {
-            "totalCount": 131
+            "totalCount": 130
         },
         "issues_Closed": {
-            "totalCount": 573
+            "totalCount": 574
         }
     },
     "flux-framework/flux-accounting": {
@@ -155,13 +155,13 @@
             "totalCount": 36
         },
         "pullRequests_Merged": {
-            "totalCount": 519
+            "totalCount": 520
         },
         "issues_Open": {
-            "totalCount": 32
+            "totalCount": 31
         },
         "issues_Closed": {
-            "totalCount": 282
+            "totalCount": 283
         }
     },
     "flux-framework/flux-pmix": {
@@ -295,7 +295,7 @@
             "url": "http://choosealicense.com/licenses/mit/"
         },
         "stargazers": {
-            "totalCount": 41
+            "totalCount": 42
         },
         "mentionableUsers": {
             "totalCount": 7
@@ -350,7 +350,7 @@
             "url": "http://choosealicense.com/licenses/mit/"
         },
         "stargazers": {
-            "totalCount": 9
+            "totalCount": 10
         },
         "mentionableUsers": {
             "totalCount": 18
@@ -521,7 +521,7 @@
             "totalCount": 22
         },
         "forks": {
-            "totalCount": 9
+            "totalCount": 10
         },
         "primaryLanguage": {
             "name": "C"
