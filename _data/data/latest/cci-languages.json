@@ -537,7 +537,7 @@
     "flux-framework/flux-sched": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 2367659,
+            "totalSize": 2367807,
             "nodes": [
                 {
                     "name": "C++",
@@ -574,7 +574,7 @@
             ],
             "edges": [
                 {
-                    "size": 1488861
+                    "size": 1488963
                 },
                 {
                     "size": 610950
@@ -586,7 +586,7 @@
                     "size": 71312
                 },
                 {
-                    "size": 66069
+                    "size": 66115
                 },
                 {
                     "size": 24316
