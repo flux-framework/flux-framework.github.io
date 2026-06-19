@@ -45,10 +45,10 @@
             "totalCount": 257
         },
         "pullRequests_Merged": {
-            "totalCount": 3572
+            "totalCount": 3573
         },
         "issues_Open": {
-            "totalCount": 659
+            "totalCount": 661
         },
         "issues_Closed": {
             "totalCount": 3051
@@ -62,7 +62,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/7545483?v=4"
         },
         "url": "https://github.com/flux-framework/flux-sched",
-        "homepageUrl": "",
+        "homepageUrl": "https://flux-framework.readthedocs.io/projects/flux-sched/en/latest/",
         "description": "Fluxion Graph-based Scheduler",
         "createdAt": "2014-10-23T23:09:17Z",
         "defaultBranchRef": {
@@ -149,19 +149,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 8
+            "totalCount": 7
         },
         "pullRequests_Closed": {
             "totalCount": 36
         },
         "pullRequests_Merged": {
-            "totalCount": 520
+            "totalCount": 521
         },
         "issues_Open": {
             "totalCount": 31
         },
         "issues_Closed": {
-            "totalCount": 283
+            "totalCount": 284
         }
     },
     "flux-framework/flux-pmix": {

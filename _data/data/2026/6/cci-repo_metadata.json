@@ -13,7 +13,7 @@
     "flux-framework/flux-sched": {
         "name": "flux-framework/flux-sched",
         "description": "Fluxion Graph-based Scheduler",
-        "website": "",
+        "website": "https://flux-framework.readthedocs.io/projects/flux-sched/en/latest/",
         "topics": [
             "hpc",
             "job-scheduler",
