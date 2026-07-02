@@ -26,7 +26,7 @@
             "totalCount": 33
         },
         "forks": {
-            "totalCount": 58
+            "totalCount": 59
         },
         "primaryLanguage": {
             "name": "C"
@@ -39,13 +39,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 19
+            "totalCount": 20
         },
         "pullRequests_Closed": {
             "totalCount": 257
         },
         "pullRequests_Merged": {
-            "totalCount": 3587
+            "totalCount": 3589
         },
         "issues_Open": {
             "totalCount": 658
@@ -75,7 +75,7 @@
             "url": "http://choosealicense.com/licenses/lgpl-3.0/"
         },
         "stargazers": {
-            "totalCount": 117
+            "totalCount": 118
         },
         "mentionableUsers": {
             "totalCount": 32
@@ -155,10 +155,10 @@
             "totalCount": 36
         },
         "pullRequests_Merged": {
-            "totalCount": 523
+            "totalCount": 524
         },
         "issues_Open": {
-            "totalCount": 30
+            "totalCount": 32
         },
         "issues_Closed": {
             "totalCount": 286
@@ -259,13 +259,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 1
+            "totalCount": 0
         },
         "pullRequests_Closed": {
-            "totalCount": 2
+            "totalCount": 3
         },
         "pullRequests_Merged": {
-            "totalCount": 146
+            "totalCount": 147
         },
         "issues_Open": {
             "totalCount": 31
@@ -534,19 +534,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 4
+            "totalCount": 3
         },
         "pullRequests_Closed": {
             "totalCount": 10
         },
         "pullRequests_Merged": {
-            "totalCount": 309
+            "totalCount": 310
         },
         "issues_Open": {
-            "totalCount": 64
+            "totalCount": 63
         },
         "issues_Closed": {
-            "totalCount": 102
+            "totalCount": 103
         }
     }
 }
