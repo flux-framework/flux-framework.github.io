@@ -1,10 +1,6 @@
 {
     "flux-framework/dyad": [
         {
-            "total": 2,
-            "week": "2025-07-07"
-        },
-        {
             "total": 0,
             "week": "2025-07-14"
         },
@@ -207,13 +203,13 @@
         {
             "total": 0,
             "week": "2026-06-29"
+        },
+        {
+            "total": 0,
+            "week": "2026-07-06"
         }
     ],
     "flux-framework/flux-accounting": [
-        {
-            "total": 11,
-            "week": "2025-07-07"
-        },
         {
             "total": 6,
             "week": "2025-07-14"
@@ -417,13 +413,13 @@
         {
             "total": 3,
             "week": "2026-06-29"
+        },
+        {
+            "total": 0,
+            "week": "2026-07-06"
         }
     ],
     "flux-framework/flux-coral2": [
-        {
-            "total": 1,
-            "week": "2025-07-07"
-        },
         {
             "total": 0,
             "week": "2025-07-14"
@@ -627,6 +623,10 @@
         {
             "total": 2,
             "week": "2026-06-29"
+        },
+        {
+            "total": 0,
+            "week": "2026-07-06"
         }
     ],
     "flux-framework/flux-core": [
@@ -819,11 +819,11 @@
             "week": "2026-06-01"
         },
         {
-            "total": 72,
+            "total": 74,
             "week": "2026-06-08"
         },
         {
-            "total": 14,
+            "total": 34,
             "week": "2026-06-15"
         },
         {
@@ -831,19 +831,15 @@
             "week": "2026-06-22"
         },
         {
-            "total": 45,
+            "total": 59,
             "week": "2026-06-29"
         },
         {
-            "total": 0,
+            "total": 2,
             "week": "2026-07-06"
         }
     ],
     "flux-framework/flux-operator": [
-        {
-            "total": 1,
-            "week": "2025-07-07"
-        },
         {
             "total": 0,
             "week": "2025-07-14"
@@ -1047,15 +1043,15 @@
         {
             "total": 0,
             "week": "2026-06-29"
+        },
+        {
+            "total": 0,
+            "week": "2026-07-06"
         }
     ],
     "flux-framework/flux-pmix": [
         {
             "total": 0,
-            "week": "2025-07-07"
-        },
-        {
-            "total": 0,
             "week": "2025-07-14"
         },
         {
@@ -1257,15 +1253,15 @@
         {
             "total": 0,
             "week": "2026-06-29"
+        },
+        {
+            "total": 0,
+            "week": "2026-07-06"
         }
     ],
     "flux-framework/flux-python": [
         {
             "total": 0,
-            "week": "2025-07-07"
-        },
-        {
-            "total": 0,
             "week": "2025-07-14"
         },
         {
@@ -1467,15 +1463,15 @@
         {
             "total": 0,
             "week": "2026-06-29"
+        },
+        {
+            "total": 0,
+            "week": "2026-07-06"
         }
     ],
     "flux-framework/flux-restful-api": [
         {
             "total": 0,
-            "week": "2025-07-07"
-        },
-        {
-            "total": 0,
             "week": "2025-07-14"
         },
         {
@@ -1677,13 +1673,13 @@
         {
             "total": 0,
             "week": "2026-06-29"
+        },
+        {
+            "total": 0,
+            "week": "2026-07-06"
         }
     ],
     "flux-framework/flux-sched": [
-        {
-            "total": 3,
-            "week": "2025-07-07"
-        },
         {
             "total": 4,
             "week": "2025-07-14"
@@ -1887,13 +1883,13 @@
         {
             "total": 0,
             "week": "2026-06-29"
+        },
+        {
+            "total": 0,
+            "week": "2026-07-06"
         }
     ],
     "flux-framework/flux-security": [
-        {
-            "total": 0,
-            "week": "2025-07-07"
-        },
         {
             "total": 0,
             "week": "2025-07-14"
@@ -2097,6 +2093,10 @@
         {
             "total": 1,
             "week": "2026-06-29"
+        },
+        {
+            "total": 0,
+            "week": "2026-07-06"
         }
     ]
 }
