@@ -339,6 +339,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "flux-coral2 v0.36.0",
+                    "publishedAt": "2026-07-08T00:43:38Z",
+                    "tagName": "v0.36.0"
+                },
+                {
                     "name": "flux-coral2 v0.35.0",
                     "publishedAt": "2026-06-05T21:40:15Z",
                     "tagName": "v0.35.0"
@@ -574,6 +579,11 @@
     "flux-framework/flux-core": {
         "releases": {
             "nodes": [
+                {
+                    "name": "flux-core v0.87.0",
+                    "publishedAt": "2026-07-07T21:08:37Z",
+                    "tagName": "v0.87.0"
+                },
                 {
                     "name": "flux-core v0.86.0",
                     "publishedAt": "2026-06-03T18:17:53Z",

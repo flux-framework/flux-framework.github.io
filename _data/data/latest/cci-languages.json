@@ -61,7 +61,7 @@
     "flux-framework/flux-accounting": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 1390501,
+            "totalSize": 1423099,
             "nodes": [
                 {
                     "name": "Shell",
@@ -98,13 +98,13 @@
             ],
             "edges": [
                 {
-                    "size": 566067
+                    "size": 583471
                 },
                 {
-                    "size": 492694
+                    "size": 493014
                 },
                 {
-                    "size": 244335
+                    "size": 259161
                 },
                 {
                     "size": 56741
@@ -113,7 +113,7 @@
                     "size": 13329
                 },
                 {
-                    "size": 12085
+                    "size": 12133
                 },
                 {
                     "size": 3463
@@ -186,7 +186,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 15421506,
+            "totalSize": 15431770,
             "nodes": [
                 {
                     "name": "C",
@@ -259,16 +259,16 @@
             ],
             "edges": [
                 {
-                    "size": 10168971
+                    "size": 10178246
                 },
                 {
-                    "size": 2454793
+                    "size": 2454782
                 },
                 {
-                    "size": 2235044
+                    "size": 2235725
                 },
                 {
-                    "size": 173867
+                    "size": 174186
                 },
                 {
                     "size": 170795
@@ -537,7 +537,7 @@
     "flux-framework/flux-sched": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 2480749,
+            "totalSize": 2482085,
             "nodes": [
                 {
                     "name": "C++",
@@ -574,10 +574,10 @@
             ],
             "edges": [
                 {
-                    "size": 1580797
+                    "size": 1580821
                 },
                 {
-                    "size": 610931
+                    "size": 612243
                 },
                 {
                     "size": 94261
