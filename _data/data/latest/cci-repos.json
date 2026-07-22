@@ -48,7 +48,7 @@
             "totalCount": 3608
         },
         "issues_Open": {
-            "totalCount": 652
+            "totalCount": 653
         },
         "issues_Closed": {
             "totalCount": 3076
@@ -149,19 +149,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 7
+            "totalCount": 5
         },
         "pullRequests_Closed": {
             "totalCount": 37
         },
         "pullRequests_Merged": {
-            "totalCount": 536
+            "totalCount": 539
         },
         "issues_Open": {
-            "totalCount": 31
+            "totalCount": 29
         },
         "issues_Closed": {
-            "totalCount": 295
+            "totalCount": 297
         }
     },
     "flux-framework/flux-pmix": {
