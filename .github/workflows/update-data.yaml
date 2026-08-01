@@ -17,7 +17,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with: 
         results_dir: _data/
-        extract: repos repo_metadata topics languages releases stars activity_commits activity_lines
+        extract: repos repo_metadata topics languages releases activity_commits activity_lines
         extract_save_format: year/month
 
     - name: Check that results exist
