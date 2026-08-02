@@ -12,12 +12,15 @@ jobs:
       uses: actions/checkout@v3
     - name: Update Data
 
-      uses: vsoch/contributor-ci@0.0.16
+      # Testing to see if stargazers bug is fixed
+      # I will release / update when verified
+      uses: vsoch/contributor-ci@update-stargazers
+      # uses: vsoch/contributor-ci@0.0.16
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with: 
         results_dir: _data/
-        extract: repos repo_metadata topics languages releases activity_commits activity_lines
+        extract: repos repo_metadata topics stars languages releases activity_commits activity_lines
         extract_save_format: year/month
 
     - name: Check that results exist
