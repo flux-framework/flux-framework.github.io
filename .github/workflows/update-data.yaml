@@ -11,11 +11,7 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v3
     - name: Update Data
-
-      # Testing to see if stargazers bug is fixed
-      # I will release / update when verified
-      uses: vsoch/contributor-ci@update-stargazers
-      # uses: vsoch/contributor-ci@0.0.16
+      uses: vsoch/contributor-ci@0.0.17
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with: 
