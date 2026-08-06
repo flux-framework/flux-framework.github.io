@@ -19,7 +19,7 @@
             "spdxId": "LGPL-3.0",
             "url": "http://choosealicense.com/licenses/lgpl-3.0/"
         },
-        "stargazerCount": 204,
+        "stargazerCount": 205,
         "mentionableUsers": {
             "totalCount": 33
         },
@@ -37,22 +37,22 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 22
+            "totalCount": 23
         },
         "pullRequests_Closed": {
             "totalCount": 259
         },
         "pullRequests_Merged": {
-            "totalCount": 3621
+            "totalCount": 3622
         },
         "issues_Open": {
-            "totalCount": 660
+            "totalCount": 659
         },
         "issues_Closed": {
-            "totalCount": 3079
+            "totalCount": 3080
         },
         "stargazers": {
-            "totalCount": 204
+            "totalCount": 205
         }
     },
     "flux-framework/flux-sched": {
@@ -93,19 +93,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 22
+            "totalCount": 20
         },
         "pullRequests_Closed": {
             "totalCount": 82
         },
         "pullRequests_Merged": {
-            "totalCount": 696
+            "totalCount": 698
         },
         "issues_Open": {
-            "totalCount": 136
+            "totalCount": 134
         },
         "issues_Closed": {
-            "totalCount": 581
+            "totalCount": 583
         },
         "stargazers": {
             "totalCount": 118
@@ -136,7 +136,7 @@
             "totalCount": 19
         },
         "forks": {
-            "totalCount": 12
+            "totalCount": 13
         },
         "primaryLanguage": {
             "name": "Shell"
@@ -149,19 +149,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 8
+            "totalCount": 7
         },
         "pullRequests_Closed": {
             "totalCount": 37
         },
         "pullRequests_Merged": {
-            "totalCount": 546
+            "totalCount": 547
         },
         "issues_Open": {
-            "totalCount": 29
+            "totalCount": 28
         },
         "issues_Closed": {
-            "totalCount": 301
+            "totalCount": 302
         },
         "stargazers": {
             "totalCount": 6
