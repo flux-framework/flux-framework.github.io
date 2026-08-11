@@ -19,12 +19,12 @@
             "spdxId": "LGPL-3.0",
             "url": "http://choosealicense.com/licenses/lgpl-3.0/"
         },
-        "stargazerCount": 206,
+        "stargazerCount": 207,
         "mentionableUsers": {
             "totalCount": 33
         },
         "forks": {
-            "totalCount": 60
+            "totalCount": 61
         },
         "primaryLanguage": {
             "name": "C"
@@ -37,7 +37,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 21
+            "totalCount": 22
         },
         "pullRequests_Closed": {
             "totalCount": 259
@@ -46,13 +46,13 @@
             "totalCount": 3624
         },
         "issues_Open": {
-            "totalCount": 660
+            "totalCount": 661
         },
         "issues_Closed": {
             "totalCount": 3080
         },
         "stargazers": {
-            "totalCount": 206
+            "totalCount": 207
         }
     },
     "flux-framework/flux-sched": {
@@ -99,7 +99,7 @@
             "totalCount": 81
         },
         "pullRequests_Merged": {
-            "totalCount": 698
+            "totalCount": 699
         },
         "issues_Open": {
             "totalCount": 135
@@ -149,7 +149,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 7
+            "totalCount": 8
         },
         "pullRequests_Closed": {
             "totalCount": 37
@@ -299,7 +299,7 @@
             "spdxId": "MIT",
             "url": "http://choosealicense.com/licenses/mit/"
         },
-        "stargazerCount": 42,
+        "stargazerCount": 43,
         "mentionableUsers": {
             "totalCount": 7
         },
@@ -332,7 +332,7 @@
             "totalCount": 41
         },
         "stargazers": {
-            "totalCount": 42
+            "totalCount": 43
         }
     },
     "flux-framework/flux-restful-api": {
