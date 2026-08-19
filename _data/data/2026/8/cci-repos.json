@@ -24,7 +24,7 @@
             "totalCount": 33
         },
         "forks": {
-            "totalCount": 61
+            "totalCount": 62
         },
         "primaryLanguage": {
             "name": "C"
@@ -37,19 +37,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 24
+            "totalCount": 23
         },
         "pullRequests_Closed": {
             "totalCount": 260
         },
         "pullRequests_Merged": {
-            "totalCount": 3628
+            "totalCount": 3629
         },
         "issues_Open": {
-            "totalCount": 660
+            "totalCount": 659
         },
         "issues_Closed": {
-            "totalCount": 3084
+            "totalCount": 3085
         },
         "stargazers": {
             "totalCount": 207
@@ -80,7 +80,7 @@
             "totalCount": 32
         },
         "forks": {
-            "totalCount": 51
+            "totalCount": 52
         },
         "primaryLanguage": {
             "name": "C++"
@@ -149,19 +149,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 12
+            "totalCount": 10
         },
         "pullRequests_Closed": {
             "totalCount": 37
         },
         "pullRequests_Merged": {
-            "totalCount": 549
+            "totalCount": 551
         },
         "issues_Open": {
-            "totalCount": 39
+            "totalCount": 38
         },
         "issues_Closed": {
-            "totalCount": 302
+            "totalCount": 303
         },
         "stargazers": {
             "totalCount": 6
