@@ -37,19 +37,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 24
+            "totalCount": 22
         },
         "pullRequests_Closed": {
             "totalCount": 260
         },
         "pullRequests_Merged": {
-            "totalCount": 3646
+            "totalCount": 3648
         },
         "issues_Open": {
-            "totalCount": 668
+            "totalCount": 665
         },
         "issues_Closed": {
-            "totalCount": 3091
+            "totalCount": 3094
         },
         "stargazers": {
             "totalCount": 207
@@ -149,7 +149,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 14
+            "totalCount": 15
         },
         "pullRequests_Closed": {
             "totalCount": 38
