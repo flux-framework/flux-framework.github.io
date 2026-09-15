@@ -61,7 +61,7 @@
     "flux-framework/flux-accounting": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 1571463,
+            "totalSize": 1611385,
             "nodes": [
                 {
                     "name": "Shell",
@@ -80,12 +80,12 @@
                     "color": null
                 },
                 {
-                    "name": "C",
-                    "color": "#555555"
-                },
-                {
                     "name": "Makefile",
                     "color": "#427819"
+                },
+                {
+                    "name": "C",
+                    "color": "#555555"
                 },
                 {
                     "name": "Dockerfile",
@@ -98,22 +98,22 @@
             ],
             "edges": [
                 {
-                    "size": 628533
+                    "size": 636671
                 },
                 {
-                    "size": 572678
+                    "size": 592226
                 },
                 {
-                    "size": 281557
+                    "size": 293298
                 },
                 {
                     "size": 56741
                 },
                 {
-                    "size": 13329
+                    "size": 13648
                 },
                 {
-                    "size": 13153
+                    "size": 13329
                 },
                 {
                     "size": 3685
