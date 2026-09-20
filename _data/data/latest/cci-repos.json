@@ -19,7 +19,7 @@
             "spdxId": "LGPL-3.0",
             "url": "http://choosealicense.com/licenses/lgpl-3.0/"
         },
-        "stargazerCount": 207,
+        "stargazerCount": 208,
         "mentionableUsers": {
             "totalCount": 30
         },
@@ -52,7 +52,7 @@
             "totalCount": 3094
         },
         "stargazers": {
-            "totalCount": 207
+            "totalCount": 208
         }
     },
     "flux-framework/flux-sched": {
