@@ -127,7 +127,7 @@
     "flux-framework/flux-coral2": {
         "languages": {
             "totalCount": 7,
-            "totalSize": 824425,
+            "totalSize": 827393,
             "nodes": [
                 {
                     "name": "C",
@@ -160,13 +160,13 @@
             ],
             "edges": [
                 {
-                    "size": 366010
+                    "size": 366656
                 },
                 {
-                    "size": 211753
+                    "size": 213336
                 },
                 {
-                    "size": 192392
+                    "size": 193131
                 },
                 {
                     "size": 39168
