@@ -19,7 +19,7 @@
             "spdxId": "LGPL-3.0",
             "url": "http://choosealicense.com/licenses/lgpl-3.0/"
         },
-        "stargazerCount": 211,
+        "stargazerCount": 212,
         "mentionableUsers": {
             "totalCount": 30
         },
@@ -43,7 +43,7 @@
             "totalCount": 261
         },
         "pullRequests_Merged": {
-            "totalCount": 3653
+            "totalCount": 3655
         },
         "issues_Open": {
             "totalCount": 669
@@ -52,7 +52,7 @@
             "totalCount": 3095
         },
         "stargazers": {
-            "totalCount": 211
+            "totalCount": 212
         }
     },
     "flux-framework/flux-sched": {
@@ -93,19 +93,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 26
+            "totalCount": 25
         },
         "pullRequests_Closed": {
             "totalCount": 81
         },
         "pullRequests_Merged": {
-            "totalCount": 707
+            "totalCount": 708
         },
         "issues_Open": {
-            "totalCount": 139
+            "totalCount": 140
         },
         "issues_Closed": {
-            "totalCount": 587
+            "totalCount": 588
         },
         "stargazers": {
             "totalCount": 120
@@ -149,13 +149,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 11
+            "totalCount": 12
         },
         "pullRequests_Closed": {
             "totalCount": 41
         },
         "pullRequests_Merged": {
-            "totalCount": 569
+            "totalCount": 570
         },
         "issues_Open": {
             "totalCount": 38
@@ -267,7 +267,7 @@
             "totalCount": 3
         },
         "pullRequests_Merged": {
-            "totalCount": 150
+            "totalCount": 151
         },
         "issues_Open": {
             "totalCount": 31
@@ -379,7 +379,7 @@
             "totalCount": 5
         },
         "pullRequests_Merged": {
-            "totalCount": 44
+            "totalCount": 45
         },
         "issues_Open": {
             "totalCount": 9
@@ -547,10 +547,10 @@
             "totalCount": 10
         },
         "pullRequests_Merged": {
-            "totalCount": 317
+            "totalCount": 318
         },
         "issues_Open": {
-            "totalCount": 65
+            "totalCount": 67
         },
         "issues_Closed": {
             "totalCount": 107
