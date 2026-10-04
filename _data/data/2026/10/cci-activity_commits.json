@@ -631,10 +631,6 @@
     ],
     "flux-framework/flux-core": [
         {
-            "total": 53,
-            "week": "2025-10-06"
-        },
-        {
             "total": 60,
             "week": "2025-10-13"
         },
@@ -837,6 +833,10 @@
         {
             "total": 31,
             "week": "2026-09-28"
+        },
+        {
+            "total": 0,
+            "week": "2026-10-05"
         }
     ],
     "flux-framework/flux-operator": [
@@ -1472,10 +1472,6 @@
     "flux-framework/flux-restful-api": [
         {
             "total": 0,
-            "week": "2025-10-06"
-        },
-        {
-            "total": 0,
             "week": "2025-10-13"
         },
         {
@@ -1675,8 +1671,12 @@
             "week": "2026-09-21"
         },
         {
-            "total": 8,
+            "total": 16,
             "week": "2026-09-28"
+        },
+        {
+            "total": 0,
+            "week": "2026-10-05"
         }
     ],
     "flux-framework/flux-sched": [
