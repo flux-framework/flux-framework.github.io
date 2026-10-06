@@ -127,7 +127,7 @@
     "flux-framework/flux-coral2": {
         "languages": {
             "totalCount": 7,
-            "totalSize": 826037,
+            "totalSize": 827225,
             "nodes": [
                 {
                     "name": "C",
@@ -163,10 +163,10 @@
                     "size": 366656
                 },
                 {
-                    "size": 212621
+                    "size": 213402
                 },
                 {
-                    "size": 192490
+                    "size": 192897
                 },
                 {
                     "size": 39168
@@ -186,7 +186,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 16218218,
+            "totalSize": 16220214,
             "nodes": [
                 {
                     "name": "C",
@@ -259,16 +259,16 @@
             ],
             "edges": [
                 {
-                    "size": 10714939
+                    "size": 10714818
                 },
                 {
                     "size": 2559927
                 },
                 {
-                    "size": 2362774
+                    "size": 2363687
                 },
                 {
-                    "size": 178695
+                    "size": 178830
                 },
                 {
                     "size": 171265
@@ -286,7 +286,7 @@
                     "size": 20395
                 },
                 {
-                    "size": 18082
+                    "size": 19151
                 },
                 {
                     "size": 10804
@@ -537,7 +537,7 @@
     "flux-framework/flux-sched": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 2702170,
+            "totalSize": 2751515,
             "nodes": [
                 {
                     "name": "C++",
@@ -574,7 +574,7 @@
             ],
             "edges": [
                 {
-                    "size": 1690390
+                    "size": 1738642
                 },
                 {
                     "size": 709647
@@ -583,7 +583,7 @@
                     "size": 98071
                 },
                 {
-                    "size": 94681
+                    "size": 95774
                 },
                 {
                     "size": 70740
