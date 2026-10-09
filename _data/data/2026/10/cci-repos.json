@@ -24,7 +24,7 @@
             "totalCount": 31
         },
         "forks": {
-            "totalCount": 64
+            "totalCount": 65
         },
         "primaryLanguage": {
             "name": "C"
@@ -40,16 +40,16 @@
             "totalCount": 22
         },
         "pullRequests_Closed": {
-            "totalCount": 261
+            "totalCount": 262
         },
         "pullRequests_Merged": {
-            "totalCount": 3663
+            "totalCount": 3665
         },
         "issues_Open": {
-            "totalCount": 670
+            "totalCount": 669
         },
         "issues_Closed": {
-            "totalCount": 3098
+            "totalCount": 3099
         },
         "stargazers": {
             "totalCount": 212
@@ -80,7 +80,7 @@
             "totalCount": 28
         },
         "forks": {
-            "totalCount": 53
+            "totalCount": 55
         },
         "primaryLanguage": {
             "name": "C++"
@@ -161,7 +161,7 @@
             "totalCount": 43
         },
         "issues_Closed": {
-            "totalCount": 315
+            "totalCount": 316
         },
         "stargazers": {
             "totalCount": 6
@@ -299,7 +299,7 @@
             "spdxId": "MIT",
             "url": "http://choosealicense.com/licenses/mit/"
         },
-        "stargazerCount": 44,
+        "stargazerCount": 45,
         "mentionableUsers": {
             "totalCount": 7
         },
@@ -332,7 +332,7 @@
             "totalCount": 41
         },
         "stargazers": {
-            "totalCount": 44
+            "totalCount": 45
         }
     },
     "flux-framework/flux-restful-api": {
