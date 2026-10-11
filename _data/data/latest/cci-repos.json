@@ -19,7 +19,7 @@
             "spdxId": "LGPL-3.0",
             "url": "http://choosealicense.com/licenses/lgpl-3.0/"
         },
-        "stargazerCount": 212,
+        "stargazerCount": 213,
         "mentionableUsers": {
             "totalCount": 31
         },
@@ -52,7 +52,7 @@
             "totalCount": 3099
         },
         "stargazers": {
-            "totalCount": 212
+            "totalCount": 213
         }
     },
     "flux-framework/flux-sched": {
@@ -136,7 +136,7 @@
             "totalCount": 15
         },
         "forks": {
-            "totalCount": 14
+            "totalCount": 15
         },
         "primaryLanguage": {
             "name": "Shell"
@@ -248,7 +248,7 @@
             "totalCount": 12
         },
         "forks": {
-            "totalCount": 8
+            "totalCount": 9
         },
         "primaryLanguage": {
             "name": "C"
