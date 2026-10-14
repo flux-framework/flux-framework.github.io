@@ -24,7 +24,7 @@
             "totalCount": 31
         },
         "forks": {
-            "totalCount": 65
+            "totalCount": 66
         },
         "primaryLanguage": {
             "name": "C"
@@ -37,13 +37,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 24
+            "totalCount": 25
         },
         "pullRequests_Closed": {
             "totalCount": 262
         },
         "pullRequests_Merged": {
-            "totalCount": 3667
+            "totalCount": 3668
         },
         "issues_Open": {
             "totalCount": 669
@@ -93,7 +93,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 26
+            "totalCount": 27
         },
         "pullRequests_Closed": {
             "totalCount": 82
@@ -158,7 +158,7 @@
             "totalCount": 575
         },
         "issues_Open": {
-            "totalCount": 39
+            "totalCount": 40
         },
         "issues_Closed": {
             "totalCount": 321
@@ -261,7 +261,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 0
+            "totalCount": 3
         },
         "pullRequests_Closed": {
             "totalCount": 3
