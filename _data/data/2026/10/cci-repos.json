@@ -37,7 +37,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 25
+            "totalCount": 26
         },
         "pullRequests_Closed": {
             "totalCount": 262
@@ -93,7 +93,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 27
+            "totalCount": 29
         },
         "pullRequests_Closed": {
             "totalCount": 82
@@ -149,7 +149,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 12
+            "totalCount": 13
         },
         "pullRequests_Closed": {
             "totalCount": 42
@@ -158,7 +158,7 @@
             "totalCount": 575
         },
         "issues_Open": {
-            "totalCount": 40
+            "totalCount": 45
         },
         "issues_Closed": {
             "totalCount": 321
@@ -355,7 +355,7 @@
             "spdxId": "MIT",
             "url": "http://choosealicense.com/licenses/mit/"
         },
-        "stargazerCount": 10,
+        "stargazerCount": 9,
         "mentionableUsers": {
             "totalCount": 13
         },
@@ -388,7 +388,7 @@
             "totalCount": 17
         },
         "stargazers": {
-            "totalCount": 10
+            "totalCount": 9
         }
     },
     "flux-framework/flux-python": {
