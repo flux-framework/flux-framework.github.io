@@ -19,12 +19,12 @@
             "spdxId": "LGPL-3.0",
             "url": "http://choosealicense.com/licenses/lgpl-3.0/"
         },
-        "stargazerCount": 214,
+        "stargazerCount": 215,
         "mentionableUsers": {
             "totalCount": 31
         },
         "forks": {
-            "totalCount": 66
+            "totalCount": 67
         },
         "primaryLanguage": {
             "name": "C"
@@ -37,22 +37,22 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 26
+            "totalCount": 27
         },
         "pullRequests_Closed": {
             "totalCount": 262
         },
         "pullRequests_Merged": {
-            "totalCount": 3668
+            "totalCount": 3669
         },
         "issues_Open": {
-            "totalCount": 669
+            "totalCount": 670
         },
         "issues_Closed": {
             "totalCount": 3099
         },
         "stargazers": {
-            "totalCount": 214
+            "totalCount": 215
         }
     },
     "flux-framework/flux-sched": {
@@ -75,12 +75,12 @@
             "spdxId": "LGPL-3.0",
             "url": "http://choosealicense.com/licenses/lgpl-3.0/"
         },
-        "stargazerCount": 120,
+        "stargazerCount": 121,
         "mentionableUsers": {
             "totalCount": 28
         },
         "forks": {
-            "totalCount": 55
+            "totalCount": 56
         },
         "primaryLanguage": {
             "name": "C++"
@@ -93,7 +93,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 29
+            "totalCount": 31
         },
         "pullRequests_Closed": {
             "totalCount": 82
@@ -108,7 +108,7 @@
             "totalCount": 588
         },
         "stargazers": {
-            "totalCount": 120
+            "totalCount": 121
         }
     },
     "flux-framework/flux-accounting": {
@@ -149,19 +149,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 13
+            "totalCount": 14
         },
         "pullRequests_Closed": {
             "totalCount": 42
         },
         "pullRequests_Merged": {
-            "totalCount": 575
+            "totalCount": 576
         },
         "issues_Open": {
             "totalCount": 45
         },
         "issues_Closed": {
-            "totalCount": 321
+            "totalCount": 322
         },
         "stargazers": {
             "totalCount": 6
@@ -205,7 +205,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 1
+            "totalCount": 2
         },
         "pullRequests_Closed": {
             "totalCount": 4
@@ -261,13 +261,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 3
+            "totalCount": 0
         },
         "pullRequests_Closed": {
             "totalCount": 3
         },
         "pullRequests_Merged": {
-            "totalCount": 151
+            "totalCount": 155
         },
         "issues_Open": {
             "totalCount": 31
@@ -304,7 +304,7 @@
             "totalCount": 7
         },
         "forks": {
-            "totalCount": 8
+            "totalCount": 9
         },
         "primaryLanguage": {
             "name": "Python"

@@ -61,7 +61,7 @@
     "flux-framework/flux-accounting": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 1682722,
+            "totalSize": 1718513,
             "nodes": [
                 {
                     "name": "Shell",
@@ -98,10 +98,10 @@
             ],
             "edges": [
                 {
-                    "size": 671654
+                    "size": 677538
                 },
                 {
-                    "size": 601004
+                    "size": 630824
                 },
                 {
                     "size": 319643
@@ -110,7 +110,7 @@
                     "size": 57000
                 },
                 {
-                    "size": 14620
+                    "size": 14707
                 },
                 {
                     "size": 13329
@@ -186,7 +186,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 16344810,
+            "totalSize": 16344899,
             "nodes": [
                 {
                     "name": "C",
@@ -259,7 +259,7 @@
             ],
             "edges": [
                 {
-                    "size": 10792547
+                    "size": 10792636
                 },
                 {
                     "size": 2596592
@@ -603,7 +603,7 @@
     "flux-framework/flux-security": {
         "languages": {
             "totalCount": 6,
-            "totalSize": 905087,
+            "totalSize": 915720,
             "nodes": [
                 {
                     "name": "C",
@@ -632,10 +632,10 @@
             ],
             "edges": [
                 {
-                    "size": 684181
+                    "size": 688980
                 },
                 {
-                    "size": 136829
+                    "size": 142203
                 },
                 {
                     "size": 32263
@@ -647,7 +647,7 @@
                     "size": 19622
                 },
                 {
-                    "size": 2012
+                    "size": 2472
                 }
             ]
         }
