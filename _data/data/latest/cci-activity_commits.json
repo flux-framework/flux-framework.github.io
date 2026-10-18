@@ -631,10 +631,6 @@
     ],
     "flux-framework/flux-core": [
         {
-            "total": 29,
-            "week": "2025-10-20"
-        },
-        {
             "total": 33,
             "week": "2025-10-27"
         },
@@ -837,6 +833,10 @@
         {
             "total": 9,
             "week": "2026-10-12"
+        },
+        {
+            "total": 0,
+            "week": "2026-10-19"
         }
     ],
     "flux-framework/flux-operator": [
