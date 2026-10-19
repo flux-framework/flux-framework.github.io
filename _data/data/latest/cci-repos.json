@@ -205,7 +205,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 3
+            "totalCount": 8
         },
         "pullRequests_Closed": {
             "totalCount": 4
@@ -485,7 +485,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 1
+            "totalCount": 2
         },
         "pullRequests_Closed": {
             "totalCount": 31
