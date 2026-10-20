@@ -2,7 +2,7 @@
     "flux-framework/dyad": {
         "languages": {
             "totalCount": 7,
-            "totalSize": 1433284,
+            "totalSize": 1497015,
             "nodes": [
                 {
                     "name": "C",
@@ -35,10 +35,10 @@
             ],
             "edges": [
                 {
-                    "size": 544208
+                    "size": 585120
                 },
                 {
-                    "size": 397900
+                    "size": 419353
                 },
                 {
                     "size": 175403
@@ -47,10 +47,10 @@
                     "size": 116943
                 },
                 {
-                    "size": 107108
+                    "size": 107667
                 },
                 {
-                    "size": 85207
+                    "size": 86014
                 },
                 {
                     "size": 6515
@@ -61,7 +61,7 @@
     "flux-framework/flux-accounting": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 1726897,
+            "totalSize": 1731226,
             "nodes": [
                 {
                     "name": "Shell",
@@ -98,19 +98,19 @@
             ],
             "edges": [
                 {
-                    "size": 677538
+                    "size": 682051
                 },
                 {
                     "size": 639179
                 },
                 {
-                    "size": 319643
+                    "size": 319439
                 },
                 {
                     "size": 57000
                 },
                 {
-                    "size": 14736
+                    "size": 14756
                 },
                 {
                     "size": 13329
@@ -186,7 +186,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 16344899,
+            "totalSize": 16352248,
             "nodes": [
                 {
                     "name": "C",
@@ -259,19 +259,19 @@
             ],
             "edges": [
                 {
-                    "size": 10792636
+                    "size": 10807753
                 },
                 {
-                    "size": 2596592
+                    "size": 2582885
                 },
                 {
-                    "size": 2372024
+                    "size": 2375779
                 },
                 {
-                    "size": 179501
+                    "size": 181392
                 },
                 {
-                    "size": 171265
+                    "size": 171602
                 },
                 {
                     "size": 101014
@@ -286,7 +286,7 @@
                     "size": 20395
                 },
                 {
-                    "size": 20263
+                    "size": 20219
                 },
                 {
                     "size": 10804
@@ -374,7 +374,7 @@
     "flux-framework/flux-pmix": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 906046,
+            "totalSize": 931469,
             "nodes": [
                 {
                     "name": "C",
@@ -411,22 +411,22 @@
             ],
             "edges": [
                 {
-                    "size": 688217
+                    "size": 704316
                 },
                 {
-                    "size": 112437
+                    "size": 116366
                 },
                 {
-                    "size": 52893
+                    "size": 55267
                 },
                 {
                     "size": 28592
                 },
                 {
-                    "size": 14087
+                    "size": 14301
                 },
                 {
-                    "size": 6140
+                    "size": 8947
                 },
                 {
                     "size": 2345
