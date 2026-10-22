@@ -37,7 +37,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 25
+            "totalCount": 27
         },
         "pullRequests_Closed": {
             "totalCount": 262
@@ -149,19 +149,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 13
+            "totalCount": 14
         },
         "pullRequests_Closed": {
             "totalCount": 42
         },
         "pullRequests_Merged": {
-            "totalCount": 578
+            "totalCount": 579
         },
         "issues_Open": {
-            "totalCount": 44
+            "totalCount": 43
         },
         "issues_Closed": {
-            "totalCount": 324
+            "totalCount": 326
         },
         "stargazers": {
             "totalCount": 6
@@ -205,7 +205,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 1
+            "totalCount": 2
         },
         "pullRequests_Closed": {
             "totalCount": 4
@@ -525,7 +525,7 @@
         },
         "stargazerCount": 10,
         "mentionableUsers": {
-            "totalCount": 18
+            "totalCount": 19
         },
         "forks": {
             "totalCount": 10
