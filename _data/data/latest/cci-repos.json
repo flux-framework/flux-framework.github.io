@@ -205,7 +205,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 2
+            "totalCount": 3
         },
         "pullRequests_Closed": {
             "totalCount": 4
@@ -214,10 +214,10 @@
             "totalCount": 95
         },
         "issues_Open": {
-            "totalCount": 7
+            "totalCount": 8
         },
         "issues_Closed": {
-            "totalCount": 42
+            "totalCount": 43
         },
         "stargazers": {
             "totalCount": 3
