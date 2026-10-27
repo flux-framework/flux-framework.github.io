@@ -43,7 +43,7 @@
             "totalCount": 263
         },
         "pullRequests_Merged": {
-            "totalCount": 3678
+            "totalCount": 3681
         },
         "issues_Open": {
             "totalCount": 669
@@ -149,19 +149,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 13
+            "totalCount": 12
         },
         "pullRequests_Closed": {
             "totalCount": 42
         },
         "pullRequests_Merged": {
-            "totalCount": 580
+            "totalCount": 582
         },
         "issues_Open": {
-            "totalCount": 43
+            "totalCount": 41
         },
         "issues_Closed": {
-            "totalCount": 326
+            "totalCount": 328
         },
         "stargazers": {
             "totalCount": 6
@@ -198,26 +198,26 @@
             "name": "C"
         },
         "languages": {
-            "totalCount": 8
+            "totalCount": 9
         },
         "repositoryTopics": {
             "totalCount": 3
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 3
+            "totalCount": 1
         },
         "pullRequests_Closed": {
             "totalCount": 4
         },
         "pullRequests_Merged": {
-            "totalCount": 95
+            "totalCount": 97
         },
         "issues_Open": {
-            "totalCount": 8
+            "totalCount": 6
         },
         "issues_Closed": {
-            "totalCount": 43
+            "totalCount": 45
         },
         "stargazers": {
             "totalCount": 3

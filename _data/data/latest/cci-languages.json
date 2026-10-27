@@ -61,7 +61,7 @@
     "flux-framework/flux-accounting": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 1758135,
+            "totalSize": 1762053,
             "nodes": [
                 {
                     "name": "Shell",
@@ -98,19 +98,19 @@
             ],
             "edges": [
                 {
-                    "size": 692840
+                    "size": 696574
                 },
                 {
                     "size": 642062
                 },
                 {
-                    "size": 332599
+                    "size": 332762
                 },
                 {
                     "size": 57000
                 },
                 {
-                    "size": 14833
+                    "size": 14854
                 },
                 {
                     "size": 13329
@@ -186,7 +186,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 16414122,
+            "totalSize": 16485770,
             "nodes": [
                 {
                     "name": "C",
@@ -259,16 +259,16 @@
             ],
             "edges": [
                 {
-                    "size": 10845626
+                    "size": 10912567
                 },
                 {
                     "size": 2589530
                 },
                 {
-                    "size": 2392834
+                    "size": 2396787
                 },
                 {
-                    "size": 181693
+                    "size": 182447
                 },
                 {
                     "size": 171602
@@ -373,8 +373,8 @@
     },
     "flux-framework/flux-pmix": {
         "languages": {
-            "totalCount": 8,
-            "totalSize": 932494,
+            "totalCount": 9,
+            "totalSize": 1106686,
             "nodes": [
                 {
                     "name": "C",
@@ -383,6 +383,10 @@
                 {
                     "name": "Shell",
                     "color": "#89e051"
+                },
+                {
+                    "name": "Lua",
+                    "color": "#000080"
                 },
                 {
                     "name": "M4",
@@ -411,22 +415,25 @@
             ],
             "edges": [
                 {
-                    "size": 704316
+                    "size": 779008
                 },
                 {
-                    "size": 117391
+                    "size": 150355
                 },
                 {
-                    "size": 55267
+                    "size": 63643
+                },
+                {
+                    "size": 55815
                 },
                 {
                     "size": 28592
                 },
                 {
-                    "size": 14301
+                    "size": 16538
                 },
                 {
-                    "size": 8947
+                    "size": 9055
                 },
                 {
                     "size": 2345
