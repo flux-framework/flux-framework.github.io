@@ -61,7 +61,7 @@
     "flux-framework/flux-accounting": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 1762053,
+            "totalSize": 1770953,
             "nodes": [
                 {
                     "name": "Shell",
@@ -98,10 +98,10 @@
             ],
             "edges": [
                 {
-                    "size": 696574
+                    "size": 700057
                 },
                 {
-                    "size": 642062
+                    "size": 647441
                 },
                 {
                     "size": 332762
@@ -110,7 +110,7 @@
                     "size": 57000
                 },
                 {
-                    "size": 14854
+                    "size": 14892
                 },
                 {
                     "size": 13329
@@ -186,7 +186,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 16496015,
+            "totalSize": 16496014,
             "nodes": [
                 {
                     "name": "C",
@@ -259,7 +259,7 @@
             ],
             "edges": [
                 {
-                    "size": 10918741
+                    "size": 10918740
                 },
                 {
                     "size": 2589530
@@ -373,8 +373,8 @@
     },
     "flux-framework/flux-pmix": {
         "languages": {
-            "totalCount": 9,
-            "totalSize": 1106686,
+            "totalCount": 8,
+            "totalSize": 577110,
             "nodes": [
                 {
                     "name": "C",
@@ -393,10 +393,6 @@
                     "color": null
                 },
                 {
-                    "name": "Perl",
-                    "color": "#0298c3"
-                },
-                {
                     "name": "Makefile",
                     "color": "#427819"
                 },
@@ -409,28 +405,25 @@
                     "color": "#3572A5"
                 },
                 {
-                    "name": "Cuda",
-                    "color": "#3A4E3A"
+                    "name": "Perl",
+                    "color": "#0298c3"
                 }
             ],
             "edges": [
                 {
-                    "size": 779008
+                    "size": 285711
                 },
                 {
-                    "size": 150355
+                    "size": 149702
                 },
                 {
                     "size": 63643
                 },
                 {
-                    "size": 55815
+                    "size": 55779
                 },
                 {
-                    "size": 28592
-                },
-                {
-                    "size": 16538
+                    "size": 9088
                 },
                 {
                     "size": 9055
@@ -439,7 +432,7 @@
                     "size": 2345
                 },
                 {
-                    "size": 1335
+                    "size": 1787
                 }
             ]
         }
@@ -543,8 +536,8 @@
     },
     "flux-framework/flux-sched": {
         "languages": {
-            "totalCount": 8,
-            "totalSize": 2751515,
+            "totalCount": 9,
+            "totalSize": 2762418,
             "nodes": [
                 {
                     "name": "C++",
@@ -577,17 +570,21 @@
                 {
                     "name": "Dockerfile",
                     "color": "#384d54"
+                },
+                {
+                    "name": "SmPL",
+                    "color": "#c94949"
                 }
             ],
             "edges": [
                 {
-                    "size": 1738642
+                    "size": 1744062
                 },
                 {
-                    "size": 709647
+                    "size": 711967
                 },
                 {
-                    "size": 98071
+                    "size": 98634
                 },
                 {
                     "size": 95774
@@ -603,6 +600,9 @@
                 },
                 {
                     "size": 5143
+                },
+                {
+                    "size": 2600
                 }
             ]
         }

@@ -37,16 +37,16 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 26
+            "totalCount": 25
         },
         "pullRequests_Closed": {
             "totalCount": 263
         },
         "pullRequests_Merged": {
-            "totalCount": 3683
+            "totalCount": 3686
         },
         "issues_Open": {
-            "totalCount": 669
+            "totalCount": 671
         },
         "issues_Closed": {
             "totalCount": 3101
@@ -86,26 +86,26 @@
             "name": "C++"
         },
         "languages": {
-            "totalCount": 8
+            "totalCount": 9
         },
         "repositoryTopics": {
             "totalCount": 5
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 32
+            "totalCount": 33
         },
         "pullRequests_Closed": {
-            "totalCount": 82
+            "totalCount": 83
         },
         "pullRequests_Merged": {
-            "totalCount": 710
+            "totalCount": 711
         },
         "issues_Open": {
-            "totalCount": 142
+            "totalCount": 141
         },
         "issues_Closed": {
-            "totalCount": 588
+            "totalCount": 589
         },
         "stargazers": {
             "totalCount": 121
@@ -155,13 +155,13 @@
             "totalCount": 42
         },
         "pullRequests_Merged": {
-            "totalCount": 582
+            "totalCount": 583
         },
         "issues_Open": {
             "totalCount": 42
         },
         "issues_Closed": {
-            "totalCount": 328
+            "totalCount": 329
         },
         "stargazers": {
             "totalCount": 6
@@ -198,20 +198,20 @@
             "name": "C"
         },
         "languages": {
-            "totalCount": 9
+            "totalCount": 8
         },
         "repositoryTopics": {
             "totalCount": 3
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 1
+            "totalCount": 2
         },
         "pullRequests_Closed": {
             "totalCount": 4
         },
         "pullRequests_Merged": {
-            "totalCount": 97
+            "totalCount": 98
         },
         "issues_Open": {
             "totalCount": 6
