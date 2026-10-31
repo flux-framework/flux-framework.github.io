@@ -61,7 +61,7 @@
     "flux-framework/flux-accounting": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 1776781,
+            "totalSize": 1777787,
             "nodes": [
                 {
                     "name": "Shell",
@@ -98,13 +98,13 @@
             ],
             "edges": [
                 {
-                    "size": 702042
+                    "size": 702231
                 },
                 {
                     "size": 652855
                 },
                 {
-                    "size": 331167
+                    "size": 331984
                 },
                 {
                     "size": 57000
@@ -186,7 +186,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 16496014,
+            "totalSize": 16529059,
             "nodes": [
                 {
                     "name": "C",
@@ -259,16 +259,16 @@
             ],
             "edges": [
                 {
-                    "size": 10918740
+                    "size": 10949946
                 },
                 {
-                    "size": 2589530
+                    "size": 2589971
                 },
                 {
-                    "size": 2400634
+                    "size": 2402828
                 },
                 {
-                    "size": 182671
+                    "size": 182706
                 },
                 {
                     "size": 171602
@@ -280,7 +280,7 @@
                     "size": 30257
                 },
                 {
-                    "size": 30082
+                    "size": 29251
                 },
                 {
                     "size": 20395
@@ -374,7 +374,7 @@
     "flux-framework/flux-pmix": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 613419,
+            "totalSize": 615400,
             "nodes": [
                 {
                     "name": "C",
@@ -411,7 +411,7 @@
             ],
             "edges": [
                 {
-                    "size": 314097
+                    "size": 316078
                 },
                 {
                     "size": 157522
