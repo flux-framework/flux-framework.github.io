@@ -374,7 +374,7 @@
     "flux-framework/flux-pmix": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 615400,
+            "totalSize": 615932,
             "nodes": [
                 {
                     "name": "C",
@@ -411,10 +411,10 @@
             ],
             "edges": [
                 {
-                    "size": 316078
+                    "size": 316425
                 },
                 {
-                    "size": 157522
+                    "size": 157707
                 },
                 {
                     "size": 63643
