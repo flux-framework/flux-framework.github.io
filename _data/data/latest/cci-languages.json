@@ -186,7 +186,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 16575462,
+            "totalSize": 16589552,
             "nodes": [
                 {
                     "name": "C",
@@ -259,28 +259,28 @@
             ],
             "edges": [
                 {
-                    "size": 10979357
+                    "size": 10989145
                 },
                 {
                     "size": 2594156
                 },
                 {
-                    "size": 2415276
+                    "size": 2422030
                 },
                 {
                     "size": 183065
                 },
                 {
-                    "size": 171602
+                    "size": 171853
                 },
                 {
-                    "size": 101014
+                    "size": 98375
                 },
                 {
                     "size": 30257
                 },
                 {
-                    "size": 29251
+                    "size": 29187
                 },
                 {
                     "size": 20395
@@ -374,7 +374,7 @@
     "flux-framework/flux-pmix": {
         "languages": {
             "totalCount": 8,
-            "totalSize": 651155,
+            "totalSize": 673350,
             "nodes": [
                 {
                     "name": "C",
@@ -385,12 +385,12 @@
                     "color": "#89e051"
                 },
                 {
-                    "name": "Lua",
-                    "color": "#000080"
-                },
-                {
                     "name": "M4",
                     "color": null
+                },
+                {
+                    "name": "Lua",
+                    "color": "#000080"
                 },
                 {
                     "name": "Dockerfile",
@@ -411,22 +411,22 @@
             ],
             "edges": [
                 {
-                    "size": 334525
+                    "size": 336022
                 },
                 {
-                    "size": 163294
+                    "size": 167488
+                },
+                {
+                    "size": 68018
                 },
                 {
                     "size": 63643
                 },
                 {
-                    "size": 57820
+                    "size": 24671
                 },
                 {
-                    "size": 18361
-                },
-                {
-                    "size": 9380
+                    "size": 9376
                 },
                 {
                     "size": 2345

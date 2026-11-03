@@ -43,13 +43,13 @@
             "totalCount": 264
         },
         "pullRequests_Merged": {
-            "totalCount": 3699
+            "totalCount": 3703
         },
         "issues_Open": {
-            "totalCount": 675
+            "totalCount": 672
         },
         "issues_Closed": {
-            "totalCount": 3104
+            "totalCount": 3107
         },
         "stargazers": {
             "totalCount": 217
@@ -149,13 +149,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 11
+            "totalCount": 12
         },
         "pullRequests_Closed": {
             "totalCount": 42
         },
         "pullRequests_Merged": {
-            "totalCount": 587
+            "totalCount": 588
         },
         "issues_Open": {
             "totalCount": 40
@@ -211,7 +211,7 @@
             "totalCount": 4
         },
         "pullRequests_Merged": {
-            "totalCount": 103
+            "totalCount": 106
         },
         "issues_Open": {
             "totalCount": 6
