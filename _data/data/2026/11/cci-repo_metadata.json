@@ -36,7 +36,7 @@
     },
     "flux-framework/flux-pmix": {
         "name": "flux-framework/flux-pmix",
-        "description": "flux shell plugin to bootstrap openmpi v5+",
+        "description": "Flux PMIx process management plugin",
         "website": "",
         "topics": [
             "flux-framework",

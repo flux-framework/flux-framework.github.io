@@ -24,7 +24,7 @@
             "totalCount": 31
         },
         "forks": {
-            "totalCount": 68
+            "totalCount": 69
         },
         "primaryLanguage": {
             "name": "C"
@@ -37,19 +37,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 23
+            "totalCount": 26
         },
         "pullRequests_Closed": {
             "totalCount": 264
         },
         "pullRequests_Merged": {
-            "totalCount": 3706
+            "totalCount": 3707
         },
         "issues_Open": {
             "totalCount": 671
         },
         "issues_Closed": {
-            "totalCount": 3108
+            "totalCount": 3109
         },
         "stargazers": {
             "totalCount": 217
@@ -75,7 +75,7 @@
             "spdxId": "LGPL-3.0",
             "url": "http://choosealicense.com/licenses/lgpl-3.0/"
         },
-        "stargazerCount": 121,
+        "stargazerCount": 122,
         "mentionableUsers": {
             "totalCount": 28
         },
@@ -93,13 +93,13 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 33
+            "totalCount": 32
         },
         "pullRequests_Closed": {
             "totalCount": 85
         },
         "pullRequests_Merged": {
-            "totalCount": 712
+            "totalCount": 714
         },
         "issues_Open": {
             "totalCount": 141
@@ -108,7 +108,7 @@
             "totalCount": 589
         },
         "stargazers": {
-            "totalCount": 121
+            "totalCount": 122
         }
     },
     "flux-framework/flux-accounting": {
@@ -149,19 +149,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 10
+            "totalCount": 11
         },
         "pullRequests_Closed": {
             "totalCount": 42
         },
         "pullRequests_Merged": {
-            "totalCount": 590
+            "totalCount": 591
         },
         "issues_Open": {
             "totalCount": 40
         },
         "issues_Closed": {
-            "totalCount": 332
+            "totalCount": 333
         },
         "stargazers": {
             "totalCount": 6
@@ -176,7 +176,7 @@
         },
         "url": "https://github.com/flux-framework/flux-pmix",
         "homepageUrl": "",
-        "description": "flux shell plugin to bootstrap openmpi v5+",
+        "description": "Flux PMIx process management plugin",
         "createdAt": "2021-09-15T14:55:22Z",
         "defaultBranchRef": {
             "name": "main"
@@ -211,7 +211,7 @@
             "totalCount": 4
         },
         "pullRequests_Merged": {
-            "totalCount": 106
+            "totalCount": 109
         },
         "issues_Open": {
             "totalCount": 6
@@ -541,7 +541,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 5
+            "totalCount": 6
         },
         "pullRequests_Closed": {
             "totalCount": 10
