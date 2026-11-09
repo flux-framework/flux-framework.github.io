@@ -1,24 +1,219 @@
 ---
-layout: default
+layout: page
+title: Page not found
+hide_hero: true
+permalink: /404.html
 ---
 
 <style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
+.nf { display: block; height: auto; background-color: transparent; }
+/* Undo the global "body div" rule in main.css (flex column, 65vh height, etc).
+   :where() keeps this at single-class specificity so classes below still win. */
+.nf :where(div) {
+  display: block;
+  flex-direction: row;
+  height: auto;
+  width: auto;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  color: inherit;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+  .nf {
+    --nf-accent: #2a78d6;
+    --nf-accent-2: #1baf7a;
+    --nf-warn: #eb6834;
+    --nf-ink: var(--font-color, #424242);
+    --nf-muted: #898781;
+    --nf-rack: #e9e9ed;
+    --nf-rack-edge: #d6d6dc;
+    --nf-slot: #ffffff;
+    max-width: 640px;
+    margin: 20px auto 60px;
     text-align: center;
+    color: var(--nf-ink);
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
   }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
+  :root[data-theme="dark"] .nf {
+    --nf-accent: #3987e5;
+    --nf-accent-2: #199e70;
+    --nf-warn: #d95926;
+    --nf-muted: #9a99a8;
+    --nf-rack: #26263a;
+    --nf-rack-edge: #34344a;
+    --nf-slot: #1e1e30;
+  }
+
+  /* 4 (ring) 4 */
+  .nf-code {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 18px;
+    font-size: 132px;
+    font-weight: 700;
     line-height: 1;
-    letter-spacing: -1px;
+    letter-spacing: -4px;
+    color: var(--nf-ink);
+    margin: 10px 0 30px;
+  }
+  .nf-ring {
+    position: relative;
+    width: 112px;
+    height: 112px;
+    border-radius: 50%;
+    border: 14px solid var(--nf-accent);
+    box-sizing: border-box;
+  }
+  .nf-ring::after {
+    /* little "empty" core: no job here */
+    content: "";
+    position: absolute;
+    inset: 26px;
+    border-radius: 50%;
+    border: 2px dashed var(--nf-muted);
+    animation: nf-spin 12s linear infinite reverse;
+  }
+  .nf-orbit {
+    position: absolute;
+    inset: -30px;
+    border-radius: 50%;
+    animation: nf-spin 4s linear infinite;
+  }
+  .nf-orbit.slow { inset: -46px; animation-duration: 7s; animation-direction: reverse; }
+  .nf-orbit span {
+    position: absolute;
+    top: -6px;
+    left: 50%;
+    width: 12px;
+    height: 12px;
+    margin-left: -6px;
+    border-radius: 3px;
+    background: var(--nf-accent-2);
+    box-shadow: 0 0 0 2px var(--bg-color, #fff);
+  }
+  .nf-orbit.slow span { background: var(--nf-warn); border-radius: 50%; width: 10px; height: 10px; margin-left: -5px; }
+
+  /* Rack of compute nodes */
+  .nf-rack {
+    display: inline-grid;
+    grid-template-columns: repeat(6, 64px);
+    gap: 8px;
+    padding: 14px;
+    border-radius: 14px;
+    background: var(--nf-rack);
+    border: 1px solid var(--nf-rack-edge);
+    margin-bottom: 28px;
+  }
+  .nf-node {
+    height: 26px;
+    border-radius: 6px;
+    background: var(--nf-slot);
+    border: 1px solid var(--nf-rack-edge);
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding: 0 8px;
+  }
+  .nf-node i {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: var(--nf-accent-2);
+    animation: nf-blink 1.6s steps(2, jump-none) infinite;
+  }
+  .nf-node i:nth-child(2) { background: var(--nf-accent); animation-duration: 2.3s; }
+  .nf-node:nth-child(3n) i { animation-delay: .4s; }
+  .nf-node:nth-child(4n+1) i:nth-child(2) { animation-delay: .9s; }
+  .nf-node.missing {
+    background: transparent;
+    border: 2px dashed var(--nf-warn);
+    justify-content: center;
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--nf-warn);
+    animation: nf-wobble 2.4s ease-in-out infinite;
+  }
+
+  .nf h1 { font-size: 26px; font-weight: 600; margin: 0 0 8px; color: var(--nf-ink); }
+  .nf p { font-size: 16px; color: var(--nf-muted); margin: 0 0 6px; }
+  .nf code {
+    font-size: 13px;
+    background: var(--nf-rack);
+    color: var(--nf-ink);
+    padding: 2px 6px;
+    border-radius: 6px;
+  }
+  .nf-actions { margin-top: 26px; display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; }
+  .nf-actions a {
+    display: inline-block;
+    padding: 8px 16px;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+    border: 1px solid var(--nf-rack-edge);
+    color: var(--nf-ink);
+  }
+  .nf-actions a.primary { background: var(--nf-accent); border-color: var(--nf-accent); color: #fff; }
+  .nf-actions a:hover { opacity: .85; }
+
+  @keyframes nf-spin { to { transform: rotate(360deg); } }
+  @keyframes nf-blink { 0% { opacity: 1; } 100% { opacity: .25; } }
+  @keyframes nf-wobble {
+    0%, 100% { transform: translateY(0) rotate(0); }
+    25% { transform: translateY(-2px) rotate(-2deg); }
+    75% { transform: translateY(1px) rotate(2deg); }
+  }
+
+  @media (max-width: 560px) {
+    .nf-code { font-size: 88px; gap: 10px; }
+    .nf-ring { width: 76px; height: 76px; border-width: 10px; }
+    .nf-ring::after { inset: 16px; }
+    .nf-rack { grid-template-columns: repeat(4, 56px); }
+    .nf-node:nth-child(n+9) { display: none; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .nf *, .nf *::after { animation: none !important; }
   }
 </style>
 
-<div class="container">
-  <h1>404</h1>
+<div class="nf">
+  <div class="nf-code" aria-hidden="true">
+    <span>4</span>
+    <span class="nf-ring">
+      <span class="nf-orbit"><span></span></span>
+      <span class="nf-orbit slow"><span></span></span>
+    </span>
+    <span>4</span>
+  </div>
 
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+  <div class="nf-rack" aria-hidden="true">
+    <div class="nf-node"><i></i><i></i></div>
+    <div class="nf-node"><i></i><i></i></div>
+    <div class="nf-node"><i></i><i></i></div>
+    <div class="nf-node"><i></i><i></i></div>
+    <div class="nf-node"><i></i><i></i></div>
+    <div class="nf-node"><i></i><i></i></div>
+    <div class="nf-node"><i></i><i></i></div>
+    <div class="nf-node"><i></i><i></i></div>
+    <div class="nf-node missing">?</div>
+    <div class="nf-node"><i></i><i></i></div>
+    <div class="nf-node"><i></i><i></i></div>
+    <div class="nf-node"><i></i><i></i></div>
+  </div>
+
+  <h1>This page couldn't be scheduled</h1>
+  <p>We searched every node in the cluster, but there's nothing allocated at this address.</p>
+  <p><code>flux job status: not found</code></p>
+
+  <div class="nf-actions">
+    <a class="primary" href="{{ site.baseurl }}/">Back to projects</a>
+    <a href="{{ site.baseurl }}/activity/">Activity</a>
+    <a href="{{ site.baseurl }}/releases/">Releases</a>
+    <a href="https://flux-framework.readthedocs.io/" target="_blank">Docs</a>
+  </div>
 </div>
