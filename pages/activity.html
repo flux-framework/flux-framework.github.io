@@ -1,0 +1,94 @@
+---
+layout: page
+title: Contributor Activity
+permalink: /activity/
+graph: true
+---
+
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/contributors.css" />
+
+<div class="viz-root" id="contrib">
+
+  <p class="cc-intro">How the Flux Framework community builds, reviews, and ships. Updated nightly from Contributor CI.</p>
+
+  <div class="cc-tiles" id="cc-tiles" aria-live="polite"></div>
+
+  <section class="cc-card cc-wide">
+    <div class="cc-head">
+      <div>
+        <h3>Weekly commits across all projects</h3>
+        <p class="cc-sub">Stitched together from monthly Contributor CI snapshots</p>
+      </div>
+      <div class="cc-seg" role="group" aria-label="Time range" id="cc-range">
+        <button type="button" data-range="52">1Y</button>
+        <button type="button" data-range="156">3Y</button>
+        <button type="button" data-range="all" class="active">All</button>
+      </div>
+    </div>
+    <div class="cc-chart" id="chart-history"></div>
+  </section>
+
+  <div class="cc-grid">
+    <section class="cc-card">
+      <h3>Commits by project</h3>
+      <p class="cc-sub">Past 52 weeks</p>
+      <div class="cc-chart" id="chart-commits-repo"></div>
+    </section>
+    <section class="cc-card">
+      <h3>Stars by project</h3>
+      <p class="cc-sub">Current GitHub stargazers</p>
+      <div class="cc-chart" id="chart-stars-repo"></div>
+    </section>
+  </div>
+
+  <section class="cc-card cc-wide">
+    <h3>Commit heatmap</h3>
+    <p class="cc-sub">Commits per project per week, past 52 weeks</p>
+    <div class="cc-chart" id="chart-heatmap"></div>
+  </section>
+
+  <section class="cc-card cc-wide">
+    <h3>Lines added and removed per week</h3>
+    <p class="cc-sub">All projects except flux-core, which GitHub doesn't report line stats for (too many commits). Very large weeks are clipped and marked with ▲ or ▼. Hover to see the real value.</p>
+    <div class="cc-legend" id="legend-lines"></div>
+    <div class="cc-chart" id="chart-lines"></div>
+  </section>
+
+  <div class="cc-grid">
+    <section class="cc-card">
+      <h3>Pull requests</h3>
+      <p class="cc-sub">All time, by state</p>
+      <div class="cc-legend" id="legend-prs"></div>
+      <div class="cc-chart" id="chart-prs"></div>
+    </section>
+    <section class="cc-card">
+      <h3>Issues</h3>
+      <p class="cc-sub">All time, by state</p>
+      <div class="cc-legend" id="legend-issues"></div>
+      <div class="cc-chart" id="chart-issues"></div>
+    </section>
+  </div>
+
+  <section class="cc-card cc-wide">
+    <h3>Release timeline</h3>
+    <p class="cc-sub">Each dot is a published release</p>
+    <div class="cc-chart" id="chart-releases"></div>
+  </section>
+
+  <section class="cc-card cc-wide">
+    <h3>Stargazers over time</h3>
+    <p class="cc-sub">Cumulative stars recorded in Contributor CI, all projects</p>
+    <div class="cc-chart" id="chart-stars-history"></div>
+  </section>
+
+  <details class="cc-card cc-wide cc-table-wrap">
+    <summary>View the data as a table</summary>
+    <div id="cc-table"></div>
+  </details>
+
+  <p class="cc-sub cc-footnote">Data comes from <a href="https://github.com/vsoch/contributor-ci" target="_blank">Contributor CI</a> and is also available from our <a href="{{ site.baseurl }}/api/">APIs</a>.</p>
+</div>
+
+<div class="cc-tooltip" id="cc-tooltip" role="tooltip"></div>
+
+<script src="{{ site.baseurl }}/assets/js/contributors.js"></script>
