@@ -1193,6 +1193,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "Flux RESTful API Version 1.1.0",
+                    "publishedAt": "2026-11-09T06:31:50Z",
+                    "tagName": "1.1.0"
+                },
+                {
                     "name": "Flux RESTFul API Release v0.1.13",
                     "publishedAt": "2023-09-03T01:56:22Z",
                     "tagName": "0.1.13"
