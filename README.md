@@ -45,6 +45,23 @@ $ cci --out-dir _data extract --save-format year/month repos repo_metadata topic
 
 Note that emojis and jekyll don't play nicely, so we currently don't have any in project descriptions.
 
+### Local Preview
+
+You need Ruby (with bundler). From the root of the repository:
+
+```bash
+bundle install
+bundle exec jekyll serve
+# open http://127.0.0.1:4000 (contributor activity is at /activity/)
+```
+
+Or, if you have Docker and don't want to install Ruby:
+
+```bash
+docker run --rm -it -p 4000:4000 -v "$PWD":/srv/jekyll jekyll/jekyll:4 \
+    sh -c "bundle install && bundle exec jekyll serve --host 0.0.0.0"
+```
+
 ### Api
 
 The site data is also served from a set of static APIs! We do this in case you want data about Flux Framework
@@ -58,6 +75,7 @@ projects programmatically available, and as stated above, it's updated nightly.
  - `/flux-framework.github.io/api/topics.json`
  - `/flux-framework.github.io/api/commits.json`
  - `/flux-framework.github.io/api/lines.json`
+ - `/flux-framework.github.io/api/commits-history.json` (monthly snapshots stitched into one weekly series)
 
 ### Custom Data
 

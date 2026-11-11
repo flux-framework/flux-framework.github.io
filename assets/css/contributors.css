@@ -1,0 +1,194 @@
+/* Contributor activity page. Colors are defined as roles and stepped
+   separately for light and dark mode (validated for CVD and contrast). */
+
+.viz-root { display: block; height: auto; background-color: transparent; }
+/* Undo the global "body div" rule in main.css (flex column, 65vh height, etc).
+   :where() keeps this at single-class specificity so classes below still win. */
+.viz-root :where(div) {
+  display: block;
+  flex-direction: row;
+  height: auto;
+  width: auto;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  color: inherit;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.viz-root {
+  --surface-1: #ffffff;
+  --surface-2: #f6f6f4;
+  --text-primary: #0b0b0b;
+  --text-secondary: #52514e;
+  --text-muted: #6f6d68;
+  --grid: #e8e7e1;
+  --axis: #c3c2b7;
+  --ring: rgba(11, 11, 11, 0.10);
+  --series-1: #2a78d6;  /* blue */
+  --series-2: #eb6834;  /* orange */
+  --series-3: #1baf7a;  /* aqua */
+  --pos: #2a78d6;       /* diverging: added */
+  --neg: #e34948;       /* diverging: removed */
+  --heat-0: #f0efec;
+  --heat-1: #cde2fb;
+  --heat-2: #9ec5f4;
+  --heat-3: #6da7ec;
+  --heat-4: #3987e5;
+  --heat-5: #256abf;
+  --heat-6: #104281;
+  --tip-bg: #0b0b0b;
+  --tip-fg: #f0efec;
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  color: var(--text-primary);
+  padding-bottom: 40px;
+}
+
+:root[data-theme="dark"] .viz-root {
+  --surface-1: #26263a;
+  --surface-2: #1e1e30;
+  --text-primary: #f0efec;
+  --text-secondary: #c3c2b7;
+  --text-muted: #9a99a8;
+  --grid: #34344a;
+  --axis: #4a4a62;
+  --ring: rgba(255, 255, 255, 0.10);
+  --series-1: #3987e5;
+  --series-2: #d95926;
+  --series-3: #199e70;
+  --pos: #3987e5;
+  --neg: #e66767;
+  --heat-0: #2f2f44;
+  --heat-1: #104281;
+  --heat-2: #184f95;
+  --heat-3: #256abf;
+  --heat-4: #3987e5;
+  --heat-5: #6da7ec;
+  --heat-6: #b7d3f6;
+  --tip-bg: #f0efec;
+  --tip-fg: #0b0b0b;
+}
+
+.viz-root h3 {
+  font-size: 17px;
+  font-weight: 600;
+  margin: 0 0 2px 0;
+  color: var(--text-primary);
+}
+
+.cc-sub {
+  font-size: 13px;
+  color: var(--text-secondary);
+  margin: 0 0 12px 0;
+}
+
+.cc-card {
+  background: var(--surface-1);
+  border: 1px solid var(--ring);
+  border-radius: 12px;
+  padding: 20px 22px;
+  margin-bottom: 20px;
+}
+
+.cc-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.cc-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+  gap: 20px;
+}
+
+.cc-chart { width: 100%; position: relative; }
+.cc-chart svg { display: block; overflow: visible; }
+
+/* Stat tiles */
+.cc-tiles {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 14px;
+  margin-bottom: 20px;
+}
+.cc-tile {
+  background: var(--surface-1);
+  border: 1px solid var(--ring);
+  border-radius: 12px;
+  padding: 16px 18px;
+}
+.cc-tile .label { font-size: 13px; color: var(--text-secondary); }
+.cc-tile .value { font-size: 30px; font-weight: 600; line-height: 1.2; color: var(--text-primary); }
+.cc-tile .note  { font-size: 12px; color: var(--text-muted); }
+
+/* Segmented range control */
+.cc-seg { display: inline-flex; border: 1px solid var(--ring); border-radius: 8px; overflow: hidden; }
+.cc-seg button {
+  background: transparent;
+  border: 0;
+  padding: 4px 12px;
+  font-size: 13px;
+  color: var(--text-secondary);
+  cursor: pointer;
+}
+.cc-seg button + button { border-left: 1px solid var(--ring); }
+.cc-seg button.active { background: var(--surface-2); color: var(--text-primary); font-weight: 600; }
+
+/* Legend */
+.cc-legend { display: flex; gap: 16px; flex-wrap: wrap; font-size: 13px; color: var(--text-secondary); margin-bottom: 8px; }
+.cc-legend span { display: inline-flex; align-items: center; gap: 6px; }
+.cc-legend i { width: 12px; height: 12px; border-radius: 3px; display: inline-block; }
+
+/* Axes and marks */
+.viz-root .tick text { fill: var(--text-muted); font-size: 11px; font-variant-numeric: tabular-nums; }
+.viz-root .tick line { stroke: var(--grid); }
+.viz-root .domain { stroke: var(--axis); }
+.viz-root .grid .domain { display: none; }
+.viz-root .x-axis .tick line { display: none; }
+.viz-root .label-text { fill: var(--text-secondary); font-size: 12px; }
+.viz-root .value-text { fill: var(--text-secondary); font-size: 11px; font-variant-numeric: tabular-nums; }
+.viz-root .crosshair { stroke: var(--text-muted); stroke-width: 1px; stroke-dasharray: 3 3; }
+
+/* Table */
+.cc-table-wrap summary { cursor: pointer; font-weight: 600; color: var(--text-primary); }
+.cc-table-wrap table { width: 100%; margin-top: 14px; font-size: 13px; border-collapse: collapse; }
+.cc-table-wrap th, .cc-table-wrap td { padding: 6px 8px; border-bottom: 1px solid var(--grid); text-align: right; font-variant-numeric: tabular-nums; color: var(--text-primary); }
+.cc-table-wrap th:first-child, .cc-table-wrap td:first-child { text-align: left; }
+.cc-table-wrap th { color: var(--text-secondary); font-weight: 600; }
+
+.cc-footnote { margin-top: 10px; }
+.cc-intro { font-size: 16px; color: var(--text-secondary); margin: 0 0 20px 0; }
+
+/* Tooltip */
+.cc-tooltip {
+  display: block;
+  height: auto;
+  width: auto;
+  position: fixed;
+  pointer-events: none;
+  background: var(--tip-bg, #0b0b0b);
+  color: var(--tip-fg, #f0efec);
+  padding: 8px 10px;
+  border-radius: 8px;
+  font: 12px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif;
+  opacity: 0;
+  transition: opacity 80ms;
+  z-index: 1000;
+  max-width: 260px;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.18);
+}
+:root[data-theme="dark"] .cc-tooltip { --tip-bg: #f0efec; --tip-fg: #0b0b0b; }
+.cc-tooltip :where(div) { display: block; height: auto; width: auto; margin: 0; padding: 0; background-color: transparent; color: inherit; font: inherit; }
+.cc-tooltip .t-title { font-weight: 600; margin-bottom: 2px; }
+.cc-tooltip .t-row { display: flex; align-items: center; gap: 6px; font-variant-numeric: tabular-nums; }
+.cc-tooltip .t-row i { width: 9px; height: 9px; border-radius: 2px; display: inline-block; }
+
+@media (max-width: 600px) {
+  .cc-grid { grid-template-columns: 1fr; }
+  .cc-card { padding: 16px; }
+}

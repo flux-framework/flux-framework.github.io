@@ -1,0 +1,13 @@
+---
+layout: null
+permalink: /api/commits-history.json
+---
+{% comment %}
+Stitches the monthly contributor-ci snapshots into one long weekly commit history.
+Each snapshot holds a rolling 52-week window. December snapshots are emitted in full
+(yearly anchors). Every other snapshot only emits its most recent weeks, which keeps
+the file small. The client sorts snapshots by date and lets newer values win.
+{% endcomment %}[{% for year in site.data.data %}{% if year[0] != "latest" %}{% for month in year[1] %}{% assign snap = month[1]["cci-activity_commits"] %}{% if snap %}{% if month[0] == "12" %}{% assign skip = 0 %}{% else %}{% assign skip = 46 %}{% endif %}
+{"snapshot":"{{ year[0] }}-{{ month[0] }}","repos":{ {% for repo in snap %}"{{ repo[0] }}":[{% for w in repo[1] offset: skip %}["{{ w.week }}",{{ w.total }}]{% unless forloop.last %},{% endunless %}{% endfor %}]{% unless forloop.last %},{% endunless %}{% endfor %} }},{% endif %}{% endfor %}{% endif %}{% endfor %}
+{"snapshot":"latest","repos":{{ site.data.data.latest.cci-activity_commits | jsonify }}}
+]
