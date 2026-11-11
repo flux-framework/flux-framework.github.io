@@ -32,6 +32,13 @@ hide_hero: true
 </span>
 </div>
 
+{% assign total_merged = 0 %}{% assign total_issues = 0 %}{% for repo in site.data.data.latest.cci-repos %}{% assign total_merged = total_merged | plus: repo[1].pullRequests_Merged.totalCount %}{% assign total_issues = total_issues | plus: repo[1].issues_Closed.totalCount %}{% endfor %}<div class="card topic-activity" style="cursor:pointer" data-url="{{ site.baseurl }}/activity/"><span class="card-title">Contributor Activity</span><div style="font-size:12px; margin-bottom:20px" class="card-tags"><span style="color:#1864f4; margin-left:15px"></span></div><span class="card-description">
+<p>See how the community builds, reviews, and ships: weekly commits since 2021, pull requests, issues, releases, and more.</p>
+<p><strong>{{ total_merged }}</strong> pull requests merged &middot; <strong>{{ total_issues }}</strong> issues closed</p>
+<span style="float:right"><a href="{{ site.baseurl }}/activity/">view activity...</a></span>
+</span>
+</div>
+
 
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js'></script>
 <script src="https://unpkg.com/@yaireo/tagify"></script>

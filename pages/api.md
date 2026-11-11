@@ -11,6 +11,7 @@ Looking for programmatic, and regularly updated data about our projects? You can
 <ul class="list-group">
 <li class="list-group-item"><a href="{{ site.baseurl }}/api/index.json" target="_blank">index (all endpoints)</a></li>
 <li class="list-group-item"><a href="{{ site.baseurl }}/api/commits.json" target="_blank">commits</a></li>
+<li class="list-group-item"><a href="{{ site.baseurl }}/api/commits-history.json" target="_blank">commits history (weekly, since 2021)</a></li>
 <li class="list-group-item"><a href="{{ site.baseurl }}/api/languages.json" target="_blank">languages</a></li>
 <li class="list-group-item"><a href="{{ site.baseurl }}/api/releases.json" target="_blank">releases</a></li>
 <li class="list-group-item"><a href="{{ site.baseurl }}/api/repos-metadata.json" target="_blank">repository metadata</a></li>

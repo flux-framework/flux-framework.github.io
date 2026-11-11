@@ -10,4 +10,5 @@ permalink: /api/index.json
  "stars": "{{ site.url }}{{ site.baseurl }}/api/stars.json",
  "topics": "{{ site.url }}{{ site.baseurl }}/api/topics.json",
  "commits": "{{ site.url }}{{ site.baseurl }}/api/commits.json",
- "lines": "{{ site.url }}{{ site.baseurl }}/api/lines.json"}
+ "lines": "{{ site.url }}{{ site.baseurl }}/api/lines.json",
+ "commits-history": "{{ site.url }}{{ site.baseurl }}/api/commits-history.json"}
