@@ -127,19 +127,19 @@
     "flux-framework/flux-coral2": {
         "languages": {
             "totalCount": 7,
-            "totalSize": 827345,
+            "totalSize": 911386,
             "nodes": [
                 {
                     "name": "C",
                     "color": "#555555"
                 },
                 {
-                    "name": "Shell",
-                    "color": "#89e051"
-                },
-                {
                     "name": "Python",
                     "color": "#3572A5"
+                },
+                {
+                    "name": "Shell",
+                    "color": "#89e051"
                 },
                 {
                     "name": "M4",
@@ -163,16 +163,16 @@
                     "size": 366776
                 },
                 {
-                    "size": 213402
+                    "size": 269695
                 },
                 {
-                    "size": 192897
+                    "size": 220361
                 },
                 {
-                    "size": 39168
+                    "size": 39326
                 },
                 {
-                    "size": 11501
+                    "size": 11627
                 },
                 {
                     "size": 1832
@@ -186,7 +186,7 @@
     "flux-framework/flux-core": {
         "languages": {
             "totalCount": 17,
-            "totalSize": 16661811,
+            "totalSize": 16664869,
             "nodes": [
                 {
                     "name": "C",
@@ -265,10 +265,10 @@
                     "size": 2609167
                 },
                 {
-                    "size": 2431032
+                    "size": 2433836
                 },
                 {
-                    "size": 183107
+                    "size": 183361
                 },
                 {
                     "size": 171853
