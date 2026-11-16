@@ -1530,6 +1530,11 @@
         "releases": {
             "nodes": [
                 {
+                    "name": "flux-security v0.17.0",
+                    "publishedAt": "2026-11-15T21:33:16Z",
+                    "tagName": "v0.17.0"
+                },
+                {
                     "name": "flux-security v0.16.0",
                     "publishedAt": "2026-10-16T00:49:17Z",
                     "tagName": "v0.16.0"
