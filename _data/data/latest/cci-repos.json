@@ -37,19 +37,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 22
+            "totalCount": 18
         },
         "pullRequests_Closed": {
-            "totalCount": 265
+            "totalCount": 266
         },
         "pullRequests_Merged": {
-            "totalCount": 3724
+            "totalCount": 3728
         },
         "issues_Open": {
-            "totalCount": 671
+            "totalCount": 670
         },
         "issues_Closed": {
-            "totalCount": 3118
+            "totalCount": 3119
         },
         "stargazers": {
             "totalCount": 218
@@ -149,19 +149,19 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 13
+            "totalCount": 11
         },
         "pullRequests_Closed": {
             "totalCount": 42
         },
         "pullRequests_Merged": {
-            "totalCount": 592
+            "totalCount": 594
         },
         "issues_Open": {
-            "totalCount": 40
+            "totalCount": 38
         },
         "issues_Closed": {
-            "totalCount": 334
+            "totalCount": 336
         },
         "stargazers": {
             "totalCount": 7
