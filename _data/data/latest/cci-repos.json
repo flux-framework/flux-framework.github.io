@@ -19,7 +19,7 @@
             "spdxId": "LGPL-3.0",
             "url": "http://choosealicense.com/licenses/lgpl-3.0/"
         },
-        "stargazerCount": 218,
+        "stargazerCount": 219,
         "mentionableUsers": {
             "totalCount": 31
         },
@@ -37,7 +37,7 @@
         },
         "parent": null,
         "pullRequests_Open": {
-            "totalCount": 18
+            "totalCount": 19
         },
         "pullRequests_Closed": {
             "totalCount": 266
@@ -52,7 +52,7 @@
             "totalCount": 3119
         },
         "stargazers": {
-            "totalCount": 218
+            "totalCount": 219
         }
     },
     "flux-framework/flux-sched": {
@@ -155,13 +155,13 @@
             "totalCount": 42
         },
         "pullRequests_Merged": {
-            "totalCount": 596
+            "totalCount": 597
         },
         "issues_Open": {
-            "totalCount": 39
+            "totalCount": 38
         },
         "issues_Closed": {
-            "totalCount": 337
+            "totalCount": 338
         },
         "stargazers": {
             "totalCount": 7
